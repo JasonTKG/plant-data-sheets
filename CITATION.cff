@@ -9,6 +9,7 @@ authors:
 url: "https://plant-data-sheets.at01.io/"
 repository: "https://github.com/JasonTKG/plant-data-sheets"
 license: CC0-1.0
+doi: "10.5281/zenodo.24496790"
 version: "2026.11.24.1"
 date-released: "2026-11-24"
 keywords:

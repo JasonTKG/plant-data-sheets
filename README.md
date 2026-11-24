@@ -2,6 +2,8 @@
 
 **Site: [plant-data-sheets.at01.io](https://plant-data-sheets.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/plant-data-sheets/releases/latest)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24496790](https://doi.org/10.5281/zenodo.24496790) · also on [Kaggle](https://www.kaggle.com/datasets/jasontkg/usda-plants-characteristics-534-plants) and [Hugging Face](https://huggingface.co/datasets/lakerguy16/plant-data-sheets)
+
 One row per plant for the 534 plants that Plant Data Sheets has a data sheet for: names, native status, the conservation plant characteristics PLANTS records (83 fields) and counts of the states and counties where PLANTS records the plant.
 
 ## Files
