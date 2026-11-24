@@ -1,8 +1,8 @@
 # USDA PLANTS characteristics for 534 plants, one row per plant
 
-One row per plant for the 534 plants that Plant Data Sheets has a data sheet for: names, native status, the conservation plant characteristics PLANTS records (83 fields) and counts of the states and counties where PLANTS records the plant.
+**Site: [plant-data-sheets.at01.io](https://plant-data-sheets.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/plant-data-sheets/releases/latest)
 
-Site: https://plant-data-sheets.at01.io/
+One row per plant for the 534 plants that Plant Data Sheets has a data sheet for: names, native status, the conservation plant characteristics PLANTS records (83 fields) and counts of the states and counties where PLANTS records the plant.
 
 ## Files
 

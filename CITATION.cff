@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "USDA PLANTS characteristics for 534 plants, one row per plant"
+abstract: "One row per plant for the 534 plants that Plant Data Sheets has a data sheet for: names, native status, the conservation plant characteristics PLANTS records (83 fields) and counts of the states and counties where PLANTS records the plant."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://plant-data-sheets.at01.io/"
+repository: "https://github.com/JasonTKG/plant-data-sheets"
+license: CC0-1.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "plants"
+  - "usda"
+  - "botany"
+  - "native-plants"
+  - "hardiness-zones"
+  - "csv"
