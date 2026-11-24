@@ -1,0 +1,34 @@
+{
+ "title": "USDA PLANTS characteristics for 534 plants, one row per plant",
+ "description": "Conservation plant characteristics, native status and distribution counts for 534 plants from the USDA PLANTS Database, with the hardiness zone band of each plant's minimum temperature.<br><br>Site built on this data: https://plant-data-sheets.at01.io/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/plant-data-sheets<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-zero",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "plants",
+  "usda",
+  "botany",
+  "native-plants",
+  "hardiness-zones",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://plant-data-sheets.at01.io/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/plant-data-sheets",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
