@@ -1,0 +1,10313 @@
+symbol,state,counties_recorded
+ABBA,Connecticut,0
+ABBA,Indiana,0
+ABBA,Iowa,0
+ABBA,Maine,16
+ABBA,Maryland,1
+ABBA,Massachusetts,8
+ABBA,Michigan,38
+ABBA,Minnesota,25
+ABBA,New Hampshire,10
+ABBA,New Jersey,2
+ABBA,New York,28
+ABBA,Ohio,0
+ABBA,Pennsylvania,15
+ABBA,Rhode Island,1
+ABBA,Vermont,13
+ABBA,Virginia,2
+ABBA,West Virginia,4
+ABBA,Wisconsin,41
+ABCO,Arizona,9
+ABCO,Colorado,13
+ABCO,Idaho,5
+ABCO,Maine,0
+ABCO,Massachusetts,1
+ABCO,Nevada,5
+ABCO,New Mexico,17
+ABCO,Oregon,0
+ABCO,Utah,27
+ABCO,Wyoming,1
+ABFR,Georgia,1
+ABFR,North Carolina,9
+ABFR,Tennessee,2
+ABFR,Virginia,2
+ABGR4,Florida,1
+ABGR4,North Carolina,0
+ABLA,Alaska,2
+ABLA,Arizona,4
+ABLA,California,1
+ABLA,Colorado,21
+ABLA,Idaho,22
+ABLA,Montana,5
+ABLA,Nevada,4
+ABLA,New Mexico,14
+ABLA,Oregon,17
+ABLA,Utah,27
+ABLA,Washington,22
+ABLA,Wyoming,16
+ACCA4,Alabama,3
+ACCA4,Arkansas,13
+ACCA4,California,2
+ACCA4,Colorado,2
+ACCA4,Connecticut,0
+ACCA4,Delaware,1
+ACCA4,District of Columbia,1
+ACCA4,Georgia,1
+ACCA4,Illinois,61
+ACCA4,Indiana,36
+ACCA4,Iowa,4
+ACCA4,Kansas,17
+ACCA4,Kentucky,45
+ACCA4,Louisiana,8
+ACCA4,Maine,16
+ACCA4,Maryland,0
+ACCA4,Massachusetts,14
+ACCA4,Michigan,0
+ACCA4,Minnesota,28
+ACCA4,Mississippi,3
+ACCA4,Missouri,35
+ACCA4,Nebraska,3
+ACCA4,New Hampshire,0
+ACCA4,New Jersey,21
+ACCA4,New York,11
+ACCA4,North Carolina,28
+ACCA4,Ohio,32
+ACCA4,Oklahoma,2
+ACCA4,Oregon,3
+ACCA4,Pennsylvania,51
+ACCA4,Rhode Island,4
+ACCA4,South Carolina,1
+ACCA4,South Dakota,3
+ACCA4,Tennessee,19
+ACCA4,Texas,1
+ACCA4,Vermont,10
+ACCA4,Virginia,64
+ACCA4,Washington,0
+ACCA4,West Virginia,22
+ACCA4,Wisconsin,54
+ACCO4,Arizona,8
+ACCO4,California,26
+ACCO4,Colorado,29
+ACCO4,Idaho,22
+ACCO4,Iowa,0
+ACCO4,Montana,5
+ACCO4,Nevada,10
+ACCO4,New Mexico,12
+ACCO4,Oregon,21
+ACCO4,South Dakota,3
+ACCO4,Utah,28
+ACCO4,Washington,14
+ACCO4,Wyoming,14
+ACGI,Connecticut,0
+ACGI,Illinois,4
+ACGI,Iowa,0
+ACGI,Kentucky,2
+ACGI,Maine,3
+ACGI,Massachusetts,6
+ACGI,Michigan,0
+ACGI,Minnesota,3
+ACGI,New Hampshire,3
+ACGI,New Jersey,4
+ACGI,New York,7
+ACGI,North Dakota,0
+ACGI,Ohio,0
+ACGI,Pennsylvania,8
+ACGI,Vermont,1
+ACGI,Wisconsin,5
+ACGL,Alaska,4
+ACGL,Arizona,6
+ACGL,California,28
+ACGL,Colorado,35
+ACGL,Idaho,31
+ACGL,Montana,24
+ACGL,Nebraska,1
+ACGL,Nevada,13
+ACGL,New Mexico,22
+ACGL,Oregon,23
+ACGL,South Dakota,0
+ACGL,Utah,29
+ACGL,Washington,26
+ACGL,Wyoming,17
+ACGR3,Arizona,10
+ACGR3,Colorado,1
+ACGR3,Idaho,10
+ACGR3,Montana,1
+ACGR3,Nevada,1
+ACGR3,New Mexico,9
+ACGR3,Texas,10
+ACGR3,Utah,26
+ACGR3,Washington,0
+ACGR3,Wyoming,2
+ACKO,Hawaii,4
+ACME,California,13
+ACME,Hawaii,2
+ACMI2,Alabama,8
+ACMI2,Alaska,23
+ACMI2,Arizona,9
+ACMI2,Arkansas,59
+ACMI2,California,54
+ACMI2,Colorado,41
+ACMI2,Connecticut,0
+ACMI2,Delaware,1
+ACMI2,District of Columbia,1
+ACMI2,Florida,11
+ACMI2,Georgia,15
+ACMI2,Hawaii,1
+ACMI2,Idaho,37
+ACMI2,Illinois,102
+ACMI2,Indiana,87
+ACMI2,Iowa,24
+ACMI2,Kansas,91
+ACMI2,Kentucky,77
+ACMI2,Louisiana,32
+ACMI2,Maine,16
+ACMI2,Maryland,0
+ACMI2,Massachusetts,14
+ACMI2,Michigan,79
+ACMI2,Minnesota,80
+ACMI2,Mississippi,1
+ACMI2,Missouri,110
+ACMI2,Montana,55
+ACMI2,Nebraska,43
+ACMI2,Nevada,17
+ACMI2,New Hampshire,10
+ACMI2,New Jersey,19
+ACMI2,New Mexico,26
+ACMI2,New York,37
+ACMI2,North Carolina,88
+ACMI2,North Dakota,49
+ACMI2,Ohio,79
+ACMI2,Oklahoma,51
+ACMI2,Oregon,35
+ACMI2,Pennsylvania,67
+ACMI2,Rhode Island,5
+ACMI2,South Carolina,30
+ACMI2,South Dakota,40
+ACMI2,Tennessee,45
+ACMI2,Texas,63
+ACMI2,Utah,29
+ACMI2,Vermont,14
+ACMI2,Virginia,100
+ACMI2,Washington,39
+ACMI2,West Virginia,0
+ACMI2,Wisconsin,71
+ACMI2,Wyoming,22
+ACNE2,Alabama,51
+ACNE2,Arizona,12
+ACNE2,Arkansas,75
+ACNE2,California,36
+ACNE2,Colorado,19
+ACNE2,Connecticut,0
+ACNE2,Delaware,2
+ACNE2,District of Columbia,1
+ACNE2,Florida,20
+ACNE2,Georgia,21
+ACNE2,Idaho,23
+ACNE2,Illinois,102
+ACNE2,Indiana,71
+ACNE2,Iowa,19
+ACNE2,Kansas,87
+ACNE2,Kentucky,116
+ACNE2,Louisiana,56
+ACNE2,Maine,9
+ACNE2,Maryland,1
+ACNE2,Massachusetts,13
+ACNE2,Michigan,48
+ACNE2,Minnesota,71
+ACNE2,Mississippi,40
+ACNE2,Missouri,108
+ACNE2,Montana,24
+ACNE2,Nebraska,37
+ACNE2,Nevada,3
+ACNE2,New Hampshire,7
+ACNE2,New Jersey,16
+ACNE2,New Mexico,16
+ACNE2,New York,31
+ACNE2,North Carolina,40
+ACNE2,North Dakota,33
+ACNE2,Ohio,88
+ACNE2,Oklahoma,63
+ACNE2,Oregon,13
+ACNE2,Pennsylvania,54
+ACNE2,Rhode Island,3
+ACNE2,South Carolina,20
+ACNE2,South Dakota,22
+ACNE2,Tennessee,48
+ACNE2,Texas,58
+ACNE2,Utah,27
+ACNE2,Vermont,11
+ACNE2,Virginia,91
+ACNE2,Washington,8
+ACNE2,West Virginia,41
+ACNE2,Wisconsin,57
+ACNE2,Wyoming,16
+ACPL,Connecticut,0
+ACPL,Delaware,1
+ACPL,District of Columbia,1
+ACPL,Idaho,7
+ACPL,Illinois,9
+ACPL,Indiana,0
+ACPL,Kentucky,10
+ACPL,Maine,3
+ACPL,Maryland,0
+ACPL,Massachusetts,14
+ACPL,Michigan,12
+ACPL,Minnesota,0
+ACPL,Montana,7
+ACPL,New Hampshire,3
+ACPL,New Jersey,14
+ACPL,New York,24
+ACPL,North Carolina,0
+ACPL,Ohio,13
+ACPL,Oregon,8
+ACPL,Pennsylvania,33
+ACPL,Rhode Island,3
+ACPL,Tennessee,4
+ACPL,Vermont,1
+ACPL,Virginia,23
+ACPL,Washington,3
+ACPL,West Virginia,8
+ACPL,Wisconsin,10
+ACRU,Alabama,66
+ACRU,Arkansas,75
+ACRU,Connecticut,0
+ACRU,Delaware,1
+ACRU,District of Columbia,1
+ACRU,Florida,58
+ACRU,Georgia,67
+ACRU,Illinois,39
+ACRU,Indiana,68
+ACRU,Iowa,0
+ACRU,Kentucky,95
+ACRU,Louisiana,64
+ACRU,Maine,16
+ACRU,Maryland,0
+ACRU,Massachusetts,14
+ACRU,Michigan,74
+ACRU,Minnesota,33
+ACRU,Mississippi,75
+ACRU,Missouri,51
+ACRU,New Hampshire,10
+ACRU,New Jersey,20
+ACRU,New York,38
+ACRU,North Carolina,85
+ACRU,Ohio,87
+ACRU,Oklahoma,16
+ACRU,Oregon,1
+ACRU,Pennsylvania,67
+ACRU,Rhode Island,5
+ACRU,South Carolina,35
+ACRU,Tennessee,64
+ACRU,Texas,29
+ACRU,Vermont,11
+ACRU,Virginia,100
+ACRU,West Virginia,51
+ACRU,Wisconsin,57
+ACSA2,Alabama,25
+ACSA2,Arkansas,70
+ACSA2,California,3
+ACSA2,Connecticut,0
+ACSA2,Delaware,1
+ACSA2,District of Columbia,1
+ACSA2,Florida,6
+ACSA2,Georgia,10
+ACSA2,Illinois,102
+ACSA2,Indiana,64
+ACSA2,Iowa,18
+ACSA2,Kansas,57
+ACSA2,Kentucky,115
+ACSA2,Louisiana,26
+ACSA2,Maine,12
+ACSA2,Maryland,0
+ACSA2,Massachusetts,13
+ACSA2,Michigan,47
+ACSA2,Minnesota,46
+ACSA2,Mississippi,37
+ACSA2,Missouri,113
+ACSA2,Nebraska,19
+ACSA2,New Hampshire,8
+ACSA2,New Jersey,14
+ACSA2,New Mexico,1
+ACSA2,New York,29
+ACSA2,North Carolina,17
+ACSA2,North Dakota,0
+ACSA2,Ohio,82
+ACSA2,Oklahoma,45
+ACSA2,Pennsylvania,57
+ACSA2,Rhode Island,2
+ACSA2,South Carolina,6
+ACSA2,South Dakota,10
+ACSA2,Tennessee,40
+ACSA2,Texas,9
+ACSA2,Vermont,11
+ACSA2,Virginia,70
+ACSA2,Washington,6
+ACSA2,West Virginia,40
+ACSA2,Wisconsin,45
+ACSA3,Alabama,25
+ACSA3,Arkansas,21
+ACSA3,Connecticut,0
+ACSA3,Delaware,1
+ACSA3,Georgia,13
+ACSA3,Illinois,95
+ACSA3,Indiana,82
+ACSA3,Iowa,1
+ACSA3,Kansas,14
+ACSA3,Kentucky,120
+ACSA3,Louisiana,23
+ACSA3,Maine,15
+ACSA3,Maryland,0
+ACSA3,Massachusetts,12
+ACSA3,Michigan,72
+ACSA3,Minnesota,48
+ACSA3,Mississippi,7
+ACSA3,Missouri,94
+ACSA3,New Hampshire,10
+ACSA3,New Jersey,13
+ACSA3,New York,36
+ACSA3,North Carolina,17
+ACSA3,North Dakota,0
+ACSA3,Ohio,87
+ACSA3,Oklahoma,22
+ACSA3,Pennsylvania,66
+ACSA3,Rhode Island,1
+ACSA3,South Dakota,5
+ACSA3,Tennessee,64
+ACSA3,Vermont,12
+ACSA3,Virginia,48
+ACSA3,West Virginia,52
+ACSA3,Wisconsin,55
+AEGL,Alabama,7
+AEGL,Arkansas,31
+AEGL,Georgia,1
+AEGL,Illinois,65
+AEGL,Indiana,62
+AEGL,Iowa,6
+AEGL,Kansas,46
+AEGL,Kentucky,78
+AEGL,Maine,0
+AEGL,Michigan,10
+AEGL,Minnesota,1
+AEGL,Mississippi,3
+AEGL,Missouri,97
+AEGL,Nebraska,3
+AEGL,New Hampshire,1
+AEGL,New Jersey,3
+AEGL,New York,9
+AEGL,Ohio,80
+AEGL,Oklahoma,19
+AEGL,Pennsylvania,17
+AEGL,Tennessee,32
+AEGL,Texas,18
+AEGL,Virginia,1
+AEGL,West Virginia,7
+AEGL,Wisconsin,11
+AEPA,Alabama,59
+AEPA,Arkansas,60
+AEPA,Florida,34
+AEPA,Georgia,56
+AEPA,Illinois,7
+AEPA,Indiana,1
+AEPA,Kentucky,13
+AEPA,Louisiana,46
+AEPA,Mississippi,41
+AEPA,Missouri,12
+AEPA,North Carolina,14
+AEPA,Ohio,1
+AEPA,Oklahoma,0
+AEPA,South Carolina,23
+AEPA,Tennessee,28
+AEPA,Texas,44
+AEPA,Virginia,0
+AEPA,West Virginia,2
+AGCA4,Connecticut,0
+AGCA4,Delaware,0
+AGCA4,Hawaii,0
+AGCA4,Maine,3
+AGCA4,Maryland,0
+AGCA4,Massachusetts,6
+AGCA4,Michigan,1
+AGCA4,Minnesota,0
+AGCA4,New Hampshire,2
+AGCA4,New Jersey,2
+AGCA4,New York,8
+AGCA4,Oregon,2
+AGCA4,Pennsylvania,3
+AGCA4,Rhode Island,1
+AGCA4,Tennessee,0
+AGCA4,Vermont,0
+AGCA4,West Virginia,2
+AGUR,California,31
+AGUR,Colorado,9
+AGUR,Idaho,32
+AGUR,Montana,11
+AGUR,Nevada,12
+AGUR,Oregon,18
+AGUR,Utah,22
+AGUR,Washington,14
+AGUR,Wyoming,7
+AIAL,Alabama,21
+AIAL,Arizona,9
+AIAL,Arkansas,34
+AIAL,California,35
+AIAL,Colorado,3
+AIAL,Connecticut,0
+AIAL,Delaware,1
+AIAL,District of Columbia,1
+AIAL,Florida,4
+AIAL,Georgia,14
+AIAL,Hawaii,0
+AIAL,Idaho,6
+AIAL,Illinois,67
+AIAL,Indiana,19
+AIAL,Iowa,1
+AIAL,Kansas,25
+AIAL,Kentucky,54
+AIAL,Louisiana,16
+AIAL,Maine,0
+AIAL,Maryland,8
+AIAL,Massachusetts,13
+AIAL,Michigan,17
+AIAL,Mississippi,3
+AIAL,Missouri,20
+AIAL,Nebraska,6
+AIAL,Nevada,3
+AIAL,New Jersey,17
+AIAL,New Mexico,9
+AIAL,New York,23
+AIAL,North Carolina,32
+AIAL,Ohio,88
+AIAL,Oklahoma,3
+AIAL,Oregon,13
+AIAL,Pennsylvania,36
+AIAL,Rhode Island,4
+AIAL,South Carolina,15
+AIAL,Tennessee,23
+AIAL,Texas,8
+AIAL,Utah,9
+AIAL,Virginia,94
+AIAL,Washington,7
+AIAL,West Virginia,29
+AIAL,Wisconsin,5
+ALAC4,Arizona,8
+ALAC4,California,9
+ALAC4,Colorado,13
+ALAC4,Idaho,31
+ALAC4,Montana,4
+ALAC4,Nevada,6
+ALAC4,New Mexico,3
+ALAC4,Oregon,28
+ALAC4,Utah,24
+ALAC4,Washington,21
+ALAC4,Wyoming,7
+ALGL2,Connecticut,0
+ALGL2,Delaware,0
+ALGL2,District of Columbia,1
+ALGL2,Illinois,8
+ALGL2,Indiana,0
+ALGL2,Iowa,0
+ALGL2,Kansas,0
+ALGL2,Kentucky,9
+ALGL2,Massachusetts,4
+ALGL2,Michigan,2
+ALGL2,Minnesota,0
+ALGL2,Mississippi,1
+ALGL2,Missouri,0
+ALGL2,New Jersey,9
+ALGL2,New York,15
+ALGL2,Ohio,14
+ALGL2,Pennsylvania,7
+ALGL2,Tennessee,1
+ALGL2,Vermont,0
+ALGL2,Virginia,2
+ALGL2,Wisconsin,5
+ALIN2,Alaska,16
+ALIN2,Arizona,8
+ALIN2,California,27
+ALIN2,Colorado,30
+ALIN2,Connecticut,0
+ALIN2,Idaho,31
+ALIN2,Illinois,6
+ALIN2,Indiana,21
+ALIN2,Iowa,0
+ALIN2,Maine,16
+ALIN2,Maryland,0
+ALIN2,Massachusetts,14
+ALIN2,Michigan,71
+ALIN2,Minnesota,42
+ALIN2,Montana,10
+ALIN2,Nevada,7
+ALIN2,New Hampshire,10
+ALIN2,New Jersey,12
+ALIN2,New Mexico,12
+ALIN2,New York,42
+ALIN2,North Dakota,7
+ALIN2,Ohio,19
+ALIN2,Oregon,25
+ALIN2,Pennsylvania,49
+ALIN2,Rhode Island,3
+ALIN2,Utah,17
+ALIN2,Vermont,13
+ALIN2,Virginia,4
+ALIN2,Washington,18
+ALIN2,West Virginia,6
+ALIN2,Wisconsin,64
+ALIN2,Wyoming,8
+ALJU,Alabama,55
+ALJU,Arizona,1
+ALJU,Arkansas,40
+ALJU,California,1
+ALJU,Connecticut,0
+ALJU,Delaware,0
+ALJU,District of Columbia,1
+ALJU,Florida,16
+ALJU,Georgia,16
+ALJU,Illinois,33
+ALJU,Indiana,1
+ALJU,Kentucky,34
+ALJU,Louisiana,48
+ALJU,Maryland,0
+ALJU,Massachusetts,0
+ALJU,Mississippi,34
+ALJU,Missouri,0
+ALJU,New Jersey,12
+ALJU,New Mexico,3
+ALJU,New York,10
+ALJU,North Carolina,32
+ALJU,Ohio,1
+ALJU,Oklahoma,0
+ALJU,Pennsylvania,3
+ALJU,South Carolina,25
+ALJU,Tennessee,23
+ALJU,Texas,34
+ALJU,Utah,3
+ALJU,Virginia,76
+ALJU,West Virginia,8
+ALMA7,Delaware,1
+ALMA7,Georgia,0
+ALMA7,Maryland,4
+ALMA7,Oklahoma,2
+ALRH2,California,51
+ALRH2,Idaho,7
+ALRH2,Montana,0
+ALRH2,Nevada,1
+ALRH2,Oregon,23
+ALRH2,Washington,10
+ALRU2,Alaska,4
+ALRU2,California,11
+ALRU2,Idaho,10
+ALRU2,Montana,0
+ALRU2,Oregon,21
+ALRU2,Washington,21
+ALSE2,Alabama,65
+ALSE2,Arkansas,55
+ALSE2,Connecticut,0
+ALSE2,Delaware,2
+ALSE2,District of Columbia,1
+ALSE2,Florida,21
+ALSE2,Georgia,46
+ALSE2,Illinois,10
+ALSE2,Indiana,1
+ALSE2,Kansas,1
+ALSE2,Kentucky,72
+ALSE2,Louisiana,23
+ALSE2,Maine,9
+ALSE2,Maryland,1
+ALSE2,Massachusetts,13
+ALSE2,Mississippi,36
+ALSE2,Missouri,47
+ALSE2,New Hampshire,8
+ALSE2,New Jersey,21
+ALSE2,New York,27
+ALSE2,North Carolina,81
+ALSE2,Ohio,42
+ALSE2,Oklahoma,0
+ALSE2,Pennsylvania,58
+ALSE2,Rhode Island,5
+ALSE2,South Carolina,28
+ALSE2,Tennessee,55
+ALSE2,Texas,22
+ALSE2,Vermont,4
+ALSE2,Virginia,100
+ALSE2,West Virginia,31
+ALTE,Colorado,31
+ALTE,Idaho,14
+ALTE,Iowa,0
+ALTE,Kansas,6
+ALTE,Minnesota,14
+ALTE,Montana,41
+ALTE,Nebraska,20
+ALTE,Nevada,1
+ALTE,New Mexico,7
+ALTE,North Dakota,41
+ALTE,South Dakota,30
+ALTE,Utah,8
+ALTE,Washington,1
+ALTE,Wyoming,20
+ALVA,California,26
+ALVA,Idaho,5
+ALVA,Nevada,6
+ALVA,Oregon,18
+ALVA,Washington,3
+ALVIC,Maine,15
+ALVIC,Massachusetts,3
+ALVIC,Michigan,9
+ALVIC,Minnesota,12
+ALVIC,New Hampshire,8
+ALVIC,New York,7
+ALVIC,North Carolina,1
+ALVIC,Pennsylvania,2
+ALVIC,Tennessee,1
+ALVIC,Vermont,8
+ALVIC,Wisconsin,13
+ALVIS,Alaska,16
+ALVIS,California,5
+ALVIS,Idaho,19
+ALVIS,Montana,12
+ALVIS,Oregon,23
+ALVIS,Washington,27
+ALVIS,Wyoming,3
+AMAL2,Alaska,11
+AMAL2,California,39
+AMAL2,Colorado,36
+AMAL2,Idaho,30
+AMAL2,Iowa,0
+AMAL2,Minnesota,32
+AMAL2,Montana,33
+AMAL2,Nebraska,12
+AMAL2,Nevada,10
+AMAL2,New Mexico,7
+AMAL2,North Dakota,44
+AMAL2,Oregon,36
+AMAL2,South Dakota,20
+AMAL2,Utah,29
+AMAL2,Washington,39
+AMAL2,Wyoming,19
+AMAR3,Alabama,57
+AMAR3,Arkansas,56
+AMAR3,Connecticut,0
+AMAR3,Delaware,1
+AMAR3,District of Columbia,1
+AMAR3,Florida,11
+AMAR3,Georgia,45
+AMAR3,Illinois,67
+AMAR3,Indiana,34
+AMAR3,Iowa,6
+AMAR3,Kansas,11
+AMAR3,Kentucky,100
+AMAR3,Louisiana,25
+AMAR3,Maine,16
+AMAR3,Maryland,0
+AMAR3,Massachusetts,14
+AMAR3,Michigan,58
+AMAR3,Minnesota,10
+AMAR3,Mississippi,22
+AMAR3,Missouri,97
+AMAR3,Nebraska,6
+AMAR3,New Hampshire,10
+AMAR3,New Jersey,19
+AMAR3,New York,43
+AMAR3,North Carolina,53
+AMAR3,Ohio,71
+AMAR3,Oklahoma,15
+AMAR3,Pennsylvania,64
+AMAR3,Rhode Island,5
+AMAR3,South Carolina,15
+AMAR3,Tennessee,62
+AMAR3,Texas,0
+AMAR3,Vermont,14
+AMAR3,Virginia,97
+AMAR3,West Virginia,53
+AMAR3,Wisconsin,31
+AMAR4,California,12
+AMAR4,Hawaii,0
+AMAR4,Maryland,0
+AMAR4,Oregon,8
+AMAR4,Pennsylvania,1
+AMAR4,Washington,4
+AMBR,California,2
+AMBR,Connecticut,0
+AMBR,Delaware,1
+AMBR,Illinois,2
+AMBR,Indiana,3
+AMBR,Maine,10
+AMBR,Maryland,0
+AMBR,Massachusetts,11
+AMBR,Michigan,32
+AMBR,Minnesota,1
+AMBR,New Hampshire,1
+AMBR,New Jersey,8
+AMBR,New York,16
+AMBR,North Carolina,4
+AMBR,Ohio,3
+AMBR,Oregon,1
+AMBR,Pennsylvania,3
+AMBR,Rhode Island,2
+AMBR,South Carolina,0
+AMBR,Vermont,4
+AMBR,Virginia,14
+AMBR,Washington,1
+AMBR,Wisconsin,11
+AMCA4,Alabama,4
+AMCA4,Connecticut,0
+AMCA4,Delaware,3
+AMCA4,District of Columbia,1
+AMCA4,Georgia,0
+AMCA4,Maine,14
+AMCA4,Maryland,0
+AMCA4,Massachusetts,14
+AMCA4,Mississippi,0
+AMCA4,New Hampshire,6
+AMCA4,New Jersey,21
+AMCA4,New York,29
+AMCA4,North Carolina,36
+AMCA4,Pennsylvania,6
+AMCA4,Rhode Island,5
+AMCA4,South Carolina,14
+AMCA4,Tennessee,11
+AMCA4,Virginia,44
+AMCA4,West Virginia,0
+AMLA,Alabama,0
+AMLA,Connecticut,0
+AMLA,Delaware,1
+AMLA,District of Columbia,1
+AMLA,Georgia,0
+AMLA,Illinois,16
+AMLA,Indiana,30
+AMLA,Iowa,0
+AMLA,Kentucky,15
+AMLA,Maine,0
+AMLA,Maryland,0
+AMLA,Massachusetts,14
+AMLA,Michigan,57
+AMLA,Minnesota,31
+AMLA,New Hampshire,0
+AMLA,New Jersey,14
+AMLA,New York,38
+AMLA,North Carolina,16
+AMLA,Ohio,17
+AMLA,Pennsylvania,59
+AMLA,Rhode Island,0
+AMLA,South Carolina,1
+AMLA,Tennessee,23
+AMLA,Vermont,0
+AMLA,Virginia,1
+AMLA,Washington,1
+AMLA,West Virginia,13
+AMLA,Wisconsin,54
+AMOB2,Alabama,0
+AMOB2,Delaware,1
+AMOB2,Georgia,2
+AMOB2,Maryland,0
+AMOB2,Massachusetts,1
+AMOB2,New Jersey,8
+AMOB2,New York,1
+AMOB2,North Carolina,24
+AMOB2,Pennsylvania,4
+AMOB2,South Carolina,18
+AMOB2,Virginia,17
+AMSA,Connecticut,0
+AMSA,Georgia,0
+AMSA,Illinois,1
+AMSA,Indiana,0
+AMSA,Iowa,2
+AMSA,Kentucky,2
+AMSA,Maine,14
+AMSA,Maryland,1
+AMSA,Massachusetts,5
+AMSA,Michigan,39
+AMSA,Minnesota,63
+AMSA,New Hampshire,8
+AMSA,New Jersey,3
+AMSA,New York,28
+AMSA,North Carolina,1
+AMSA,North Dakota,31
+AMSA,Ohio,8
+AMSA,Pennsylvania,8
+AMSA,Tennessee,7
+AMSA,Vermont,11
+AMSA,Virginia,16
+AMSA,West Virginia,6
+AMSA,Wisconsin,45
+AMUT,Arizona,9
+AMUT,California,44
+AMUT,Colorado,21
+AMUT,Idaho,20
+AMUT,Montana,2
+AMUT,Nevada,17
+AMUT,New Mexico,14
+AMUT,Oregon,10
+AMUT,Texas,1
+AMUT,Utah,29
+AMUT,Washington,3
+AMUT,Wyoming,9
+ANCO30,Florida,0
+ANGL2,Alabama,2
+ANGL2,Arizona,7
+ANGL2,Arkansas,16
+ANGL2,California,13
+ANGL2,Delaware,3
+ANGL2,District of Columbia,1
+ANGL2,Florida,62
+ANGL2,Georgia,35
+ANGL2,Hawaii,0
+ANGL2,Illinois,0
+ANGL2,Kentucky,14
+ANGL2,Louisiana,59
+ANGL2,Maryland,1
+ANGL2,Massachusetts,5
+ANGL2,Mississippi,19
+ANGL2,Nevada,1
+ANGL2,New Jersey,5
+ANGL2,New Mexico,4
+ANGL2,New York,5
+ANGL2,North Carolina,0
+ANGL2,Ohio,0
+ANGL2,Oklahoma,4
+ANGL2,Pennsylvania,9
+ANGL2,Rhode Island,0
+ANGL2,South Carolina,0
+ANGL2,Tennessee,18
+ANGL2,Texas,99
+ANGL2,Utah,3
+ANGL2,Virginia,40
+ANGL2,West Virginia,7
+ANMU,Alaska,12
+ANMU,Arizona,1
+ANMU,California,1
+ANMU,Colorado,33
+ANMU,Idaho,8
+ANMU,Maine,1
+ANMU,Michigan,15
+ANMU,Minnesota,1
+ANMU,Montana,28
+ANMU,Nebraska,2
+ANMU,Nevada,3
+ANMU,New Mexico,3
+ANMU,New York,1
+ANMU,North Dakota,6
+ANMU,Oregon,8
+ANMU,South Dakota,4
+ANMU,Utah,23
+ANMU,Vermont,2
+ANMU,Washington,9
+ANMU,Wisconsin,2
+ANMU,Wyoming,17
+ANTH2,Arizona,13
+ANTH2,New Mexico,3
+AQCO,Arizona,3
+AQCO,Colorado,37
+AQCO,Idaho,0
+AQCO,Montana,2
+AQCO,Nevada,4
+AQCO,New Mexico,8
+AQCO,South Dakota,0
+AQCO,Utah,29
+AQCO,Wyoming,11
+ARAR2,Arizona,4
+ARAR2,New Mexico,1
+ARAR7,Alabama,32
+ARAR7,Arkansas,20
+ARAR7,Connecticut,0
+ARAR7,Delaware,2
+ARAR7,District of Columbia,1
+ARAR7,Florida,50
+ARAR7,Georgia,55
+ARAR7,Kentucky,11
+ARAR7,Louisiana,27
+ARAR7,Maine,1
+ARAR7,Maryland,1
+ARAR7,Massachusetts,12
+ARAR7,Mississippi,22
+ARAR7,New Hampshire,1
+ARAR7,New Jersey,21
+ARAR7,New York,28
+ARAR7,North Carolina,83
+ARAR7,Oklahoma,0
+ARAR7,Pennsylvania,51
+ARAR7,Rhode Island,3
+ARAR7,South Carolina,36
+ARAR7,Tennessee,35
+ARAR7,Texas,9
+ARAR7,Virginia,85
+ARAR7,West Virginia,0
+ARCO3,California,6
+ARCO3,Oregon,14
+ARCO3,Washington,13
+ARFR4,Alaska,10
+ARFR4,Arizona,3
+ARFR4,Colorado,43
+ARFR4,Connecticut,0
+ARFR4,Idaho,7
+ARFR4,Illinois,1
+ARFR4,Iowa,1
+ARFR4,Kansas,1
+ARFR4,Massachusetts,2
+ARFR4,Michigan,1
+ARFR4,Minnesota,29
+ARFR4,Missouri,2
+ARFR4,Montana,53
+ARFR4,Nebraska,19
+ARFR4,Nevada,4
+ARFR4,New Jersey,1
+ARFR4,New Mexico,22
+ARFR4,New York,1
+ARFR4,North Dakota,45
+ARFR4,Pennsylvania,2
+ARFR4,South Dakota,24
+ARFR4,Texas,0
+ARFR4,Utah,24
+ARFR4,Vermont,0
+ARFR4,Washington,2
+ARFR4,Wisconsin,11
+ARFR4,Wyoming,19
+ARMA6,Alaska,15
+ARMA6,California,11
+ARMA6,Colorado,2
+ARMA6,Oregon,6
+ARMA6,Pennsylvania,0
+ARMA6,Washington,10
+ARME,California,40
+ARME,Oregon,15
+ARME,Washington,16
+ARNE,California,27
+ARNE,Nevada,4
+ARNE,Oregon,23
+ARNE,Washington,12
+ARPA6,Arizona,2
+ARPA6,California,33
+ARPA6,Colorado,5
+ARPA6,Montana,0
+ARPA6,Nevada,6
+ARPA6,New Mexico,1
+ARPA6,Oregon,16
+ARPA6,Utah,22
+ARPA6,Washington,1
+ARPU5,Arizona,11
+ARPU5,California,10
+ARPU5,Nevada,2
+ARPU5,New Mexico,7
+ARPU5,Texas,1
+ARPU5,Utah,3
+ARTR2,Arizona,6
+ARTR2,California,31
+ARTR2,Colorado,25
+ARTR2,Idaho,34
+ARTR2,Massachusetts,1
+ARTR2,Montana,38
+ARTR2,Nebraska,2
+ARTR2,Nevada,17
+ARTR2,New Mexico,13
+ARTR2,North Dakota,5
+ARTR2,Oregon,20
+ARTR2,South Dakota,4
+ARTR2,Utah,29
+ARTR2,Washington,19
+ARTR2,Wyoming,22
+ARUV,Alaska,21
+ARUV,Arizona,1
+ARUV,California,8
+ARUV,Colorado,29
+ARUV,Connecticut,0
+ARUV,Delaware,1
+ARUV,Idaho,19
+ARUV,Illinois,6
+ARUV,Indiana,3
+ARUV,Iowa,0
+ARUV,Maine,15
+ARUV,Maryland,1
+ARUV,Massachusetts,13
+ARUV,Michigan,52
+ARUV,Minnesota,33
+ARUV,Montana,36
+ARUV,Nevada,3
+ARUV,New Hampshire,6
+ARUV,New Jersey,10
+ARUV,New Mexico,11
+ARUV,New York,28
+ARUV,North Dakota,13
+ARUV,Ohio,2
+ARUV,Oregon,18
+ARUV,Pennsylvania,3
+ARUV,Rhode Island,3
+ARUV,South Dakota,6
+ARUV,Utah,11
+ARUV,Vermont,5
+ARUV,Virginia,2
+ARUV,Washington,28
+ARUV,West Virginia,1
+ARUV,Wisconsin,40
+ARUV,Wyoming,16
+ASIN,Alabama,2
+ASIN,Arkansas,5
+ASIN,Colorado,11
+ASIN,Connecticut,0
+ASIN,Delaware,3
+ASIN,District of Columbia,1
+ASIN,Florida,21
+ASIN,Georgia,8
+ASIN,Idaho,7
+ASIN,Illinois,99
+ASIN,Indiana,77
+ASIN,Iowa,28
+ASIN,Kansas,66
+ASIN,Kentucky,68
+ASIN,Louisiana,5
+ASIN,Maine,14
+ASIN,Maryland,0
+ASIN,Massachusetts,14
+ASIN,Michigan,76
+ASIN,Minnesota,76
+ASIN,Missouri,84
+ASIN,Montana,0
+ASIN,Nebraska,54
+ASIN,Nevada,1
+ASIN,New Hampshire,10
+ASIN,New Jersey,21
+ASIN,New Mexico,4
+ASIN,New York,46
+ASIN,North Carolina,60
+ASIN,North Dakota,14
+ASIN,Ohio,86
+ASIN,Oklahoma,12
+ASIN,Pennsylvania,62
+ASIN,Rhode Island,5
+ASIN,South Carolina,7
+ASIN,South Dakota,27
+ASIN,Tennessee,38
+ASIN,Texas,16
+ASIN,Utah,7
+ASIN,Vermont,13
+ASIN,Virginia,95
+ASIN,West Virginia,39
+ASIN,Wisconsin,71
+ASIN,Wyoming,3
+ASSP,Arizona,4
+ASSP,California,28
+ASSP,Colorado,38
+ASSP,Idaho,28
+ASSP,Illinois,1
+ASSP,Iowa,4
+ASSP,Kansas,55
+ASSP,Michigan,1
+ASSP,Minnesota,49
+ASSP,Montana,30
+ASSP,Nebraska,35
+ASSP,Nevada,16
+ASSP,New Mexico,16
+ASSP,North Dakota,36
+ASSP,Oklahoma,11
+ASSP,Oregon,26
+ASSP,South Dakota,26
+ASSP,Texas,7
+ASSP,Utah,29
+ASSP,Washington,18
+ASSP,Wisconsin,1
+ASSP,Wyoming,19
+ASTR,Alabama,40
+ASTR,Arkansas,73
+ASTR,Connecticut,0
+ASTR,Delaware,2
+ASTR,District of Columbia,1
+ASTR,Florida,4
+ASTR,Georgia,36
+ASTR,Illinois,80
+ASTR,Indiana,71
+ASTR,Iowa,2
+ASTR,Kansas,35
+ASTR,Kentucky,111
+ASTR,Louisiana,44
+ASTR,Maryland,0
+ASTR,Michigan,21
+ASTR,Mississippi,31
+ASTR,Missouri,103
+ASTR,Nebraska,4
+ASTR,New Jersey,7
+ASTR,New York,11
+ASTR,North Carolina,48
+ASTR,Ohio,87
+ASTR,Oklahoma,10
+ASTR,Pennsylvania,32
+ASTR,South Carolina,16
+ASTR,Tennessee,74
+ASTR,Texas,12
+ASTR,Virginia,91
+ASTR,West Virginia,47
+ASTR,Wisconsin,0
+ASTU,Alabama,50
+ASTU,Arizona,11
+ASTU,Arkansas,60
+ASTU,California,0
+ASTU,Colorado,6
+ASTU,Connecticut,0
+ASTU,Delaware,3
+ASTU,District of Columbia,1
+ASTU,Florida,55
+ASTU,Georgia,57
+ASTU,Illinois,86
+ASTU,Indiana,65
+ASTU,Iowa,17
+ASTU,Kansas,69
+ASTU,Kentucky,84
+ASTU,Louisiana,34
+ASTU,Maine,1
+ASTU,Maryland,0
+ASTU,Massachusetts,13
+ASTU,Michigan,51
+ASTU,Minnesota,41
+ASTU,Mississippi,45
+ASTU,Missouri,106
+ASTU,Nebraska,23
+ASTU,New Hampshire,3
+ASTU,New Jersey,19
+ASTU,New Mexico,10
+ASTU,New York,30
+ASTU,North Carolina,93
+ASTU,Ohio,73
+ASTU,Oklahoma,60
+ASTU,Pennsylvania,51
+ASTU,Rhode Island,2
+ASTU,South Carolina,44
+ASTU,South Dakota,5
+ASTU,Tennessee,54
+ASTU,Texas,75
+ASTU,Utah,5
+ASTU,Vermont,1
+ASTU,Virginia,100
+ASTU,West Virginia,44
+ASTU,Wisconsin,47
+AVGE,Florida,22
+AVGE,Louisiana,5
+AVGE,Mississippi,1
+AVGE,Texas,7
+BASA4,Arizona,12
+BASA4,California,35
+BASA4,Colorado,0
+BASA4,Nevada,3
+BASA4,New Mexico,6
+BASA4,Texas,15
+BASA4,Utah,4
+BASC5,Arizona,5
+BASC5,California,15
+BASC5,Colorado,31
+BASC5,Connecticut,0
+BASC5,Delaware,0
+BASC5,Idaho,9
+BASC5,Illinois,46
+BASC5,Indiana,4
+BASC5,Iowa,10
+BASC5,Kansas,86
+BASC5,Kentucky,7
+BASC5,Louisiana,6
+BASC5,Maine,3
+BASC5,Massachusetts,10
+BASC5,Michigan,15
+BASC5,Minnesota,23
+BASC5,Mississippi,0
+BASC5,Missouri,21
+BASC5,Montana,49
+BASC5,Nebraska,43
+BASC5,Nevada,8
+BASC5,New Hampshire,2
+BASC5,New Jersey,5
+BASC5,New Mexico,17
+BASC5,New York,27
+BASC5,North Carolina,1
+BASC5,North Dakota,41
+BASC5,Ohio,31
+BASC5,Oklahoma,8
+BASC5,Oregon,12
+BASC5,Pennsylvania,14
+BASC5,Rhode Island,0
+BASC5,South Carolina,0
+BASC5,South Dakota,27
+BASC5,Tennessee,5
+BASC5,Texas,51
+BASC5,Utah,29
+BASC5,Vermont,3
+BASC5,Virginia,24
+BASC5,Washington,27
+BASC5,West Virginia,3
+BASC5,Wisconsin,32
+BASC5,Wyoming,22
+BEAL2,Connecticut,0
+BEAL2,Georgia,3
+BEAL2,Illinois,6
+BEAL2,Indiana,12
+BEAL2,Iowa,0
+BEAL2,Kentucky,20
+BEAL2,Maine,15
+BEAL2,Maryland,0
+BEAL2,Massachusetts,12
+BEAL2,Michigan,67
+BEAL2,Minnesota,26
+BEAL2,New Hampshire,10
+BEAL2,New Jersey,11
+BEAL2,New York,32
+BEAL2,North Carolina,17
+BEAL2,Ohio,24
+BEAL2,Pennsylvania,55
+BEAL2,Rhode Island,4
+BEAL2,South Carolina,0
+BEAL2,Tennessee,15
+BEAL2,Vermont,12
+BEAL2,Virginia,33
+BEAL2,West Virginia,15
+BEAL2,Wisconsin,53
+BEJU4,Alabama,2
+BEJU4,New York,1
+BELE,Alabama,9
+BELE,Connecticut,0
+BELE,Delaware,1
+BELE,Georgia,15
+BELE,Kentucky,35
+BELE,Maine,5
+BELE,Maryland,0
+BELE,Massachusetts,12
+BELE,Mississippi,0
+BELE,New Hampshire,9
+BELE,New Jersey,16
+BELE,New York,32
+BELE,North Carolina,20
+BELE,Ohio,18
+BELE,Pennsylvania,58
+BELE,Rhode Island,2
+BELE,South Carolina,2
+BELE,Tennessee,21
+BELE,Vermont,4
+BELE,Virginia,55
+BELE,West Virginia,39
+BENA,Alaska,19
+BENA,California,0
+BENA,Colorado,19
+BENA,Idaho,0
+BENA,Maine,1
+BENA,Minnesota,1
+BENA,Montana,13
+BENA,New Hampshire,1
+BENA,New York,1
+BENA,Oregon,0
+BENA,South Dakota,0
+BENA,Utah,0
+BENA,Vermont,0
+BENA,Washington,0
+BENA,Wyoming,11
+BENI,Alabama,59
+BENI,Arkansas,70
+BENI,Connecticut,0
+BENI,Delaware,2
+BENI,District of Columbia,1
+BENI,Florida,26
+BENI,Georgia,37
+BENI,Illinois,62
+BENI,Indiana,34
+BENI,Iowa,3
+BENI,Kansas,3
+BENI,Kentucky,82
+BENI,Louisiana,31
+BENI,Maryland,0
+BENI,Massachusetts,6
+BENI,Michigan,0
+BENI,Minnesota,4
+BENI,Mississippi,43
+BENI,Missouri,91
+BENI,New Hampshire,3
+BENI,New Jersey,18
+BENI,New York,12
+BENI,North Carolina,60
+BENI,Ohio,18
+BENI,Oklahoma,14
+BENI,Pennsylvania,38
+BENI,South Carolina,20
+BENI,Tennessee,47
+BENI,Texas,21
+BENI,Vermont,0
+BENI,Virginia,74
+BENI,West Virginia,29
+BENI,Wisconsin,24
+BEOC2,Alaska,5
+BEOC2,Arizona,4
+BEOC2,California,12
+BEOC2,Colorado,21
+BEOC2,Idaho,30
+BEOC2,Montana,19
+BEOC2,Nebraska,1
+BEOC2,Nevada,7
+BEOC2,New Mexico,6
+BEOC2,North Dakota,10
+BEOC2,Oregon,19
+BEOC2,South Dakota,4
+BEOC2,Utah,29
+BEOC2,Washington,18
+BEOC2,Wyoming,19
+BEPA,Alaska,18
+BEPA,Colorado,2
+BEPA,Connecticut,0
+BEPA,Idaho,11
+BEPA,Illinois,6
+BEPA,Indiana,4
+BEPA,Iowa,0
+BEPA,Maine,16
+BEPA,Maryland,0
+BEPA,Massachusetts,14
+BEPA,Michigan,66
+BEPA,Minnesota,52
+BEPA,Montana,7
+BEPA,Nebraska,2
+BEPA,New Hampshire,10
+BEPA,New Jersey,9
+BEPA,New York,35
+BEPA,North Carolina,1
+BEPA,North Dakota,14
+BEPA,Ohio,1
+BEPA,Oregon,3
+BEPA,Pennsylvania,28
+BEPA,Rhode Island,3
+BEPA,South Dakota,6
+BEPA,Tennessee,1
+BEPA,Vermont,12
+BEPA,Virginia,7
+BEPA,Washington,13
+BEPA,West Virginia,4
+BEPA,Wisconsin,66
+BEPA,Wyoming,3
+BEPE3,Colorado,0
+BEPE3,Connecticut,0
+BEPE3,Illinois,0
+BEPE3,Indiana,0
+BEPE3,Iowa,0
+BEPE3,Kentucky,2
+BEPE3,Maine,3
+BEPE3,Massachusetts,7
+BEPE3,Michigan,7
+BEPE3,New Hampshire,0
+BEPE3,New Jersey,4
+BEPE3,New York,9
+BEPE3,North Carolina,2
+BEPE3,Ohio,7
+BEPE3,Oregon,7
+BEPE3,Pennsylvania,6
+BEPE3,Vermont,1
+BEPE3,Virginia,3
+BEPE3,Washington,8
+BEPE3,Wisconsin,6
+BEPO,Connecticut,0
+BEPO,Delaware,1
+BEPO,Illinois,5
+BEPO,Indiana,3
+BEPO,Kentucky,1
+BEPO,Maine,16
+BEPO,Maryland,2
+BEPO,Massachusetts,14
+BEPO,New Hampshire,10
+BEPO,New Jersey,18
+BEPO,New York,28
+BEPO,North Carolina,2
+BEPO,Ohio,11
+BEPO,Pennsylvania,32
+BEPO,Rhode Island,5
+BEPO,Vermont,11
+BEPO,Virginia,2
+BEPO,West Virginia,1
+BEPU4,California,6
+BEPU4,Connecticut,0
+BEPU4,Idaho,2
+BEPU4,Illinois,6
+BEPU4,Indiana,14
+BEPU4,Iowa,0
+BEPU4,Kansas,0
+BEPU4,Maine,4
+BEPU4,Massachusetts,1
+BEPU4,Michigan,56
+BEPU4,Minnesota,54
+BEPU4,Montana,0
+BEPU4,New Hampshire,0
+BEPU4,New Jersey,3
+BEPU4,New York,12
+BEPU4,North Dakota,5
+BEPU4,Ohio,5
+BEPU4,Oregon,3
+BEPU4,Vermont,0
+BEPU4,Washington,6
+BEPU4,Wisconsin,55
+BETH,Connecticut,0
+BETH,Delaware,0
+BETH,District of Columbia,1
+BETH,Georgia,1
+BETH,Illinois,39
+BETH,Indiana,3
+BETH,Iowa,0
+BETH,Kansas,0
+BETH,Kentucky,23
+BETH,Maine,7
+BETH,Maryland,0
+BETH,Massachusetts,14
+BETH,Michigan,32
+BETH,Minnesota,7
+BETH,Missouri,2
+BETH,Nebraska,0
+BETH,New Hampshire,8
+BETH,New Jersey,17
+BETH,New York,27
+BETH,North Carolina,5
+BETH,North Dakota,0
+BETH,Ohio,4
+BETH,Pennsylvania,51
+BETH,Rhode Island,3
+BETH,South Carolina,0
+BETH,South Dakota,0
+BETH,Tennessee,4
+BETH,Vermont,5
+BETH,Virginia,34
+BETH,Washington,2
+BETH,West Virginia,16
+BETH,Wisconsin,31
+BETH,Wyoming,1
+BOVI,Alabama,39
+BOVI,Alaska,4
+BOVI,Arizona,2
+BOVI,Arkansas,69
+BOVI,California,1
+BOVI,Colorado,1
+BOVI,Connecticut,0
+BOVI,Delaware,3
+BOVI,District of Columbia,1
+BOVI,Florida,10
+BOVI,Georgia,54
+BOVI,Idaho,8
+BOVI,Illinois,102
+BOVI,Indiana,78
+BOVI,Iowa,48
+BOVI,Kansas,38
+BOVI,Kentucky,107
+BOVI,Louisiana,37
+BOVI,Maine,12
+BOVI,Maryland,12
+BOVI,Massachusetts,13
+BOVI,Michigan,0
+BOVI,Minnesota,66
+BOVI,Mississippi,27
+BOVI,Missouri,77
+BOVI,Montana,0
+BOVI,Nebraska,23
+BOVI,Nevada,1
+BOVI,New Hampshire,10
+BOVI,New Jersey,20
+BOVI,New Mexico,1
+BOVI,New York,61
+BOVI,North Carolina,64
+BOVI,North Dakota,14
+BOVI,Ohio,56
+BOVI,Oklahoma,7
+BOVI,Oregon,10
+BOVI,Pennsylvania,67
+BOVI,Rhode Island,2
+BOVI,South Carolina,24
+BOVI,South Dakota,7
+BOVI,Tennessee,90
+BOVI,Texas,26
+BOVI,Utah,0
+BOVI,Vermont,13
+BOVI,Virginia,97
+BOVI,Washington,14
+BOVI,West Virginia,1
+BOVI,Wisconsin,71
+BOVI,Wyoming,3
+BRJU,Alabama,0
+BRJU,Alaska,1
+BRJU,Arizona,4
+BRJU,Arkansas,6
+BRJU,California,3
+BRJU,Colorado,3
+BRJU,Connecticut,0
+BRJU,Delaware,0
+BRJU,District of Columbia,1
+BRJU,Florida,16
+BRJU,Georgia,2
+BRJU,Hawaii,1
+BRJU,Idaho,3
+BRJU,Illinois,47
+BRJU,Indiana,13
+BRJU,Iowa,4
+BRJU,Kansas,11
+BRJU,Kentucky,2
+BRJU,Louisiana,31
+BRJU,Maine,13
+BRJU,Maryland,0
+BRJU,Massachusetts,13
+BRJU,Michigan,13
+BRJU,Minnesota,12
+BRJU,Mississippi,4
+BRJU,Missouri,18
+BRJU,Montana,12
+BRJU,Nebraska,12
+BRJU,Nevada,2
+BRJU,New Hampshire,5
+BRJU,New Jersey,12
+BRJU,New Mexico,0
+BRJU,New York,16
+BRJU,North Carolina,1
+BRJU,North Dakota,19
+BRJU,Ohio,24
+BRJU,Oklahoma,3
+BRJU,Oregon,5
+BRJU,Pennsylvania,36
+BRJU,Rhode Island,1
+BRJU,South Carolina,3
+BRJU,South Dakota,2
+BRJU,Tennessee,10
+BRJU,Texas,10
+BRJU,Utah,4
+BRJU,Vermont,6
+BRJU,Virginia,19
+BRJU,Washington,8
+BRJU,West Virginia,9
+BRJU,Wisconsin,16
+BRJU,Wyoming,7
+BRPI4,Florida,1
+BRRA,Alabama,3
+BRRA,Alaska,10
+BRRA,Arizona,5
+BRRA,Arkansas,27
+BRRA,California,28
+BRRA,Colorado,3
+BRRA,Connecticut,0
+BRRA,Delaware,0
+BRRA,District of Columbia,1
+BRRA,Florida,12
+BRRA,Georgia,1
+BRRA,Hawaii,4
+BRRA,Idaho,14
+BRRA,Illinois,27
+BRRA,Indiana,5
+BRRA,Iowa,1
+BRRA,Kansas,22
+BRRA,Kentucky,6
+BRRA,Louisiana,29
+BRRA,Maine,14
+BRRA,Maryland,0
+BRRA,Massachusetts,12
+BRRA,Michigan,14
+BRRA,Minnesota,12
+BRRA,Mississippi,1
+BRRA,Missouri,14
+BRRA,Montana,12
+BRRA,Nebraska,3
+BRRA,Nevada,5
+BRRA,New Hampshire,8
+BRRA,New Jersey,16
+BRRA,New Mexico,2
+BRRA,New York,25
+BRRA,North Carolina,0
+BRRA,North Dakota,1
+BRRA,Ohio,24
+BRRA,Oklahoma,0
+BRRA,Oregon,25
+BRRA,Pennsylvania,26
+BRRA,Rhode Island,2
+BRRA,South Carolina,0
+BRRA,South Dakota,2
+BRRA,Tennessee,41
+BRRA,Texas,15
+BRRA,Utah,12
+BRRA,Vermont,11
+BRRA,Virginia,73
+BRRA,Washington,24
+BRRA,West Virginia,19
+BRRA,Wisconsin,10
+BRRA,Wyoming,4
+CAAM2,Alabama,24
+CAAM2,Arkansas,54
+CAAM2,Florida,67
+CAAM2,Georgia,46
+CAAM2,Louisiana,58
+CAAM2,Maryland,0
+CAAM2,Mississippi,67
+CAAM2,Missouri,1
+CAAM2,North Carolina,55
+CAAM2,Oklahoma,0
+CAAM2,South Carolina,43
+CAAM2,Tennessee,32
+CAAM2,Texas,53
+CAAM2,Virginia,25
+CAAN22,Florida,4
+CAAR18,Alaska,3
+CAAR18,California,1
+CAAR18,Colorado,7
+CAAR18,Idaho,7
+CAAR18,Illinois,4
+CAAR18,Iowa,0
+CAAR18,Maine,1
+CAAR18,Maryland,0
+CAAR18,Massachusetts,1
+CAAR18,Michigan,2
+CAAR18,Minnesota,3
+CAAR18,Montana,9
+CAAR18,Nebraska,1
+CAAR18,New Mexico,0
+CAAR18,New York,1
+CAAR18,North Dakota,12
+CAAR18,Oregon,2
+CAAR18,South Dakota,6
+CAAR18,Utah,9
+CAAR18,Washington,0
+CAAR18,Wisconsin,8
+CAAR18,Wyoming,7
+CABI8,Alabama,16
+CABI8,Arizona,4
+CABI8,Arkansas,21
+CABI8,California,8
+CABI8,Connecticut,0
+CABI8,Delaware,2
+CABI8,District of Columbia,1
+CABI8,Florida,14
+CABI8,Georgia,25
+CABI8,Illinois,19
+CABI8,Indiana,8
+CABI8,Iowa,0
+CABI8,Kansas,0
+CABI8,Kentucky,23
+CABI8,Louisiana,52
+CABI8,Maine,0
+CABI8,Maryland,1
+CABI8,Massachusetts,9
+CABI8,Michigan,0
+CABI8,Mississippi,21
+CABI8,Missouri,15
+CABI8,New Jersey,16
+CABI8,New York,12
+CABI8,North Carolina,7
+CABI8,North Dakota,0
+CABI8,Ohio,13
+CABI8,Oklahoma,0
+CABI8,Oregon,4
+CABI8,Pennsylvania,28
+CABI8,Rhode Island,1
+CABI8,South Carolina,4
+CABI8,Tennessee,12
+CABI8,Texas,9
+CABI8,Utah,3
+CABI8,Vermont,1
+CABI8,Virginia,11
+CABI8,West Virginia,15
+CACA18,Alabama,64
+CACA18,Arkansas,72
+CACA18,Connecticut,0
+CACA18,Delaware,2
+CACA18,District of Columbia,1
+CACA18,Florida,38
+CACA18,Georgia,11
+CACA18,Illinois,72
+CACA18,Indiana,80
+CACA18,Iowa,0
+CACA18,Kentucky,105
+CACA18,Louisiana,47
+CACA18,Maine,8
+CACA18,Maryland,0
+CACA18,Massachusetts,13
+CACA18,Michigan,58
+CACA18,Minnesota,10
+CACA18,Mississippi,56
+CACA18,Missouri,66
+CACA18,New Hampshire,7
+CACA18,New Jersey,18
+CACA18,New York,44
+CACA18,North Carolina,82
+CACA18,Ohio,85
+CACA18,Oklahoma,0
+CACA18,Pennsylvania,67
+CACA18,Rhode Island,3
+CACA18,South Carolina,33
+CACA18,Tennessee,59
+CACA18,Texas,19
+CACA18,Vermont,12
+CACA18,Virginia,98
+CACA18,West Virginia,13
+CACA18,Wisconsin,45
+CACA27,Florida,3
+CACA27,Hawaii,4
+CACA27,Maryland,0
+CAIL2,Alabama,19
+CAIL2,Arkansas,63
+CAIL2,Florida,7
+CAIL2,Georgia,7
+CAIL2,Illinois,51
+CAIL2,Indiana,13
+CAIL2,Iowa,0
+CAIL2,Kansas,16
+CAIL2,Kentucky,35
+CAIL2,Louisiana,55
+CAIL2,Maryland,0
+CAIL2,Mississippi,20
+CAIL2,Missouri,50
+CAIL2,North Carolina,2
+CAIL2,Ohio,2
+CAIL2,Oklahoma,60
+CAIL2,South Carolina,4
+CAIL2,Tennessee,19
+CAIL2,Texas,42
+CAIL2,Virginia,8
+CALE4,Alaska,12
+CALE4,Arizona,3
+CALE4,California,19
+CALE4,Colorado,29
+CALE4,Idaho,11
+CALE4,Montana,6
+CALE4,Nevada,3
+CALE4,New Mexico,6
+CALE4,Oregon,19
+CALE4,Utah,21
+CALE4,Washington,17
+CALE4,Wyoming,10
+CAMO83,Alabama,0
+CAMO83,Connecticut,0
+CAMO83,District of Columbia,1
+CAMO83,Florida,2
+CAMO83,Georgia,0
+CAMO83,Illinois,2
+CAMO83,Kentucky,20
+CAMO83,Massachusetts,2
+CAMO83,Mississippi,1
+CAMO83,New Jersey,2
+CAMO83,New York,1
+CAMO83,North Carolina,0
+CAMO83,Pennsylvania,0
+CAMO83,Rhode Island,1
+CAMO83,Tennessee,10
+CAMO83,Virginia,1
+CAPA23,Florida,16
+CAPA23,Hawaii,3
+CAPA5,Alaska,21
+CAPA5,California,3
+CAPA5,Connecticut,0
+CAPA5,Delaware,2
+CAPA5,Illinois,40
+CAPA5,Indiana,49
+CAPA5,Iowa,5
+CAPA5,Kentucky,2
+CAPA5,Maine,9
+CAPA5,Maryland,0
+CAPA5,Massachusetts,11
+CAPA5,Michigan,78
+CAPA5,Minnesota,64
+CAPA5,Missouri,0
+CAPA5,Nebraska,3
+CAPA5,New Hampshire,10
+CAPA5,New Jersey,17
+CAPA5,New York,47
+CAPA5,North Carolina,5
+CAPA5,North Dakota,8
+CAPA5,Ohio,48
+CAPA5,Oregon,4
+CAPA5,Pennsylvania,61
+CAPA5,Rhode Island,4
+CAPA5,South Dakota,4
+CAPA5,Tennessee,3
+CAPA5,Vermont,12
+CAPA5,Virginia,38
+CAPA5,Washington,2
+CAPA5,West Virginia,13
+CAPA5,Wisconsin,66
+CAPA53,Alabama,3
+CAPA53,Florida,50
+CAPA53,Georgia,21
+CAPA53,North Carolina,19
+CAPA53,South Carolina,22
+CARA2,Alabama,44
+CARA2,Arkansas,73
+CARA2,California,3
+CARA2,Colorado,0
+CARA2,Connecticut,0
+CARA2,Delaware,1
+CARA2,District of Columbia,1
+CARA2,Florida,45
+CARA2,Georgia,33
+CARA2,Illinois,82
+CARA2,Indiana,67
+CARA2,Iowa,1
+CARA2,Kansas,38
+CARA2,Kentucky,101
+CARA2,Louisiana,64
+CARA2,Maryland,12
+CARA2,Massachusetts,6
+CARA2,Michigan,17
+CARA2,Mississippi,66
+CARA2,Missouri,102
+CARA2,Nebraska,6
+CARA2,New Hampshire,1
+CARA2,New Jersey,16
+CARA2,New York,16
+CARA2,North Carolina,73
+CARA2,North Dakota,1
+CARA2,Ohio,68
+CARA2,Oklahoma,20
+CARA2,Pennsylvania,25
+CARA2,Rhode Island,0
+CARA2,South Carolina,44
+CARA2,South Dakota,2
+CARA2,Tennessee,47
+CARA2,Texas,44
+CARA2,Utah,4
+CARA2,Virginia,92
+CARA2,Washington,0
+CARA2,West Virginia,28
+CARA2,Wisconsin,3
+CASP8,Alabama,6
+CASP8,Arkansas,8
+CASP8,Colorado,0
+CASP8,Connecticut,0
+CASP8,District of Columbia,1
+CASP8,Georgia,6
+CASP8,Illinois,42
+CASP8,Indiana,9
+CASP8,Iowa,5
+CASP8,Kansas,57
+CASP8,Kentucky,42
+CASP8,Louisiana,13
+CASP8,Maine,0
+CASP8,Maryland,5
+CASP8,Massachusetts,8
+CASP8,Michigan,15
+CASP8,Minnesota,2
+CASP8,Mississippi,4
+CASP8,Missouri,37
+CASP8,Nebraska,4
+CASP8,New Hampshire,3
+CASP8,New Jersey,6
+CASP8,New Mexico,1
+CASP8,New York,12
+CASP8,North Carolina,8
+CASP8,North Dakota,1
+CASP8,Ohio,51
+CASP8,Oklahoma,12
+CASP8,Pennsylvania,9
+CASP8,Rhode Island,0
+CASP8,South Carolina,12
+CASP8,South Dakota,3
+CASP8,Tennessee,25
+CASP8,Texas,19
+CASP8,Utah,9
+CASP8,Virginia,69
+CASP8,West Virginia,12
+CASP8,Wisconsin,13
+CEAM,Alabama,52
+CEAM,Arkansas,62
+CEAM,Connecticut,0
+CEAM,Delaware,1
+CEAM,District of Columbia,1
+CEAM,Florida,29
+CEAM,Georgia,74
+CEAM,Illinois,95
+CEAM,Indiana,57
+CEAM,Iowa,17
+CEAM,Kansas,34
+CEAM,Kentucky,62
+CEAM,Louisiana,33
+CEAM,Maine,2
+CEAM,Maryland,0
+CEAM,Massachusetts,12
+CEAM,Michigan,49
+CEAM,Minnesota,38
+CEAM,Mississippi,49
+CEAM,Missouri,99
+CEAM,Nebraska,7
+CEAM,New Hampshire,8
+CEAM,New Jersey,19
+CEAM,New York,44
+CEAM,North Carolina,81
+CEAM,Ohio,67
+CEAM,Oklahoma,22
+CEAM,Pennsylvania,66
+CEAM,Rhode Island,4
+CEAM,South Carolina,42
+CEAM,Tennessee,57
+CEAM,Texas,27
+CEAM,Vermont,6
+CEAM,Virginia,87
+CEAM,West Virginia,37
+CEAM,Wisconsin,46
+CECA4,Alabama,59
+CECA4,Arkansas,75
+CECA4,Connecticut,0
+CECA4,Delaware,1
+CECA4,District of Columbia,1
+CECA4,Florida,25
+CECA4,Georgia,35
+CECA4,Illinois,88
+CECA4,Indiana,81
+CECA4,Iowa,5
+CECA4,Kansas,47
+CECA4,Kentucky,116
+CECA4,Louisiana,49
+CECA4,Maryland,0
+CECA4,Massachusetts,3
+CECA4,Michigan,14
+CECA4,Mississippi,55
+CECA4,Missouri,114
+CECA4,Nebraska,9
+CECA4,New Jersey,11
+CECA4,New Mexico,1
+CECA4,New York,7
+CECA4,North Carolina,46
+CECA4,Ohio,73
+CECA4,Oklahoma,46
+CECA4,Pennsylvania,32
+CECA4,South Carolina,33
+CECA4,Tennessee,62
+CECA4,Texas,96
+CECA4,Virginia,91
+CECA4,West Virginia,47
+CECA4,Wisconsin,2
+CECO,California,32
+CECO,Nevada,4
+CECO,Oregon,6
+CEDE2,Georgia,0
+CEDE2,North Carolina,0
+CEDE2,South Carolina,0
+CELA,Alabama,40
+CELA,Arizona,13
+CELA,Arkansas,74
+CELA,California,5
+CELA,Colorado,12
+CELA,District of Columbia,1
+CELA,Florida,45
+CELA,Georgia,41
+CELA,Idaho,18
+CELA,Illinois,34
+CELA,Indiana,11
+CELA,Kansas,39
+CELA,Kentucky,46
+CELA,Louisiana,61
+CELA,Maryland,1
+CELA,Mississippi,48
+CELA,Missouri,74
+CELA,Nevada,2
+CELA,New Mexico,24
+CELA,North Carolina,36
+CELA,Ohio,1
+CELA,Oklahoma,76
+CELA,Oregon,9
+CELA,South Carolina,24
+CELA,Tennessee,50
+CELA,Texas,111
+CELA,Utah,16
+CELA,Virginia,57
+CELA,Washington,10
+CELA,West Virginia,1
+CELA,Wyoming,0
+CELE3,Arizona,2
+CELE3,California,29
+CELE3,Colorado,2
+CELE3,Idaho,22
+CELE3,Montana,10
+CELE3,Nevada,17
+CELE3,Oregon,13
+CELE3,Utah,29
+CELE3,Washington,4
+CELE3,Wyoming,7
+CEMO2,Arizona,15
+CEMO2,California,47
+CEMO2,Colorado,33
+CEMO2,Idaho,0
+CEMO2,Kansas,0
+CEMO2,Montana,0
+CEMO2,Nebraska,4
+CEMO2,Nevada,1
+CEMO2,New Mexico,25
+CEMO2,Oklahoma,1
+CEMO2,Oregon,7
+CEMO2,South Dakota,2
+CEMO2,Texas,19
+CEMO2,Utah,27
+CEMO2,Wyoming,13
+CEOC,Alabama,64
+CEOC,Arkansas,35
+CEOC,Colorado,6
+CEOC,Connecticut,0
+CEOC,Delaware,2
+CEOC,District of Columbia,1
+CEOC,Florida,10
+CEOC,Georgia,15
+CEOC,Illinois,102
+CEOC,Indiana,68
+CEOC,Iowa,8
+CEOC,Kansas,88
+CEOC,Kentucky,104
+CEOC,Maryland,0
+CEOC,Massachusetts,11
+CEOC,Michigan,27
+CEOC,Minnesota,49
+CEOC,Mississippi,15
+CEOC,Missouri,98
+CEOC,Montana,1
+CEOC,Nebraska,44
+CEOC,New Hampshire,4
+CEOC,New Jersey,19
+CEOC,New Mexico,3
+CEOC,New York,38
+CEOC,North Carolina,6
+CEOC,North Dakota,19
+CEOC,Ohio,79
+CEOC,Oklahoma,72
+CEOC,Pennsylvania,46
+CEOC,Rhode Island,4
+CEOC,South Carolina,0
+CEOC,South Dakota,14
+CEOC,Tennessee,34
+CEOC,Texas,9
+CEOC,Utah,7
+CEOC,Vermont,7
+CEOC,Virginia,83
+CEOC,West Virginia,34
+CEOC,Wisconsin,40
+CEOC,Wyoming,3
+CEOR7,Arkansas,1
+CEOR7,Connecticut,0
+CEOR7,Delaware,0
+CEOR7,District of Columbia,1
+CEOR7,Georgia,2
+CEOR7,Illinois,11
+CEOR7,Indiana,0
+CEOR7,Iowa,0
+CEOR7,Kentucky,26
+CEOR7,Maine,3
+CEOR7,Maryland,0
+CEOR7,Massachusetts,14
+CEOR7,Michigan,3
+CEOR7,New Hampshire,3
+CEOR7,New Jersey,15
+CEOR7,New York,19
+CEOR7,North Carolina,2
+CEOR7,Ohio,8
+CEOR7,Pennsylvania,22
+CEOR7,Rhode Island,3
+CEOR7,South Carolina,0
+CEOR7,Tennessee,10
+CEOR7,Vermont,1
+CEOR7,Virginia,27
+CEOR7,West Virginia,7
+CEOR7,Wisconsin,2
+CEPR,California,21
+CEPR,Idaho,2
+CEPR,Nevada,3
+CEPR,Oregon,13
+CEPR,Washington,3
+CESC,Alabama,7
+CESC,Arkansas,10
+CESC,Connecticut,0
+CESC,Delaware,1
+CESC,District of Columbia,1
+CESC,Georgia,3
+CESC,Illinois,93
+CESC,Indiana,81
+CESC,Iowa,9
+CESC,Kansas,62
+CESC,Kentucky,90
+CESC,Louisiana,6
+CESC,Maine,12
+CESC,Maryland,0
+CESC,Massachusetts,13
+CESC,Michigan,49
+CESC,Minnesota,59
+CESC,Mississippi,9
+CESC,Missouri,108
+CESC,Montana,0
+CESC,Nebraska,36
+CESC,New Hampshire,10
+CESC,New Jersey,16
+CESC,New York,39
+CESC,North Carolina,9
+CESC,North Dakota,23
+CESC,Ohio,87
+CESC,Oklahoma,13
+CESC,Pennsylvania,62
+CESC,Rhode Island,4
+CESC,South Carolina,1
+CESC,South Dakota,16
+CESC,Tennessee,37
+CESC,Texas,4
+CESC,Vermont,11
+CESC,Virginia,50
+CESC,West Virginia,32
+CESC,Wisconsin,64
+CESC,Wyoming,3
+CHDU,Arizona,4
+CHDU,New Mexico,4
+CHDU,Texas,4
+CHLI2,Arizona,12
+CHLI2,California,5
+CHLI2,Georgia,0
+CHLI2,Kansas,0
+CHLI2,Nevada,2
+CHLI2,New Mexico,13
+CHLI2,Oklahoma,0
+CHLI2,Texas,36
+CHLI2,Utah,1
+CHSE11,California,28
+CHSE11,Nevada,3
+CHSE11,Oregon,4
+CHTH2,Alabama,6
+CHTH2,Connecticut,0
+CHTH2,Delaware,3
+CHTH2,Florida,13
+CHTH2,Georgia,3
+CHTH2,Maine,3
+CHTH2,Maryland,7
+CHTH2,Massachusetts,10
+CHTH2,Mississippi,6
+CHTH2,New Hampshire,5
+CHTH2,New Jersey,17
+CHTH2,New York,10
+CHTH2,North Carolina,18
+CHTH2,Pennsylvania,1
+CHTH2,Rhode Island,3
+CHTH2,South Carolina,5
+CHTH2,Virginia,5
+CIGL,Hawaii,0
+CIPA3,Florida,5
+CLKE,Alabama,10
+CLKE,Arkansas,22
+CLKE,Connecticut,0
+CLKE,Georgia,4
+CLKE,Illinois,2
+CLKE,Indiana,1
+CLKE,Iowa,0
+CLKE,Kentucky,19
+CLKE,Louisiana,1
+CLKE,Maine,0
+CLKE,Massachusetts,3
+CLKE,Mississippi,8
+CLKE,Missouri,3
+CLKE,New York,3
+CLKE,North Carolina,7
+CLKE,Ohio,2
+CLKE,Oklahoma,0
+CLKE,Pennsylvania,0
+CLKE,Rhode Island,0
+CLKE,Tennessee,31
+CLKE,Virginia,1
+CLLI2,Arizona,10
+CLLI2,California,39
+CLLI2,Colorado,30
+CLLI2,Idaho,25
+CLLI2,Kansas,0
+CLLI2,Montana,31
+CLLI2,Nebraska,11
+CLLI2,Nevada,11
+CLLI2,New Mexico,19
+CLLI2,North Dakota,12
+CLLI2,Oklahoma,0
+CLLI2,Oregon,27
+CLLI2,Pennsylvania,1
+CLLI2,South Dakota,8
+CLLI2,Utah,24
+CLLI2,Washington,20
+CLLI2,Wyoming,16
+CLVI5,Alabama,34
+CLVI5,Arkansas,38
+CLVI5,Connecticut,0
+CLVI5,Delaware,2
+CLVI5,District of Columbia,1
+CLVI5,Florida,8
+CLVI5,Georgia,25
+CLVI5,Illinois,61
+CLVI5,Indiana,48
+CLVI5,Iowa,11
+CLVI5,Kansas,13
+CLVI5,Kentucky,77
+CLVI5,Louisiana,51
+CLVI5,Maine,16
+CLVI5,Maryland,0
+CLVI5,Massachusetts,13
+CLVI5,Michigan,68
+CLVI5,Minnesota,42
+CLVI5,Mississippi,18
+CLVI5,Missouri,65
+CLVI5,Nebraska,16
+CLVI5,New Hampshire,10
+CLVI5,New Jersey,19
+CLVI5,New York,54
+CLVI5,North Carolina,39
+CLVI5,North Dakota,9
+CLVI5,Ohio,84
+CLVI5,Oklahoma,0
+CLVI5,Pennsylvania,66
+CLVI5,Rhode Island,4
+CLVI5,South Carolina,7
+CLVI5,South Dakota,7
+CLVI5,Tennessee,50
+CLVI5,Texas,5
+CLVI5,Vermont,11
+CLVI5,Virginia,78
+CLVI5,West Virginia,42
+CLVI5,Wisconsin,13
+COAC2,Idaho,1
+COAC2,Indiana,0
+COAC2,Montana,0
+COAC2,Washington,4
+COAC2,Wyoming,0
+COAL2,Alabama,13
+COAL2,Arkansas,4
+COAL2,Connecticut,0
+COAL2,Delaware,3
+COAL2,Florida,4
+COAL2,Georgia,17
+COAL2,Illinois,34
+COAL2,Indiana,51
+COAL2,Iowa,0
+COAL2,Kentucky,42
+COAL2,Maine,16
+COAL2,Maryland,0
+COAL2,Massachusetts,13
+COAL2,Michigan,64
+COAL2,Minnesota,47
+COAL2,Mississippi,5
+COAL2,Missouri,30
+COAL2,New Hampshire,10
+COAL2,New Jersey,19
+COAL2,New York,39
+COAL2,North Carolina,20
+COAL2,Ohio,77
+COAL2,Pennsylvania,66
+COAL2,Rhode Island,4
+COAL2,South Carolina,4
+COAL2,Tennessee,34
+COAL2,Vermont,12
+COAL2,Virginia,52
+COAL2,West Virginia,35
+COAL2,Wisconsin,68
+COAM2,Alabama,35
+COAM2,Connecticut,0
+COAM2,Delaware,1
+COAM2,District of Columbia,1
+COAM2,Florida,5
+COAM2,Georgia,35
+COAM2,Illinois,69
+COAM2,Indiana,8
+COAM2,Iowa,0
+COAM2,Kentucky,48
+COAM2,Maine,15
+COAM2,Maryland,0
+COAM2,Massachusetts,13
+COAM2,Michigan,57
+COAM2,Mississippi,18
+COAM2,Missouri,0
+COAM2,New Hampshire,9
+COAM2,New Jersey,19
+COAM2,New York,47
+COAM2,North Carolina,60
+COAM2,Ohio,77
+COAM2,Pennsylvania,63
+COAM2,Rhode Island,5
+COAM2,South Carolina,27
+COAM2,Tennessee,65
+COAM2,Vermont,10
+COAM2,Virginia,93
+COAM2,West Virginia,33
+COAM3,Alabama,15
+COAM3,Arkansas,46
+COAM3,Connecticut,0
+COAM3,Delaware,1
+COAM3,District of Columbia,1
+COAM3,Georgia,24
+COAM3,Illinois,102
+COAM3,Indiana,73
+COAM3,Iowa,19
+COAM3,Kansas,24
+COAM3,Kentucky,109
+COAM3,Louisiana,4
+COAM3,Maine,9
+COAM3,Maryland,0
+COAM3,Massachusetts,14
+COAM3,Michigan,31
+COAM3,Minnesota,54
+COAM3,Mississippi,9
+COAM3,Missouri,112
+COAM3,Nebraska,9
+COAM3,New Hampshire,9
+COAM3,New Jersey,18
+COAM3,New York,36
+COAM3,North Carolina,48
+COAM3,North Dakota,18
+COAM3,Ohio,86
+COAM3,Oklahoma,2
+COAM3,Pennsylvania,63
+COAM3,Rhode Island,4
+COAM3,South Carolina,11
+COAM3,South Dakota,5
+COAM3,Tennessee,64
+COAM3,Vermont,6
+COAM3,Virginia,83
+COAM3,West Virginia,46
+COAM3,Wisconsin,65
+COAP3,Kentucky,0
+COAP3,Ohio,1
+COAP3,Pennsylvania,3
+COAR2,Hawaii,4
+COCA13,Alaska,20
+COCA13,Colorado,9
+COCA13,Connecticut,0
+COCA13,Idaho,4
+COCA13,Illinois,5
+COCA13,Indiana,4
+COCA13,Iowa,0
+COCA13,Maine,16
+COCA13,Maryland,1
+COCA13,Massachusetts,14
+COCA13,Michigan,68
+COCA13,Minnesota,38
+COCA13,Montana,18
+COCA13,New Hampshire,10
+COCA13,New Jersey,7
+COCA13,New Mexico,2
+COCA13,New York,38
+COCA13,North Dakota,3
+COCA13,Ohio,9
+COCA13,Oregon,0
+COCA13,Pennsylvania,34
+COCA13,Rhode Island,2
+COCA13,South Dakota,4
+COCA13,Vermont,13
+COCA13,Virginia,3
+COCA13,Washington,7
+COCA13,West Virginia,9
+COCA13,Wisconsin,63
+COCA13,Wyoming,2
+COCO6,Alabama,6
+COCO6,California,35
+COCO6,Colorado,3
+COCO6,Connecticut,0
+COCO6,Delaware,1
+COCO6,Georgia,19
+COCO6,Idaho,5
+COCO6,Illinois,1
+COCO6,Iowa,0
+COCO6,Maine,16
+COCO6,Maryland,0
+COCO6,Massachusetts,14
+COCO6,Michigan,37
+COCO6,Minnesota,41
+COCO6,Montana,0
+COCO6,New Hampshire,10
+COCO6,New Jersey,9
+COCO6,New York,40
+COCO6,North Carolina,29
+COCO6,North Dakota,11
+COCO6,Ohio,2
+COCO6,Oregon,21
+COCO6,Pennsylvania,49
+COCO6,Rhode Island,4
+COCO6,South Carolina,3
+COCO6,South Dakota,5
+COCO6,Tennessee,11
+COCO6,Vermont,12
+COCO6,Virginia,44
+COCO6,Washington,23
+COCO6,West Virginia,16
+COCO6,Wisconsin,41
+COCO6,Wyoming,1
+CODR,Alabama,8
+CODR,Arkansas,58
+CODR,Georgia,1
+CODR,Illinois,78
+CODR,Indiana,58
+CODR,Iowa,16
+CODR,Kansas,77
+CODR,Kentucky,57
+CODR,Louisiana,57
+CODR,Michigan,4
+CODR,Mississippi,22
+CODR,Missouri,110
+CODR,Nebraska,37
+CODR,New York,4
+CODR,Ohio,55
+CODR,Oklahoma,45
+CODR,Pennsylvania,1
+CODR,South Dakota,8
+CODR,Tennessee,31
+CODR,Texas,73
+CODR,Wisconsin,0
+COFL2,Alabama,63
+COFL2,Arkansas,69
+COFL2,Connecticut,0
+COFL2,Delaware,2
+COFL2,District of Columbia,1
+COFL2,Florida,33
+COFL2,Georgia,49
+COFL2,Illinois,54
+COFL2,Indiana,79
+COFL2,Kansas,1
+COFL2,Kentucky,118
+COFL2,Louisiana,48
+COFL2,Maine,1
+COFL2,Maryland,0
+COFL2,Massachusetts,14
+COFL2,Michigan,29
+COFL2,Mississippi,65
+COFL2,Missouri,75
+COFL2,New Hampshire,6
+COFL2,New Jersey,18
+COFL2,New York,36
+COFL2,North Carolina,91
+COFL2,Ohio,84
+COFL2,Oklahoma,39
+COFL2,Pennsylvania,64
+COFL2,Rhode Island,3
+COFL2,South Carolina,42
+COFL2,Tennessee,64
+COFL2,Texas,53
+COFL2,Vermont,2
+COFL2,Virginia,100
+COFL2,West Virginia,52
+COFO,Alabama,56
+COFO,Arkansas,48
+COFO,Delaware,2
+COFO,Florida,53
+COFO,Georgia,36
+COFO,Illinois,16
+COFO,Indiana,9
+COFO,Kentucky,18
+COFO,Louisiana,49
+COFO,Maryland,0
+COFO,Mississippi,42
+COFO,Missouri,12
+COFO,New Jersey,1
+COFO,North Carolina,29
+COFO,Oklahoma,0
+COFO,South Carolina,32
+COFO,Tennessee,47
+COFO,Texas,12
+COFO,Virginia,34
+COFR2,Hawaii,4
+COHO80,Oregon,1
+COHO80,Washington,2
+COLA5,Alabama,18
+COLA5,Arkansas,49
+COLA5,California,5
+COLA5,Colorado,0
+COLA5,Connecticut,0
+COLA5,Delaware,0
+COLA5,Florida,20
+COLA5,Georgia,29
+COLA5,Hawaii,2
+COLA5,Illinois,33
+COLA5,Indiana,11
+COLA5,Iowa,0
+COLA5,Kansas,0
+COLA5,Kentucky,17
+COLA5,Louisiana,38
+COLA5,Maine,2
+COLA5,Maryland,0
+COLA5,Massachusetts,13
+COLA5,Michigan,30
+COLA5,Minnesota,3
+COLA5,Mississippi,5
+COLA5,Missouri,36
+COLA5,Nebraska,0
+COLA5,New Hampshire,2
+COLA5,New Jersey,9
+COLA5,New Mexico,2
+COLA5,New York,15
+COLA5,North Carolina,53
+COLA5,Ohio,17
+COLA5,Oklahoma,0
+COLA5,Oregon,2
+COLA5,Pennsylvania,31
+COLA5,Rhode Island,2
+COLA5,South Carolina,29
+COLA5,Tennessee,28
+COLA5,Texas,32
+COLA5,Vermont,3
+COLA5,Virginia,60
+COLA5,Washington,1
+COLA5,West Virginia,9
+COLA5,Wisconsin,23
+COLA5,Wyoming,0
+COMA21,New York,0
+COMA7,Alabama,0
+COMA7,Arkansas,3
+COMA7,Connecticut,0
+COMA7,Delaware,0
+COMA7,Illinois,12
+COMA7,Indiana,1
+COMA7,Iowa,0
+COMA7,Kansas,0
+COMA7,Kentucky,2
+COMA7,Maine,6
+COMA7,Maryland,4
+COMA7,Massachusetts,12
+COMA7,Michigan,13
+COMA7,Minnesota,7
+COMA7,Missouri,7
+COMA7,Montana,1
+COMA7,New Hampshire,7
+COMA7,New Jersey,10
+COMA7,New York,23
+COMA7,North Carolina,2
+COMA7,Ohio,2
+COMA7,Oregon,1
+COMA7,Pennsylvania,31
+COMA7,Rhode Island,2
+COMA7,Tennessee,6
+COMA7,Utah,0
+COMA7,Vermont,4
+COMA7,Virginia,15
+COMA7,Washington,3
+COMA7,West Virginia,5
+COMA7,Wisconsin,18
+CONU4,California,36
+CONU4,Idaho,2
+CONU4,Oregon,20
+CONU4,Washington,22
+COPE80,Connecticut,0
+COPE80,Delaware,2
+COPE80,District of Columbia,1
+COPE80,Georgia,2
+COPE80,Illinois,6
+COPE80,Indiana,7
+COPE80,Kentucky,3
+COPE80,Maine,14
+COPE80,Maryland,0
+COPE80,Massachusetts,14
+COPE80,Michigan,55
+COPE80,Minnesota,11
+COPE80,New Hampshire,10
+COPE80,New Jersey,17
+COPE80,New York,41
+COPE80,North Carolina,19
+COPE80,Ohio,12
+COPE80,Pennsylvania,56
+COPE80,Rhode Island,5
+COPE80,South Carolina,2
+COPE80,Tennessee,1
+COPE80,Vermont,7
+COPE80,Virginia,38
+COPE80,West Virginia,6
+COPE80,Wisconsin,41
+CORA6,Arkansas,7
+CORA6,Connecticut,0
+CORA6,Delaware,1
+CORA6,Illinois,88
+CORA6,Indiana,58
+CORA6,Iowa,11
+CORA6,Kentucky,9
+CORA6,Maine,6
+CORA6,Maryland,0
+CORA6,Massachusetts,13
+CORA6,Michigan,54
+CORA6,Minnesota,57
+CORA6,Missouri,66
+CORA6,Nebraska,3
+CORA6,New Hampshire,6
+CORA6,New Jersey,19
+CORA6,New York,43
+CORA6,North Carolina,1
+CORA6,North Dakota,6
+CORA6,Ohio,75
+CORA6,Pennsylvania,65
+CORA6,Rhode Island,2
+CORA6,South Carolina,0
+CORA6,South Dakota,3
+CORA6,Texas,4
+CORA6,Vermont,7
+CORA6,Virginia,25
+CORA6,West Virginia,24
+CORA6,Wisconsin,64
+CORU,Connecticut,0
+CORU,Delaware,0
+CORU,District of Columbia,1
+CORU,Illinois,11
+CORU,Indiana,6
+CORU,Iowa,0
+CORU,Kentucky,1
+CORU,Maine,16
+CORU,Maryland,4
+CORU,Massachusetts,11
+CORU,Michigan,48
+CORU,Minnesota,41
+CORU,New Hampshire,10
+CORU,New Jersey,9
+CORU,New York,39
+CORU,North Dakota,0
+CORU,Ohio,11
+CORU,Pennsylvania,43
+CORU,Rhode Island,1
+CORU,Vermont,8
+CORU,Virginia,9
+CORU,West Virginia,2
+CORU,Wisconsin,60
+COSEO,Alaska,0
+COSEO,California,30
+COSEO,Idaho,3
+COSEO,Montana,0
+COSEO,Nevada,3
+COSEO,Oregon,19
+COSEO,Washington,30
+COSES,Alaska,10
+COSES,Arizona,7
+COSES,California,49
+COSES,Colorado,30
+COSES,Connecticut,0
+COSES,Delaware,1
+COSES,Idaho,31
+COSES,Illinois,41
+COSES,Indiana,24
+COSES,Iowa,6
+COSES,Kansas,0
+COSES,Kentucky,34
+COSES,Maine,15
+COSES,Maryland,0
+COSES,Massachusetts,9
+COSES,Michigan,79
+COSES,Minnesota,76
+COSES,Montana,48
+COSES,Nebraska,38
+COSES,Nevada,12
+COSES,New Hampshire,9
+COSES,New Jersey,12
+COSES,New Mexico,17
+COSES,New York,40
+COSES,North Dakota,41
+COSES,Ohio,29
+COSES,Oregon,35
+COSES,Pennsylvania,20
+COSES,Rhode Island,1
+COSES,South Dakota,16
+COSES,Utah,29
+COSES,Vermont,14
+COSES,Virginia,2
+COSES,Washington,30
+COSES,West Virginia,11
+COSES,Wisconsin,68
+COSES,Wyoming,18
+COTI3,Alabama,6
+COTI3,Arizona,3
+COTI3,Arkansas,60
+COTI3,California,9
+COTI3,Colorado,9
+COTI3,Connecticut,0
+COTI3,Delaware,1
+COTI3,District of Columbia,1
+COTI3,Florida,6
+COTI3,Georgia,12
+COTI3,Hawaii,0
+COTI3,Idaho,6
+COTI3,Illinois,27
+COTI3,Indiana,1
+COTI3,Iowa,2
+COTI3,Kansas,63
+COTI3,Kentucky,19
+COTI3,Louisiana,50
+COTI3,Maine,3
+COTI3,Maryland,1
+COTI3,Massachusetts,7
+COTI3,Michigan,4
+COTI3,Minnesota,3
+COTI3,Mississippi,19
+COTI3,Missouri,23
+COTI3,Montana,8
+COTI3,Nebraska,41
+COTI3,New Jersey,0
+COTI3,New Mexico,8
+COTI3,New York,8
+COTI3,North Carolina,37
+COTI3,North Dakota,9
+COTI3,Ohio,14
+COTI3,Oklahoma,41
+COTI3,Oregon,7
+COTI3,Pennsylvania,16
+COTI3,Rhode Island,1
+COTI3,South Carolina,16
+COTI3,South Dakota,23
+COTI3,Tennessee,31
+COTI3,Texas,149
+COTI3,Vermont,0
+COTI3,Virginia,25
+COTI3,Washington,13
+COTI3,West Virginia,3
+COTI3,Wisconsin,7
+COTI3,Wyoming,2
+COUV,Florida,15
+COUV,Hawaii,0
+COUV,Mississippi,1
+CRAE,Alabama,3
+CRAE,Florida,22
+CRAE,Georgia,0
+CRAE,Mississippi,6
+CRAE,North Carolina,1
+CRAE,South Carolina,3
+CRAE,Virginia,1
+CRCR2,Alabama,25
+CRCR2,Arkansas,38
+CRCR2,Connecticut,0
+CRCR2,Delaware,2
+CRCR2,District of Columbia,1
+CRCR2,Florida,14
+CRCR2,Georgia,8
+CRCR2,Illinois,73
+CRCR2,Indiana,29
+CRCR2,Iowa,3
+CRCR2,Kansas,15
+CRCR2,Kentucky,57
+CRCR2,Louisiana,28
+CRCR2,Maine,0
+CRCR2,Maryland,0
+CRCR2,Massachusetts,10
+CRCR2,Michigan,19
+CRCR2,Minnesota,0
+CRCR2,Mississippi,10
+CRCR2,Missouri,88
+CRCR2,New Jersey,17
+CRCR2,New York,16
+CRCR2,North Carolina,21
+CRCR2,Ohio,57
+CRCR2,Oklahoma,9
+CRCR2,Pennsylvania,32
+CRCR2,Rhode Island,3
+CRCR2,South Carolina,11
+CRCR2,Tennessee,27
+CRCR2,Texas,34
+CRCR2,Vermont,1
+CRCR2,Virginia,40
+CRCR2,West Virginia,20
+CRCR2,Wisconsin,9
+CRDO2,Alaska,0
+CRDO2,California,10
+CRDO2,Idaho,29
+CRDO2,Michigan,9
+CRDO2,Minnesota,2
+CRDO2,Montana,14
+CRDO2,Nevada,1
+CRDO2,North Dakota,0
+CRDO2,Oregon,33
+CRDO2,South Dakota,0
+CRDO2,Washington,36
+CRDO2,Wisconsin,2
+CRDO2,Wyoming,8
+CRER,Arizona,3
+CRER,Colorado,15
+CRER,New Mexico,9
+CRER,Utah,1
+CRER,Wyoming,0
+CRJA3,Louisiana,4
+CRJA3,North Carolina,0
+CRMA5,Alabama,33
+CRMA5,Arkansas,45
+CRMA5,Florida,25
+CRMA5,Georgia,17
+CRMA5,Illinois,1
+CRMA5,Kentucky,2
+CRMA5,Louisiana,43
+CRMA5,Mississippi,49
+CRMA5,Missouri,3
+CRMA5,North Carolina,25
+CRMA5,Oklahoma,0
+CRMA5,South Carolina,17
+CRMA5,Tennessee,5
+CRMA5,Texas,36
+CRMA5,Virginia,8
+CRMO3,Alaska,0
+CRMO3,Arkansas,0
+CRMO3,California,5
+CRMO3,Connecticut,0
+CRMO3,Delaware,1
+CRMO3,District of Columbia,1
+CRMO3,Illinois,3
+CRMO3,Kentucky,2
+CRMO3,Maine,4
+CRMO3,Massachusetts,10
+CRMO3,Michigan,6
+CRMO3,Montana,1
+CRMO3,New Hampshire,1
+CRMO3,New Jersey,11
+CRMO3,New York,23
+CRMO3,Ohio,7
+CRMO3,Oregon,15
+CRMO3,Pennsylvania,12
+CRMO3,Rhode Island,3
+CRMO3,Tennessee,0
+CRMO3,Utah,6
+CRMO3,Vermont,3
+CRMO3,Virginia,1
+CRMO3,Washington,13
+CRMO3,West Virginia,1
+CRMO3,Wisconsin,3
+CRPH,Alabama,10
+CRPH,Arkansas,0
+CRPH,Delaware,1
+CRPH,District of Columbia,1
+CRPH,Florida,4
+CRPH,Georgia,2
+CRPH,Illinois,8
+CRPH,Indiana,2
+CRPH,Kentucky,11
+CRPH,Louisiana,0
+CRPH,Maine,0
+CRPH,Maryland,0
+CRPH,Massachusetts,4
+CRPH,Michigan,3
+CRPH,Mississippi,1
+CRPH,Missouri,17
+CRPH,New Jersey,4
+CRPH,New York,4
+CRPH,North Carolina,20
+CRPH,Ohio,8
+CRPH,Pennsylvania,11
+CRPH,Rhode Island,1
+CRPH,South Carolina,3
+CRPH,Tennessee,9
+CRPH,Virginia,15
+CRPH,West Virginia,1
+CRVI2,Alabama,4
+CRVI2,Arkansas,35
+CRVI2,Delaware,1
+CRVI2,Florida,24
+CRVI2,Georgia,0
+CRVI2,Illinois,23
+CRVI2,Indiana,5
+CRVI2,Kansas,9
+CRVI2,Kentucky,13
+CRVI2,Louisiana,46
+CRVI2,Maryland,0
+CRVI2,Mississippi,19
+CRVI2,Missouri,23
+CRVI2,North Carolina,23
+CRVI2,Oklahoma,17
+CRVI2,Pennsylvania,0
+CRVI2,South Carolina,15
+CRVI2,Tennessee,22
+CRVI2,Texas,52
+CRVI2,Virginia,14
+CRVI2,West Virginia,0
+CYDA,Alabama,6
+CYDA,Arizona,15
+CYDA,Arkansas,48
+CYDA,California,43
+CYDA,Colorado,3
+CYDA,Connecticut,0
+CYDA,Delaware,0
+CYDA,District of Columbia,1
+CYDA,Florida,43
+CYDA,Georgia,14
+CYDA,Hawaii,4
+CYDA,Idaho,7
+CYDA,Illinois,28
+CYDA,Indiana,9
+CYDA,Iowa,0
+CYDA,Kansas,73
+CYDA,Kentucky,46
+CYDA,Louisiana,64
+CYDA,Maryland,1
+CYDA,Massachusetts,5
+CYDA,Michigan,5
+CYDA,Mississippi,17
+CYDA,Missouri,26
+CYDA,Montana,2
+CYDA,Nebraska,1
+CYDA,Nevada,4
+CYDA,New Hampshire,0
+CYDA,New Jersey,10
+CYDA,New Mexico,14
+CYDA,New York,11
+CYDA,North Carolina,57
+CYDA,Ohio,0
+CYDA,Oklahoma,25
+CYDA,Oregon,14
+CYDA,Pennsylvania,12
+CYDA,South Carolina,37
+CYDA,Tennessee,26
+CYDA,Texas,101
+CYDA,Utah,6
+CYDA,Virginia,85
+CYDA,Washington,16
+CYDA,West Virginia,9
+CYOB2,California,3
+CYOB2,Connecticut,0
+CYOB2,Illinois,1
+CYOB2,Maryland,0
+CYOB2,Massachusetts,1
+CYOB2,New York,1
+CYOB2,Ohio,0
+CYOB2,Oregon,2
+CYOB2,Pennsylvania,5
+CYOB2,Vermont,0
+CYSC4,Alabama,0
+CYSC4,Alaska,1
+CYSC4,California,15
+CYSC4,Connecticut,0
+CYSC4,Delaware,1
+CYSC4,District of Columbia,1
+CYSC4,Georgia,6
+CYSC4,Hawaii,1
+CYSC4,Idaho,11
+CYSC4,Kentucky,0
+CYSC4,Maine,1
+CYSC4,Maryland,0
+CYSC4,Massachusetts,6
+CYSC4,Michigan,1
+CYSC4,Montana,1
+CYSC4,New Hampshire,1
+CYSC4,New Jersey,7
+CYSC4,New York,8
+CYSC4,North Carolina,8
+CYSC4,Ohio,0
+CYSC4,Oregon,21
+CYSC4,Pennsylvania,10
+CYSC4,South Carolina,4
+CYSC4,Tennessee,4
+CYSC4,Utah,1
+CYSC4,Virginia,51
+CYSC4,Washington,29
+CYSC4,West Virginia,6
+DAFRF,Alaska,18
+DAFRF,Arizona,2
+DAFRF,California,16
+DAFRF,Colorado,39
+DAFRF,Connecticut,0
+DAFRF,Idaho,16
+DAFRF,Illinois,8
+DAFRF,Indiana,20
+DAFRF,Iowa,0
+DAFRF,Maine,9
+DAFRF,Massachusetts,8
+DAFRF,Michigan,53
+DAFRF,Minnesota,20
+DAFRF,Montana,39
+DAFRF,Nevada,8
+DAFRF,New Hampshire,8
+DAFRF,New Jersey,6
+DAFRF,New Mexico,9
+DAFRF,New York,31
+DAFRF,North Carolina,0
+DAFRF,North Dakota,6
+DAFRF,Ohio,21
+DAFRF,Oregon,9
+DAFRF,Pennsylvania,1
+DAFRF,South Dakota,5
+DAFRF,Utah,24
+DAFRF,Vermont,10
+DAFRF,Washington,13
+DAFRF,Wisconsin,29
+DAFRF,Wyoming,16
+DEAN,California,11
+DEAN,Idaho,21
+DEAN,Montana,6
+DEAN,Nevada,16
+DEAN,Oregon,13
+DEAN,Utah,11
+DEGL3,Alaska,14
+DEGL3,Arizona,0
+DEGL3,California,18
+DEGL3,Colorado,0
+DEGL3,Idaho,1
+DEGL3,Montana,0
+DEGL3,Nevada,5
+DEGL3,Oregon,11
+DEGL3,Utah,1
+DEGL3,Washington,10
+DEGL3,Wyoming,5
+DERE,Florida,5
+DERE,Hawaii,1
+DILO,Alabama,1
+DILO,Connecticut,0
+DILO,Delaware,1
+DILO,Georgia,1
+DILO,Illinois,14
+DILO,Indiana,11
+DILO,Iowa,0
+DILO,Maine,16
+DILO,Maryland,0
+DILO,Massachusetts,11
+DILO,Michigan,72
+DILO,Minnesota,40
+DILO,New Hampshire,10
+DILO,New Jersey,12
+DILO,New York,43
+DILO,North Carolina,4
+DILO,North Dakota,0
+DILO,Ohio,25
+DILO,Pennsylvania,64
+DILO,Rhode Island,1
+DILO,Tennessee,6
+DILO,Vermont,13
+DILO,Virginia,23
+DILO,West Virginia,14
+DILO,Wisconsin,68
+DIVI5,Alabama,29
+DIVI5,Arkansas,75
+DIVI5,California,2
+DIVI5,Connecticut,0
+DIVI5,Delaware,2
+DIVI5,District of Columbia,1
+DIVI5,Florida,56
+DIVI5,Georgia,43
+DIVI5,Illinois,65
+DIVI5,Indiana,30
+DIVI5,Iowa,0
+DIVI5,Kansas,28
+DIVI5,Kentucky,117
+DIVI5,Louisiana,62
+DIVI5,Maryland,1
+DIVI5,Massachusetts,2
+DIVI5,Mississippi,37
+DIVI5,Missouri,94
+DIVI5,Nebraska,0
+DIVI5,New Jersey,20
+DIVI5,New York,9
+DIVI5,North Carolina,62
+DIVI5,Ohio,41
+DIVI5,Oklahoma,26
+DIVI5,Pennsylvania,27
+DIVI5,South Carolina,30
+DIVI5,Tennessee,52
+DIVI5,Texas,37
+DIVI5,Utah,1
+DIVI5,Virginia,92
+DIVI5,West Virginia,33
+DOVI,Arizona,8
+DOVI,California,1
+DOVI,Florida,15
+DOVI,Hawaii,4
+DROC,Alaska,18
+DROC,Colorado,16
+DROC,Idaho,6
+DROC,Montana,9
+DROC,Oregon,1
+DROC,Utah,4
+DROC,Washington,5
+DROC,Wyoming,7
+ELAN,Arizona,3
+ELAN,California,8
+ELAN,Colorado,14
+ELAN,Connecticut,0
+ELAN,Idaho,28
+ELAN,Illinois,11
+ELAN,Iowa,5
+ELAN,Kansas,41
+ELAN,Kentucky,12
+ELAN,Maine,1
+ELAN,Maryland,0
+ELAN,Massachusetts,6
+ELAN,Michigan,6
+ELAN,Minnesota,11
+ELAN,Missouri,2
+ELAN,Montana,19
+ELAN,Nebraska,9
+ELAN,Nevada,14
+ELAN,New Jersey,5
+ELAN,New Mexico,21
+ELAN,New York,8
+ELAN,North Carolina,0
+ELAN,North Dakota,31
+ELAN,Ohio,4
+ELAN,Oklahoma,1
+ELAN,Oregon,13
+ELAN,Pennsylvania,8
+ELAN,Rhode Island,1
+ELAN,South Dakota,11
+ELAN,Tennessee,0
+ELAN,Texas,8
+ELAN,Utah,29
+ELAN,Vermont,1
+ELAN,Virginia,4
+ELAN,Washington,8
+ELAN,Wisconsin,5
+ELAN,Wyoming,15
+ELUM,Alabama,4
+ELUM,Arkansas,0
+ELUM,Connecticut,0
+ELUM,Delaware,1
+ELUM,District of Columbia,1
+ELUM,Florida,2
+ELUM,Georgia,6
+ELUM,Hawaii,1
+ELUM,Illinois,7
+ELUM,Indiana,27
+ELUM,Iowa,0
+ELUM,Kansas,0
+ELUM,Kentucky,37
+ELUM,Louisiana,5
+ELUM,Maine,0
+ELUM,Maryland,0
+ELUM,Massachusetts,13
+ELUM,Michigan,8
+ELUM,Mississippi,1
+ELUM,Missouri,0
+ELUM,Montana,0
+ELUM,Nebraska,0
+ELUM,New Hampshire,2
+ELUM,New Jersey,15
+ELUM,New York,15
+ELUM,North Carolina,10
+ELUM,Ohio,28
+ELUM,Oregon,7
+ELUM,Pennsylvania,20
+ELUM,Rhode Island,3
+ELUM,South Carolina,7
+ELUM,Tennessee,17
+ELUM,Vermont,1
+ELUM,Virginia,46
+ELUM,Washington,2
+ELUM,West Virginia,2
+ELUM,Wisconsin,12
+ERNAN5,Colorado,43
+ERNAN5,Kansas,0
+ERNAN5,Montana,38
+ERNAN5,Nebraska,1
+ERNAN5,New Mexico,15
+ERNAN5,North Dakota,10
+ERNAN5,Oklahoma,1
+ERNAN5,South Dakota,3
+ERNAN5,Texas,1
+ERNAN5,Wyoming,21
+ERNI2,Idaho,6
+ERNI2,Oregon,12
+ERNI2,Washington,16
+ERPI7,California,7
+ERSA11,Hawaii,4
+ERUM,Arizona,6
+ERUM,California,44
+ERUM,Colorado,30
+ERUM,Idaho,31
+ERUM,Montana,32
+ERUM,Nevada,17
+ERUM,Oregon,20
+ERUM,Utah,29
+ERUM,Washington,10
+ERUM,Wyoming,18
+ESCA2,Alabama,2
+ESCA2,Alaska,1
+ESCA2,Arizona,13
+ESCA2,California,53
+ESCA2,Colorado,1
+ESCA2,Connecticut,0
+ESCA2,Delaware,0
+ESCA2,Georgia,1
+ESCA2,Hawaii,2
+ESCA2,Idaho,5
+ESCA2,Illinois,1
+ESCA2,Kentucky,1
+ESCA2,Louisiana,2
+ESCA2,Massachusetts,4
+ESCA2,Michigan,1
+ESCA2,Missouri,0
+ESCA2,Nebraska,0
+ESCA2,Nevada,4
+ESCA2,New Hampshire,0
+ESCA2,New Mexico,5
+ESCA2,New York,6
+ESCA2,North Carolina,3
+ESCA2,Ohio,2
+ESCA2,Oregon,18
+ESCA2,Pennsylvania,6
+ESCA2,South Carolina,4
+ESCA2,Tennessee,2
+ESCA2,Texas,3
+ESCA2,Utah,3
+ESCA2,Washington,13
+ESCA2,Wisconsin,2
+ESCA2,Wyoming,1
+EUAM9,Alabama,62
+EUAM9,Arkansas,50
+EUAM9,Delaware,2
+EUAM9,District of Columbia,1
+EUAM9,Florida,35
+EUAM9,Georgia,54
+EUAM9,Illinois,7
+EUAM9,Indiana,11
+EUAM9,Kentucky,75
+EUAM9,Louisiana,41
+EUAM9,Maryland,0
+EUAM9,Mississippi,51
+EUAM9,Missouri,6
+EUAM9,New Jersey,18
+EUAM9,New York,10
+EUAM9,North Carolina,78
+EUAM9,Ohio,6
+EUAM9,Oklahoma,0
+EUAM9,Pennsylvania,16
+EUAM9,South Carolina,38
+EUAM9,Tennessee,73
+EUAM9,Texas,17
+EUAM9,Virginia,86
+EUAM9,West Virginia,25
+EUCA2,California,9
+EUCA2,Florida,1
+EUCA2,Hawaii,4
+EUFI14,Alabama,11
+EUFI14,Arkansas,22
+EUFI14,Connecticut,0
+EUFI14,Delaware,3
+EUFI14,District of Columbia,1
+EUFI14,Florida,20
+EUFI14,Georgia,20
+EUFI14,Illinois,19
+EUFI14,Indiana,35
+EUFI14,Kentucky,58
+EUFI14,Louisiana,19
+EUFI14,Maine,1
+EUFI14,Maryland,0
+EUFI14,Massachusetts,11
+EUFI14,Michigan,1
+EUFI14,Mississippi,45
+EUFI14,Missouri,9
+EUFI14,New Hampshire,7
+EUFI14,New Jersey,13
+EUFI14,New York,24
+EUFI14,North Carolina,63
+EUFI14,Ohio,36
+EUFI14,Oklahoma,0
+EUFI14,Pennsylvania,64
+EUFI14,Rhode Island,1
+EUFI14,South Carolina,16
+EUFI14,Tennessee,35
+EUFI14,Texas,7
+EUFI14,Vermont,3
+EUFI14,Virginia,88
+EUFI14,West Virginia,38
+EUGL,California,20
+EUGL,Hawaii,4
+EURO2,Florida,1
+EURO2,Hawaii,4
+FAGR,Alabama,65
+FAGR,Arkansas,36
+FAGR,Connecticut,0
+FAGR,Delaware,1
+FAGR,District of Columbia,1
+FAGR,Florida,16
+FAGR,Georgia,45
+FAGR,Illinois,23
+FAGR,Indiana,76
+FAGR,Kentucky,117
+FAGR,Louisiana,36
+FAGR,Maine,16
+FAGR,Maryland,0
+FAGR,Massachusetts,14
+FAGR,Michigan,67
+FAGR,Minnesota,0
+FAGR,Mississippi,56
+FAGR,Missouri,9
+FAGR,New Hampshire,10
+FAGR,New Jersey,20
+FAGR,New York,41
+FAGR,North Carolina,67
+FAGR,Ohio,88
+FAGR,Oklahoma,2
+FAGR,Pennsylvania,66
+FAGR,Rhode Island,3
+FAGR,South Carolina,24
+FAGR,Tennessee,73
+FAGR,Texas,9
+FAGR,Utah,0
+FAGR,Vermont,12
+FAGR,Virginia,100
+FAGR,West Virginia,49
+FAGR,Wisconsin,19
+FOGA,Alabama,7
+FOGA,Florida,4
+FOGA,Georgia,7
+FOGA,North Carolina,21
+FOGA,South Carolina,11
+FOSU,Arkansas,0
+FOSU,Connecticut,0
+FOSU,Illinois,0
+FOSU,Kansas,0
+FOSU,Kentucky,2
+FOSU,Louisiana,11
+FOSU,Maryland,0
+FOSU,Massachusetts,3
+FOSU,Montana,0
+FOSU,New Jersey,0
+FOSU,New York,1
+FOSU,North Carolina,0
+FOSU,Ohio,0
+FOSU,Pennsylvania,3
+FOSU,Rhode Island,0
+FOSU,Utah,29
+FOSU,Virginia,2
+FOSU,Washington,1
+FRAL,Georgia,0
+FRAM2,Alabama,12
+FRAM2,Arkansas,74
+FRAM2,Colorado,0
+FRAM2,Connecticut,0
+FRAM2,Delaware,1
+FRAM2,District of Columbia,1
+FRAM2,Florida,13
+FRAM2,Georgia,24
+FRAM2,Hawaii,0
+FRAM2,Illinois,95
+FRAM2,Indiana,69
+FRAM2,Iowa,4
+FRAM2,Kansas,32
+FRAM2,Kentucky,95
+FRAM2,Louisiana,45
+FRAM2,Maine,15
+FRAM2,Maryland,0
+FRAM2,Massachusetts,14
+FRAM2,Michigan,53
+FRAM2,Minnesota,12
+FRAM2,Mississippi,34
+FRAM2,Missouri,107
+FRAM2,Nebraska,8
+FRAM2,New Hampshire,10
+FRAM2,New Jersey,19
+FRAM2,New York,42
+FRAM2,North Carolina,42
+FRAM2,Ohio,88
+FRAM2,Oklahoma,19
+FRAM2,Pennsylvania,66
+FRAM2,Rhode Island,5
+FRAM2,South Carolina,17
+FRAM2,Tennessee,66
+FRAM2,Texas,19
+FRAM2,Vermont,11
+FRAM2,Virginia,92
+FRAM2,West Virginia,51
+FRAM2,Wisconsin,42
+FRCAC5,California,48
+FRCAC5,Hawaii,1
+FRCH,Alaska,11
+FRCH,California,10
+FRCH,Hawaii,2
+FRCH,New York,1
+FRCH,Oregon,15
+FRCH,Washington,9
+FRLA,California,41
+FRLA,Oregon,17
+FRLA,Washington,12
+FRPE,Alabama,17
+FRPE,Arkansas,75
+FRPE,Colorado,9
+FRPE,Connecticut,0
+FRPE,Delaware,2
+FRPE,District of Columbia,1
+FRPE,Florida,23
+FRPE,Georgia,38
+FRPE,Illinois,91
+FRPE,Indiana,73
+FRPE,Iowa,16
+FRPE,Kansas,93
+FRPE,Kentucky,104
+FRPE,Louisiana,57
+FRPE,Maine,14
+FRPE,Maryland,0
+FRPE,Massachusetts,11
+FRPE,Michigan,66
+FRPE,Minnesota,80
+FRPE,Mississippi,23
+FRPE,Missouri,105
+FRPE,Montana,26
+FRPE,Nebraska,48
+FRPE,New Hampshire,6
+FRPE,New Jersey,16
+FRPE,New Mexico,3
+FRPE,New York,40
+FRPE,North Carolina,43
+FRPE,North Dakota,42
+FRPE,Ohio,85
+FRPE,Oklahoma,35
+FRPE,Pennsylvania,48
+FRPE,Rhode Island,4
+FRPE,South Carolina,24
+FRPE,South Dakota,36
+FRPE,Tennessee,61
+FRPE,Texas,54
+FRPE,Utah,9
+FRPE,Vermont,6
+FRPE,Virginia,65
+FRPE,West Virginia,32
+FRPE,Wisconsin,66
+FRPE,Wyoming,13
+FRPR,Alabama,2
+FRPR,Arkansas,9
+FRPR,Delaware,1
+FRPR,District of Columbia,1
+FRPR,Florida,0
+FRPR,Georgia,3
+FRPR,Illinois,19
+FRPR,Indiana,17
+FRPR,Kentucky,14
+FRPR,Louisiana,26
+FRPR,Maryland,0
+FRPR,Michigan,2
+FRPR,Mississippi,8
+FRPR,Missouri,9
+FRPR,New Jersey,3
+FRPR,New York,1
+FRPR,North Carolina,25
+FRPR,Ohio,12
+FRPR,Pennsylvania,1
+FRPR,South Carolina,6
+FRPR,Tennessee,11
+FRPR,Virginia,21
+FRVE2,Arizona,11
+FRVE2,California,10
+FRVE2,Nevada,3
+FRVE2,New Mexico,13
+FRVE2,Texas,5
+FRVE2,Utah,3
+GERI,Arizona,8
+GERI,California,17
+GERI,Colorado,33
+GERI,Idaho,17
+GERI,Montana,20
+GERI,Nevada,2
+GERI,New Mexico,16
+GERI,Oregon,9
+GERI,South Dakota,3
+GERI,Utah,29
+GERI,Washington,0
+GERI,Wyoming,19
+GEVI2,California,7
+GEVI2,Colorado,14
+GEVI2,Idaho,31
+GEVI2,Montana,34
+GEVI2,Nebraska,0
+GEVI2,Nevada,10
+GEVI2,New Mexico,1
+GEVI2,Oregon,17
+GEVI2,South Dakota,3
+GEVI2,Utah,21
+GEVI2,Washington,18
+GEVI2,Wyoming,17
+GOLA,Alabama,4
+GOLA,Florida,46
+GOLA,Georgia,22
+GOLA,Mississippi,5
+GOLA,North Carolina,19
+GOLA,South Carolina,11
+GOTO,Hawaii,3
+GRRO,Florida,10
+GRRO,Hawaii,4
+HAVI4,Alabama,58
+HAVI4,Arkansas,45
+HAVI4,Connecticut,0
+HAVI4,Delaware,3
+HAVI4,District of Columbia,1
+HAVI4,Florida,31
+HAVI4,Georgia,62
+HAVI4,Illinois,23
+HAVI4,Indiana,52
+HAVI4,Iowa,0
+HAVI4,Kentucky,80
+HAVI4,Louisiana,40
+HAVI4,Maine,16
+HAVI4,Maryland,0
+HAVI4,Massachusetts,14
+HAVI4,Michigan,68
+HAVI4,Minnesota,6
+HAVI4,Mississippi,44
+HAVI4,Missouri,5
+HAVI4,New Hampshire,10
+HAVI4,New Jersey,19
+HAVI4,New York,53
+HAVI4,North Carolina,70
+HAVI4,Ohio,75
+HAVI4,Oklahoma,3
+HAVI4,Pennsylvania,67
+HAVI4,Rhode Island,4
+HAVI4,South Carolina,24
+HAVI4,Tennessee,41
+HAVI4,Texas,12
+HAVI4,Vermont,7
+HAVI4,Virginia,89
+HAVI4,West Virginia,48
+HAVI4,Wisconsin,46
+HEAL,Alaska,17
+HEAL,Maine,1
+HEAL,Michigan,1
+HEAL,Montana,2
+HEAL,Nebraska,0
+HEAL,New Hampshire,1
+HEAL,North Dakota,0
+HEAL,Rhode Island,0
+HEAL,South Dakota,3
+HEAL,Vermont,2
+HEAL,Wyoming,9
+HEAN2,Alabama,7
+HEAN2,Arkansas,48
+HEAN2,Delaware,2
+HEAN2,District of Columbia,1
+HEAN2,Florida,48
+HEAN2,Georgia,40
+HEAN2,Illinois,3
+HEAN2,Indiana,2
+HEAN2,Kentucky,20
+HEAN2,Louisiana,43
+HEAN2,Maryland,1
+HEAN2,Mississippi,12
+HEAN2,Missouri,4
+HEAN2,New Jersey,10
+HEAN2,New York,5
+HEAN2,North Carolina,52
+HEAN2,Ohio,1
+HEAN2,Oklahoma,0
+HEAN2,Pennsylvania,1
+HEAN2,South Carolina,32
+HEAN2,Tennessee,43
+HEAN2,Texas,38
+HEAN2,Virginia,25
+HEAN2,West Virginia,1
+HEAN3,Alabama,2
+HEAN3,Alaska,2
+HEAN3,Arizona,15
+HEAN3,Arkansas,27
+HEAN3,California,39
+HEAN3,Colorado,30
+HEAN3,Connecticut,0
+HEAN3,Delaware,1
+HEAN3,District of Columbia,1
+HEAN3,Florida,16
+HEAN3,Georgia,4
+HEAN3,Hawaii,1
+HEAN3,Idaho,27
+HEAN3,Illinois,74
+HEAN3,Indiana,17
+HEAN3,Iowa,19
+HEAN3,Kansas,105
+HEAN3,Kentucky,19
+HEAN3,Louisiana,30
+HEAN3,Maine,8
+HEAN3,Maryland,0
+HEAN3,Massachusetts,14
+HEAN3,Michigan,34
+HEAN3,Minnesota,21
+HEAN3,Mississippi,2
+HEAN3,Missouri,40
+HEAN3,Montana,33
+HEAN3,Nebraska,37
+HEAN3,Nevada,13
+HEAN3,New Hampshire,5
+HEAN3,New Jersey,10
+HEAN3,New Mexico,28
+HEAN3,New York,13
+HEAN3,North Carolina,12
+HEAN3,North Dakota,37
+HEAN3,Ohio,26
+HEAN3,Oklahoma,29
+HEAN3,Oregon,16
+HEAN3,Pennsylvania,19
+HEAN3,Rhode Island,3
+HEAN3,South Carolina,13
+HEAN3,South Dakota,38
+HEAN3,Tennessee,19
+HEAN3,Texas,128
+HEAN3,Utah,29
+HEAN3,Vermont,3
+HEAN3,Virginia,0
+HEAN3,Washington,17
+HEAN3,West Virginia,8
+HEAN3,Wisconsin,5
+HEAN3,Wyoming,18
+HEAR22,Arizona,11
+HEAR22,California,2
+HEAR22,Nevada,2
+HEAR22,New Mexico,4
+HEAR22,Texas,1
+HEAR22,Utah,3
+HECOC8,Arizona,6
+HECOC8,California,4
+HECOC8,Colorado,42
+HECOC8,Idaho,23
+HECOC8,Illinois,3
+HECOC8,Indiana,1
+HECOC8,Iowa,3
+HECOC8,Kansas,12
+HECOC8,Michigan,2
+HECOC8,Minnesota,23
+HECOC8,Montana,15
+HECOC8,Nebraska,35
+HECOC8,Nevada,15
+HECOC8,New Mexico,18
+HECOC8,New York,1
+HECOC8,North Dakota,45
+HECOC8,Oklahoma,3
+HECOC8,Oregon,10
+HECOC8,Rhode Island,0
+HECOC8,South Dakota,25
+HECOC8,Texas,16
+HECOC8,Utah,26
+HECOC8,Washington,17
+HECOC8,Wisconsin,9
+HECOC8,Wyoming,21
+HECY2,California,2
+HECY2,Idaho,24
+HECY2,Montana,16
+HECY2,Nevada,2
+HECY2,Oregon,18
+HECY2,Washington,20
+HECY2,Wyoming,3
+HEDE4,Alabama,1
+HEDE4,Connecticut,0
+HEDE4,Florida,27
+HEDE4,Georgia,4
+HEDE4,Louisiana,3
+HEDE4,Maine,1
+HEDE4,Maryland,0
+HEDE4,Massachusetts,6
+HEDE4,Michigan,2
+HEDE4,Mississippi,0
+HEDE4,New Hampshire,2
+HEDE4,North Carolina,14
+HEDE4,Pennsylvania,2
+HEDE4,Rhode Island,1
+HEDE4,South Carolina,15
+HEDE4,Texas,47
+HEDE4,Vermont,1
+HEDE4,Virginia,3
+HEDE4,West Virginia,1
+HEGR4,Arkansas,11
+HEGR4,Connecticut,0
+HEGR4,Delaware,0
+HEGR4,Georgia,1
+HEGR4,Illinois,94
+HEGR4,Indiana,44
+HEGR4,Iowa,26
+HEGR4,Kansas,44
+HEGR4,Kentucky,19
+HEGR4,Louisiana,13
+HEGR4,Maine,3
+HEGR4,Maryland,0
+HEGR4,Massachusetts,6
+HEGR4,Michigan,11
+HEGR4,Minnesota,46
+HEGR4,Mississippi,2
+HEGR4,Missouri,84
+HEGR4,Nebraska,36
+HEGR4,New Hampshire,2
+HEGR4,New Jersey,3
+HEGR4,New Mexico,1
+HEGR4,New York,16
+HEGR4,North Carolina,0
+HEGR4,North Dakota,1
+HEGR4,Ohio,39
+HEGR4,Oklahoma,13
+HEGR4,Pennsylvania,15
+HEGR4,South Dakota,8
+HEGR4,Tennessee,7
+HEGR4,Texas,16
+HEGR4,Virginia,20
+HEGR4,Washington,2
+HEGR4,West Virginia,4
+HEGR4,Wisconsin,24
+HEHE,Alabama,1
+HEHE,Arizona,0
+HEHE,Arkansas,0
+HEHE,California,15
+HEHE,Connecticut,0
+HEHE,Delaware,0
+HEHE,District of Columbia,1
+HEHE,Florida,6
+HEHE,Georgia,4
+HEHE,Hawaii,3
+HEHE,Idaho,2
+HEHE,Illinois,1
+HEHE,Indiana,0
+HEHE,Kentucky,17
+HEHE,Louisiana,26
+HEHE,Maryland,0
+HEHE,Massachusetts,4
+HEHE,Michigan,0
+HEHE,Mississippi,2
+HEHE,Missouri,1
+HEHE,New Jersey,13
+HEHE,New York,10
+HEHE,North Carolina,4
+HEHE,Ohio,7
+HEHE,Oregon,15
+HEHE,Pennsylvania,10
+HEHE,South Carolina,1
+HEHE,Tennessee,9
+HEHE,Texas,9
+HEHE,Utah,0
+HEHE,Virginia,35
+HEHE,Washington,18
+HEHE,West Virginia,2
+HEMER,Alabama,9
+HEMER,Arkansas,23
+HEMER,Colorado,0
+HEMER,Connecticut,0
+HEMER,Delaware,1
+HEMER,District of Columbia,1
+HEMER,Florida,6
+HEMER,Georgia,8
+HEMER,Idaho,2
+HEMER,Illinois,75
+HEMER,Indiana,31
+HEMER,Iowa,1
+HEMER,Kansas,25
+HEMER,Kentucky,80
+HEMER,Louisiana,24
+HEMER,Maine,9
+HEMER,Maryland,9
+HEMER,Massachusetts,12
+HEMER,Michigan,27
+HEMER,Minnesota,7
+HEMER,Mississippi,5
+HEMER,Missouri,28
+HEMER,Montana,1
+HEMER,Nebraska,1
+HEMER,New Hampshire,7
+HEMER,New Jersey,18
+HEMER,New York,24
+HEMER,North Carolina,48
+HEMER,Ohio,1
+HEMER,Oklahoma,0
+HEMER,Oregon,2
+HEMER,Pennsylvania,51
+HEMER,Rhode Island,1
+HEMER,South Carolina,25
+HEMER,South Dakota,2
+HEMER,Tennessee,20
+HEMER,Texas,2
+HEMER,Utah,0
+HEMER,Vermont,9
+HEMER,Virginia,80
+HEMER,Washington,0
+HEMER,West Virginia,16
+HEMER,Wisconsin,45
+HEMER,Wyoming,0
+HENU,Arizona,4
+HENU,California,8
+HENU,Colorado,20
+HENU,Idaho,18
+HENU,Iowa,0
+HENU,Kansas,0
+HENU,Minnesota,7
+HENU,Missouri,0
+HENU,Montana,19
+HENU,Nebraska,11
+HENU,Nevada,7
+HENU,New Mexico,7
+HENU,North Dakota,31
+HENU,Oklahoma,0
+HENU,Oregon,4
+HENU,South Dakota,12
+HENU,Utah,19
+HENU,Washington,1
+HENU,Wyoming,17
+HESA3,Arizona,4
+HESA3,New Mexico,1
+HESA3,Pennsylvania,1
+HETU,Alabama,0
+HETU,Arkansas,23
+HETU,California,2
+HETU,Colorado,3
+HETU,Connecticut,0
+HETU,Delaware,3
+HETU,District of Columbia,1
+HETU,Florida,4
+HETU,Georgia,10
+HETU,Idaho,2
+HETU,Illinois,96
+HETU,Indiana,64
+HETU,Iowa,15
+HETU,Kansas,71
+HETU,Kentucky,54
+HETU,Louisiana,17
+HETU,Maine,5
+HETU,Maryland,0
+HETU,Massachusetts,13
+HETU,Michigan,30
+HETU,Minnesota,48
+HETU,Mississippi,1
+HETU,Missouri,68
+HETU,Montana,0
+HETU,Nebraska,45
+HETU,New Hampshire,3
+HETU,New Jersey,11
+HETU,New York,27
+HETU,North Carolina,53
+HETU,North Dakota,31
+HETU,Ohio,68
+HETU,Oklahoma,11
+HETU,Oregon,1
+HETU,Pennsylvania,56
+HETU,Rhode Island,3
+HETU,South Carolina,18
+HETU,South Dakota,16
+HETU,Tennessee,58
+HETU,Texas,2
+HETU,Utah,1
+HETU,Vermont,6
+HETU,Virginia,85
+HETU,Washington,2
+HETU,West Virginia,25
+HETU,Wisconsin,38
+HETU,Wyoming,1
+HIAC,Alabama,5
+HIAC,Florida,27
+HIAC,Georgia,16
+HIAC,Louisiana,11
+HIAC,Mississippi,12
+HIAC,North Carolina,3
+HIAC,South Carolina,13
+HIAC,Texas,1
+HILA2,Alabama,16
+HILA2,Arkansas,35
+HILA2,District of Columbia,1
+HILA2,Florida,8
+HILA2,Georgia,11
+HILA2,Illinois,71
+HILA2,Indiana,30
+HILA2,Iowa,2
+HILA2,Kansas,25
+HILA2,Kentucky,27
+HILA2,Louisiana,45
+HILA2,Maryland,0
+HILA2,Michigan,1
+HILA2,Minnesota,0
+HILA2,Mississippi,25
+HILA2,Missouri,60
+HILA2,Nebraska,6
+HILA2,New York,2
+HILA2,North Carolina,14
+HILA2,Ohio,25
+HILA2,Oklahoma,13
+HILA2,Pennsylvania,6
+HILA2,South Carolina,6
+HILA2,Tennessee,23
+HILA2,Texas,30
+HILA2,Virginia,22
+HILA2,West Virginia,5
+HILA2,Wisconsin,2
+HIMO,Alabama,18
+HIMO,Connecticut,0
+HIMO,Delaware,1
+HIMO,District of Columbia,1
+HIMO,Florida,20
+HIMO,Georgia,22
+HIMO,Illinois,38
+HIMO,Indiana,26
+HIMO,Kansas,2
+HIMO,Kentucky,44
+HIMO,Louisiana,61
+HIMO,Maryland,0
+HIMO,Massachusetts,9
+HIMO,Michigan,9
+HIMO,Mississippi,25
+HIMO,Missouri,43
+HIMO,New Jersey,18
+HIMO,New Mexico,0
+HIMO,New York,18
+HIMO,North Carolina,67
+HIMO,Ohio,39
+HIMO,Oklahoma,7
+HIMO,Pennsylvania,12
+HIMO,Rhode Island,3
+HIMO,South Carolina,34
+HIMO,Tennessee,41
+HIMO,Texas,8
+HIMO,Utah,1
+HIMO,Virginia,69
+HIMO,West Virginia,14
+HIMO,Wisconsin,1
+HUTO,Connecticut,0
+HUTO,Delaware,1
+HUTO,Illinois,5
+HUTO,Indiana,4
+HUTO,Iowa,0
+HUTO,Maine,5
+HUTO,Maryland,0
+HUTO,Massachusetts,8
+HUTO,Michigan,26
+HUTO,Minnesota,13
+HUTO,New Hampshire,2
+HUTO,New Jersey,9
+HUTO,New York,7
+HUTO,North Carolina,2
+HUTO,North Dakota,1
+HUTO,Ohio,2
+HUTO,Rhode Island,5
+HUTO,Vermont,1
+HUTO,Virginia,9
+HUTO,West Virginia,1
+HUTO,Wisconsin,26
+HYCA10,California,4
+HYCA10,Oregon,1
+HYCA10,Tennessee,0
+HYCA10,Washington,1
+HYOCO,Alabama,7
+HYOCO,Arkansas,3
+HYOCO,Florida,5
+HYOCO,Georgia,19
+HYOCO,Illinois,9
+HYOCO,Indiana,5
+HYOCO,Kentucky,20
+HYOCO,Louisiana,1
+HYOCO,Mississippi,13
+HYOCO,Missouri,9
+HYOCO,North Carolina,1
+HYOCO,Tennessee,34
+HYQU3,Alabama,58
+HYQU3,District of Columbia,1
+HYQU3,Florida,10
+HYQU3,Georgia,15
+HYQU3,Louisiana,15
+HYQU3,Mississippi,47
+HYQU3,North Carolina,1
+HYQU3,South Carolina,0
+HYQU3,Tennessee,15
+ILAM2,Alabama,3
+ILAM2,Florida,7
+ILAM2,Georgia,6
+ILAM2,Louisiana,3
+ILAM2,Mississippi,12
+ILAM2,North Carolina,6
+ILAM2,South Carolina,2
+ILCA,Alabama,11
+ILCA,Florida,60
+ILCA,Georgia,12
+ILCA,Hawaii,2
+ILCA,Louisiana,13
+ILCA,Mississippi,3
+ILCA,North Carolina,2
+ILCA,South Carolina,7
+ILCA,Texas,0
+ILCO,Alabama,11
+ILCO,Florida,36
+ILCO,Georgia,31
+ILCO,Louisiana,7
+ILCO,Mississippi,16
+ILCO,North Carolina,29
+ILCO,South Carolina,19
+ILCO,Texas,9
+ILCO,Virginia,2
+ILCO80,Alabama,1
+ILCO80,Kentucky,2
+ILCO80,North Carolina,0
+ILCR2,Connecticut,0
+ILCR2,Delaware,0
+ILCR2,District of Columbia,1
+ILCR2,Louisiana,1
+ILCR2,New Jersey,9
+ILCR2,New York,6
+ILCR2,North Carolina,0
+ILCR2,Ohio,2
+ILCR2,Pennsylvania,0
+ILCR2,Washington,1
+ILDE,Alabama,58
+ILDE,Arkansas,75
+ILDE,District of Columbia,1
+ILDE,Florida,32
+ILDE,Georgia,44
+ILDE,Illinois,39
+ILDE,Indiana,6
+ILDE,Kansas,5
+ILDE,Kentucky,25
+ILDE,Louisiana,63
+ILDE,Maryland,7
+ILDE,Mississippi,65
+ILDE,Missouri,55
+ILDE,North Carolina,38
+ILDE,Oklahoma,18
+ILDE,South Carolina,29
+ILDE,Tennessee,35
+ILDE,Texas,69
+ILDE,Virginia,33
+ILGL,Alabama,18
+ILGL,Arkansas,0
+ILGL,Connecticut,0
+ILGL,Delaware,1
+ILGL,Florida,67
+ILGL,Georgia,39
+ILGL,Louisiana,8
+ILGL,Maine,1
+ILGL,Maryland,0
+ILGL,Massachusetts,7
+ILGL,Mississippi,15
+ILGL,New Hampshire,1
+ILGL,New Jersey,13
+ILGL,New York,5
+ILGL,North Carolina,44
+ILGL,Pennsylvania,3
+ILGL,Rhode Island,3
+ILGL,South Carolina,28
+ILGL,Texas,0
+ILGL,Virginia,18
+ILOP,Alabama,56
+ILOP,Arkansas,46
+ILOP,Connecticut,0
+ILOP,Delaware,2
+ILOP,District of Columbia,1
+ILOP,Florida,47
+ILOP,Georgia,54
+ILOP,Illinois,1
+ILOP,Indiana,0
+ILOP,Kentucky,77
+ILOP,Louisiana,45
+ILOP,Maryland,0
+ILOP,Massachusetts,7
+ILOP,Mississippi,53
+ILOP,Missouri,7
+ILOP,New Jersey,17
+ILOP,New York,11
+ILOP,North Carolina,83
+ILOP,Ohio,7
+ILOP,Oklahoma,0
+ILOP,Pennsylvania,15
+ILOP,Rhode Island,4
+ILOP,South Carolina,37
+ILOP,Tennessee,45
+ILOP,Texas,37
+ILOP,Virginia,81
+ILOP,West Virginia,23
+ILRI,California,1
+ILRI,Colorado,4
+ILRI,Idaho,26
+ILRI,Illinois,1
+ILRI,Indiana,1
+ILRI,Montana,13
+ILRI,Nevada,3
+ILRI,Oregon,17
+ILRI,Utah,23
+ILRI,Virginia,5
+ILRI,Washington,16
+ILRI,Wyoming,8
+ILVE,Alabama,30
+ILVE,Arkansas,6
+ILVE,Connecticut,0
+ILVE,Delaware,1
+ILVE,District of Columbia,1
+ILVE,Florida,6
+ILVE,Georgia,20
+ILVE,Illinois,19
+ILVE,Indiana,54
+ILVE,Iowa,0
+ILVE,Kentucky,34
+ILVE,Louisiana,16
+ILVE,Maine,16
+ILVE,Maryland,2
+ILVE,Massachusetts,14
+ILVE,Michigan,70
+ILVE,Minnesota,28
+ILVE,Mississippi,9
+ILVE,Missouri,5
+ILVE,New Hampshire,10
+ILVE,New Jersey,21
+ILVE,New York,47
+ILVE,North Carolina,57
+ILVE,Ohio,69
+ILVE,Pennsylvania,64
+ILVE,Rhode Island,5
+ILVE,South Carolina,16
+ILVE,Tennessee,32
+ILVE,Texas,1
+ILVE,Vermont,10
+ILVE,Virginia,92
+ILVE,West Virginia,25
+ILVE,Wisconsin,61
+ILVO,Alabama,26
+ILVO,Arkansas,10
+ILVO,Florida,37
+ILVO,Georgia,25
+ILVO,Louisiana,55
+ILVO,Mississippi,27
+ILVO,North Carolina,10
+ILVO,Oklahoma,0
+ILVO,South Carolina,10
+ILVO,Texas,50
+ILVO,Virginia,4
+IPAGA3,California,1
+IPAGA3,Colorado,18
+IPAGA3,Idaho,30
+IPAGA3,Montana,9
+IPAGA3,Nevada,15
+IPAGA3,New Mexico,10
+IPAGA3,Utah,29
+IPAGA3,Washington,20
+IPAGA3,Wyoming,6
+IRFU,Alabama,1
+IRFU,Arkansas,15
+IRFU,Florida,1
+IRFU,Georgia,0
+IRFU,Illinois,7
+IRFU,Kentucky,3
+IRFU,Louisiana,33
+IRFU,Mississippi,11
+IRFU,Missouri,9
+IRFU,Ohio,0
+IRFU,Tennessee,6
+IRFU,Texas,1
+IRMI,Arizona,5
+IRMI,California,33
+IRMI,Colorado,28
+IRMI,Idaho,20
+IRMI,Minnesota,1
+IRMI,Montana,0
+IRMI,Nebraska,1
+IRMI,Nevada,12
+IRMI,New Mexico,16
+IRMI,North Dakota,2
+IRMI,Oregon,19
+IRMI,South Dakota,3
+IRMI,Utah,16
+IRMI,Washington,17
+IRMI,Wyoming,15
+IRTE,California,2
+IRTE,Oregon,18
+IRTE,Washington,9
+IRVI,Alabama,9
+IRVI,Arkansas,24
+IRVI,District of Columbia,1
+IRVI,Florida,18
+IRVI,Georgia,19
+IRVI,Illinois,83
+IRVI,Indiana,63
+IRVI,Iowa,5
+IRVI,Kansas,2
+IRVI,Kentucky,33
+IRVI,Louisiana,35
+IRVI,Maryland,2
+IRVI,Michigan,53
+IRVI,Minnesota,28
+IRVI,Mississippi,13
+IRVI,Missouri,35
+IRVI,Nebraska,6
+IRVI,New York,5
+IRVI,North Carolina,42
+IRVI,Ohio,32
+IRVI,Oklahoma,2
+IRVI,Pennsylvania,0
+IRVI,South Carolina,23
+IRVI,Tennessee,16
+IRVI,Texas,18
+IRVI,Virginia,36
+IRVI,West Virginia,11
+IRVI,Wisconsin,54
+IVFR,Alabama,1
+IVFR,Connecticut,0
+IVFR,Delaware,1
+IVFR,Florida,23
+IVFR,Georgia,5
+IVFR,Louisiana,13
+IVFR,Maine,0
+IVFR,Maryland,0
+IVFR,Massachusetts,9
+IVFR,Mississippi,3
+IVFR,New Hampshire,2
+IVFR,New Jersey,10
+IVFR,New York,9
+IVFR,North Carolina,10
+IVFR,Pennsylvania,1
+IVFR,Rhode Island,5
+IVFR,South Carolina,5
+IVFR,Texas,10
+IVFR,Virginia,24
+JUAM,Alabama,29
+JUAM,Arkansas,41
+JUAM,Delaware,1
+JUAM,District of Columbia,1
+JUAM,Florida,2
+JUAM,Georgia,13
+JUAM,Illinois,50
+JUAM,Indiana,41
+JUAM,Iowa,0
+JUAM,Kansas,34
+JUAM,Kentucky,71
+JUAM,Louisiana,4
+JUAM,Maryland,7
+JUAM,Michigan,4
+JUAM,Mississippi,2
+JUAM,Missouri,85
+JUAM,New Jersey,9
+JUAM,New York,12
+JUAM,North Carolina,28
+JUAM,Ohio,54
+JUAM,Oklahoma,26
+JUAM,Pennsylvania,45
+JUAM,South Carolina,4
+JUAM,Tennessee,38
+JUAM,Texas,59
+JUAM,Vermont,0
+JUAM,Virginia,69
+JUAM,West Virginia,35
+JUAM,Wisconsin,0
+JUCI,Alabama,9
+JUCI,Arkansas,13
+JUCI,Connecticut,0
+JUCI,Delaware,1
+JUCI,District of Columbia,1
+JUCI,Georgia,9
+JUCI,Illinois,67
+JUCI,Indiana,54
+JUCI,Iowa,3
+JUCI,Kentucky,83
+JUCI,Maine,10
+JUCI,Maryland,10
+JUCI,Massachusetts,11
+JUCI,Michigan,34
+JUCI,Minnesota,26
+JUCI,Mississippi,11
+JUCI,Missouri,73
+JUCI,New Hampshire,8
+JUCI,New Jersey,16
+JUCI,New York,48
+JUCI,North Carolina,12
+JUCI,Ohio,64
+JUCI,Pennsylvania,65
+JUCI,Rhode Island,2
+JUCI,South Carolina,1
+JUCI,Tennessee,34
+JUCI,Vermont,11
+JUCI,Virginia,59
+JUCI,West Virginia,0
+JUCI,Wisconsin,53
+JUCO6,Alabama,0
+JUCO6,Alaska,18
+JUCO6,Arizona,5
+JUCO6,California,10
+JUCO6,Colorado,37
+JUCO6,Connecticut,0
+JUCO6,Delaware,1
+JUCO6,Georgia,1
+JUCO6,Idaho,24
+JUCO6,Illinois,2
+JUCO6,Indiana,7
+JUCO6,Iowa,0
+JUCO6,Kentucky,3
+JUCO6,Maine,16
+JUCO6,Maryland,2
+JUCO6,Massachusetts,13
+JUCO6,Michigan,54
+JUCO6,Minnesota,40
+JUCO6,Montana,25
+JUCO6,Nebraska,3
+JUCO6,Nevada,5
+JUCO6,New Hampshire,10
+JUCO6,New Jersey,10
+JUCO6,New Mexico,11
+JUCO6,New York,37
+JUCO6,North Carolina,2
+JUCO6,North Dakota,16
+JUCO6,Ohio,3
+JUCO6,Oregon,23
+JUCO6,Pennsylvania,25
+JUCO6,Rhode Island,3
+JUCO6,South Carolina,1
+JUCO6,South Dakota,6
+JUCO6,Utah,27
+JUCO6,Vermont,9
+JUCO6,Virginia,5
+JUCO6,Washington,20
+JUCO6,West Virginia,2
+JUCO6,Wisconsin,43
+JUCO6,Wyoming,21
+JUHO2,Alaska,5
+JUHO2,Connecticut,0
+JUHO2,Illinois,2
+JUHO2,Iowa,0
+JUHO2,Maine,9
+JUHO2,Massachusetts,1
+JUHO2,Michigan,20
+JUHO2,Minnesota,16
+JUHO2,Montana,23
+JUHO2,Nebraska,3
+JUHO2,New Hampshire,1
+JUHO2,New York,9
+JUHO2,North Dakota,18
+JUHO2,Rhode Island,0
+JUHO2,South Dakota,4
+JUHO2,Vermont,1
+JUHO2,Wisconsin,10
+JUHO2,Wyoming,12
+JUMI,Kansas,4
+JUMI,New Mexico,6
+JUMI,Oklahoma,18
+JUMI,Texas,20
+JUMO,Arizona,8
+JUMO,Colorado,9
+JUMO,Kansas,1
+JUMO,New Mexico,23
+JUMO,Oklahoma,2
+JUMO,Texas,25
+JUMO,Utah,0
+JUNI,Alabama,37
+JUNI,Arkansas,69
+JUNI,Colorado,1
+JUNI,Connecticut,0
+JUNI,Delaware,2
+JUNI,District of Columbia,1
+JUNI,Florida,7
+JUNI,Georgia,24
+JUNI,Illinois,101
+JUNI,Indiana,55
+JUNI,Iowa,20
+JUNI,Kansas,80
+JUNI,Kentucky,108
+JUNI,Louisiana,38
+JUNI,Maine,1
+JUNI,Maryland,0
+JUNI,Massachusetts,5
+JUNI,Michigan,27
+JUNI,Minnesota,25
+JUNI,Mississippi,21
+JUNI,Missouri,113
+JUNI,Nebraska,26
+JUNI,New Hampshire,1
+JUNI,New Jersey,19
+JUNI,New Mexico,1
+JUNI,New York,38
+JUNI,North Carolina,51
+JUNI,North Dakota,1
+JUNI,Ohio,88
+JUNI,Oklahoma,30
+JUNI,Pennsylvania,50
+JUNI,Rhode Island,2
+JUNI,South Carolina,16
+JUNI,South Dakota,4
+JUNI,Tennessee,42
+JUNI,Texas,23
+JUNI,Utah,5
+JUNI,Virginia,89
+JUNI,West Virginia,41
+JUNI,Wisconsin,27
+JUOS,Arizona,9
+JUOS,California,8
+JUOS,Colorado,12
+JUOS,Idaho,10
+JUOS,Montana,0
+JUOS,Nevada,17
+JUOS,New Mexico,6
+JUOS,Utah,29
+JUOS,Wyoming,8
+JURE80,California,8
+JURE80,Idaho,1
+JURE80,Michigan,0
+JURE80,New York,2
+JURE80,Washington,1
+JUSC2,Arizona,6
+JUSC2,Colorado,37
+JUSC2,Idaho,28
+JUSC2,Kansas,1
+JUSC2,Montana,13
+JUSC2,Nebraska,10
+JUSC2,Nevada,6
+JUSC2,New Mexico,20
+JUSC2,North Dakota,17
+JUSC2,Oklahoma,1
+JUSC2,Oregon,2
+JUSC2,South Dakota,7
+JUSC2,Texas,8
+JUSC2,Utah,29
+JUSC2,Washington,16
+JUSC2,Wyoming,22
+JUVI,Alabama,66
+JUVI,Arkansas,74
+JUVI,Colorado,5
+JUVI,Connecticut,0
+JUVI,Delaware,3
+JUVI,District of Columbia,1
+JUVI,Florida,39
+JUVI,Georgia,35
+JUVI,Illinois,98
+JUVI,Indiana,47
+JUVI,Iowa,7
+JUVI,Kansas,81
+JUVI,Kentucky,106
+JUVI,Louisiana,56
+JUVI,Maine,7
+JUVI,Maryland,18
+JUVI,Massachusetts,14
+JUVI,Michigan,31
+JUVI,Minnesota,45
+JUVI,Mississippi,50
+JUVI,Missouri,70
+JUVI,Nebraska,36
+JUVI,New Hampshire,9
+JUVI,New Jersey,21
+JUVI,New York,38
+JUVI,North Carolina,67
+JUVI,North Dakota,1
+JUVI,Ohio,3
+JUVI,Oklahoma,33
+JUVI,Oregon,2
+JUVI,Pennsylvania,45
+JUVI,Rhode Island,4
+JUVI,South Carolina,29
+JUVI,South Dakota,8
+JUVI,Tennessee,49
+JUVI,Texas,49
+JUVI,Vermont,7
+JUVI,Virginia,96
+JUVI,West Virginia,33
+JUVI,Wisconsin,44
+KALA,Alabama,53
+KALA,Connecticut,0
+KALA,Delaware,1
+KALA,District of Columbia,1
+KALA,Florida,12
+KALA,Georgia,47
+KALA,Indiana,4
+KALA,Kentucky,59
+KALA,Louisiana,2
+KALA,Maine,8
+KALA,Maryland,1
+KALA,Massachusetts,14
+KALA,Mississippi,14
+KALA,New Hampshire,8
+KALA,New Jersey,20
+KALA,New York,33
+KALA,North Carolina,69
+KALA,Ohio,26
+KALA,Pennsylvania,64
+KALA,Rhode Island,4
+KALA,South Carolina,22
+KALA,Tennessee,58
+KALA,Vermont,2
+KALA,Virginia,97
+KALA,West Virginia,45
+KAPO,Connecticut,0
+KAPO,Maine,14
+KAPO,Massachusetts,8
+KAPO,Michigan,48
+KAPO,Minnesota,17
+KAPO,Montana,14
+KAPO,New Hampshire,10
+KAPO,New Jersey,4
+KAPO,New York,26
+KAPO,Pennsylvania,6
+KAPO,Rhode Island,1
+KAPO,Vermont,10
+KAPO,Wisconsin,37
+KOPA,Alabama,1
+KOPA,Delaware,0
+KOPA,Florida,0
+KOPA,Idaho,3
+KOPA,Illinois,1
+KOPA,Indiana,1
+KOPA,Kansas,0
+KOPA,Kentucky,4
+KOPA,Louisiana,18
+KOPA,Maryland,0
+KOPA,Massachusetts,1
+KOPA,Missouri,0
+KOPA,New Jersey,2
+KOPA,New York,6
+KOPA,North Carolina,1
+KOPA,Ohio,4
+KOPA,Pennsylvania,7
+KOPA,Tennessee,2
+KOPA,Texas,1
+KOPA,Utah,5
+KOPA,Virginia,3
+KOPA,West Virginia,1
+LADE2,Connecticut,0
+LADE2,Illinois,3
+LADE2,Maine,0
+LADE2,Maryland,2
+LADE2,Massachusetts,11
+LADE2,Michigan,0
+LADE2,Minnesota,2
+LADE2,New Hampshire,2
+LADE2,New Jersey,2
+LADE2,New York,7
+LADE2,North Carolina,0
+LADE2,Pennsylvania,12
+LADE2,Rhode Island,1
+LADE2,Vermont,1
+LADE2,Virginia,0
+LAIN,Alabama,19
+LAIN,Arkansas,0
+LAIN,Florida,11
+LAIN,Georgia,10
+LAIN,Indiana,0
+LAIN,Kentucky,0
+LAIN,Louisiana,44
+LAIN,Maryland,0
+LAIN,Mississippi,6
+LAIN,North Carolina,0
+LAIN,Ohio,1
+LAIN,South Carolina,0
+LAIN,Tennessee,2
+LAIN,Texas,4
+LAIN,Virginia,0
+LALA,Alaska,5
+LALA,Connecticut,0
+LALA,Illinois,3
+LALA,Indiana,14
+LALA,Maine,16
+LALA,Maryland,1
+LALA,Massachusetts,11
+LALA,Michigan,67
+LALA,Minnesota,39
+LALA,New Hampshire,10
+LALA,New Jersey,8
+LALA,New York,41
+LALA,Ohio,3
+LALA,Pennsylvania,30
+LALA,Rhode Island,1
+LALA,Vermont,13
+LALA,West Virginia,1
+LALA,Wisconsin,57
+LAPU6,District of Columbia,1
+LAPU6,Florida,2
+LAPU6,Georgia,0
+LAPU6,Hawaii,4
+LAPU6,Maryland,0
+LAPU6,Massachusetts,1
+LAPU6,New Jersey,1
+LAPU6,New York,2
+LAPU6,Ohio,2
+LAPU6,Pennsylvania,2
+LAPU6,Virginia,0
+LAPU6,West Virginia,0
+LEAR11,Connecticut,0
+LEAR11,Illinois,3
+LEAR11,Indiana,0
+LEAR11,Michigan,2
+LEAR11,New York,2
+LEAR11,Wisconsin,4
+LEGL,California,26
+LEGL,Idaho,11
+LEGL,Montana,14
+LEGL,Nevada,3
+LEGL,Oregon,10
+LEGL,Utah,8
+LEGL,Washington,8
+LEGL,Wyoming,4
+LELE10,Arizona,1
+LELE10,California,1
+LELE10,Florida,17
+LELE10,Texas,11
+LIJA,Alabama,2
+LIJA,Florida,1
+LIJA,Georgia,6
+LIJA,Kentucky,1
+LIJA,Louisiana,35
+LIJA,Maryland,0
+LIJA,Mississippi,5
+LIJA,North Carolina,2
+LIJA,South Carolina,6
+LIJA,Tennessee,2
+LIJA,Texas,5
+LIJA,Virginia,4
+LIMU6,Georgia,0
+LIMU6,Louisiana,1
+LIMU6,Maryland,0
+LIMU6,Mississippi,1
+LIMU6,South Carolina,0
+LIMU6,Virginia,1
+LIOV,Alabama,0
+LIOV,California,3
+LIOV,Connecticut,0
+LIOV,Delaware,0
+LIOV,District of Columbia,1
+LIOV,Florida,2
+LIOV,Kentucky,4
+LIOV,Maryland,0
+LIOV,Massachusetts,4
+LIOV,Michigan,1
+LIOV,Missouri,1
+LIOV,New Jersey,0
+LIOV,New York,2
+LIOV,North Carolina,1
+LIOV,Ohio,1
+LIOV,Pennsylvania,10
+LIOV,Texas,2
+LIOV,Virginia,5
+LIOV,Washington,1
+LIPU,Arkansas,6
+LIPU,Colorado,23
+LIPU,Illinois,1
+LIPU,Iowa,16
+LIPU,Kansas,98
+LIPU,Louisiana,1
+LIPU,Michigan,1
+LIPU,Minnesota,42
+LIPU,Missouri,8
+LIPU,Montana,42
+LIPU,Nebraska,54
+LIPU,New Mexico,22
+LIPU,North Dakota,41
+LIPU,Ohio,1
+LIPU,Oklahoma,42
+LIPU,South Dakota,34
+LIPU,Tennessee,0
+LIPU,Texas,129
+LIPU,Wisconsin,5
+LIPU,Wyoming,13
+LISP,Alabama,7
+LISP,Arkansas,1
+LISP,Connecticut,0
+LISP,Delaware,2
+LISP,District of Columbia,1
+LISP,Florida,50
+LISP,Georgia,23
+LISP,Illinois,21
+LISP,Indiana,35
+LISP,Kentucky,22
+LISP,Louisiana,10
+LISP,Maryland,1
+LISP,Massachusetts,4
+LISP,Michigan,26
+LISP,Mississippi,7
+LISP,Missouri,1
+LISP,New Jersey,13
+LISP,New York,10
+LISP,North Carolina,19
+LISP,Ohio,24
+LISP,Pennsylvania,23
+LISP,South Carolina,12
+LISP,Tennessee,29
+LISP,Virginia,27
+LISP,West Virginia,9
+LISP,Wisconsin,7
+LIST2,Alabama,65
+LIST2,Arkansas,71
+LIST2,California,1
+LIST2,Connecticut,0
+LIST2,Delaware,2
+LIST2,District of Columbia,1
+LIST2,Florida,51
+LIST2,Georgia,35
+LIST2,Illinois,29
+LIST2,Indiana,34
+LIST2,Kentucky,105
+LIST2,Louisiana,62
+LIST2,Maryland,0
+LIST2,Massachusetts,0
+LIST2,Mississippi,76
+LIST2,Missouri,14
+LIST2,New Jersey,17
+LIST2,New York,13
+LIST2,North Carolina,71
+LIST2,Ohio,19
+LIST2,Oklahoma,0
+LIST2,Pennsylvania,8
+LIST2,Rhode Island,1
+LIST2,South Carolina,27
+LIST2,Tennessee,49
+LIST2,Texas,28
+LIST2,Virginia,69
+LIST2,West Virginia,18
+LITU,Alabama,64
+LITU,Arkansas,20
+LITU,Connecticut,0
+LITU,Delaware,1
+LITU,District of Columbia,1
+LITU,Florida,21
+LITU,Georgia,40
+LITU,Illinois,27
+LITU,Indiana,68
+LITU,Iowa,0
+LITU,Kentucky,111
+LITU,Louisiana,31
+LITU,Maryland,0
+LITU,Massachusetts,7
+LITU,Michigan,18
+LITU,Mississippi,67
+LITU,Missouri,13
+LITU,New Jersey,19
+LITU,New York,37
+LITU,North Carolina,65
+LITU,Ohio,84
+LITU,Pennsylvania,62
+LITU,Rhode Island,1
+LITU,South Carolina,24
+LITU,Tennessee,53
+LITU,Texas,5
+LITU,Vermont,2
+LITU,Virginia,100
+LITU,West Virginia,47
+LIVU,Alabama,3
+LIVU,Arkansas,17
+LIVU,Colorado,1
+LIVU,Connecticut,0
+LIVU,Delaware,1
+LIVU,District of Columbia,1
+LIVU,Georgia,0
+LIVU,Illinois,25
+LIVU,Indiana,4
+LIVU,Iowa,0
+LIVU,Kentucky,24
+LIVU,Louisiana,0
+LIVU,Maine,3
+LIVU,Maryland,0
+LIVU,Massachusetts,10
+LIVU,Michigan,15
+LIVU,Missouri,1
+LIVU,Montana,2
+LIVU,Nebraska,0
+LIVU,New Hampshire,1
+LIVU,New Jersey,18
+LIVU,New Mexico,1
+LIVU,New York,18
+LIVU,North Carolina,0
+LIVU,Ohio,43
+LIVU,Oregon,7
+LIVU,Pennsylvania,26
+LIVU,Rhode Island,2
+LIVU,South Carolina,0
+LIVU,Tennessee,15
+LIVU,Texas,0
+LIVU,Utah,4
+LIVU,Vermont,1
+LIVU,Virginia,7
+LIVU,Washington,4
+LIVU,West Virginia,17
+LIVU,Wisconsin,1
+LOIN5,Alaska,4
+LOIN5,Arizona,5
+LOIN5,California,33
+LOIN5,Colorado,37
+LOIN5,Idaho,24
+LOIN5,Michigan,1
+LOIN5,Montana,18
+LOIN5,Nevada,3
+LOIN5,New Mexico,13
+LOIN5,Oregon,29
+LOIN5,Utah,25
+LOIN5,Washington,27
+LOIN5,Wisconsin,1
+LOIN5,Wyoming,10
+LOJA,Alabama,46
+LOJA,Arizona,2
+LOJA,Arkansas,69
+LOJA,California,13
+LOJA,Connecticut,0
+LOJA,Delaware,0
+LOJA,District of Columbia,1
+LOJA,Florida,30
+LOJA,Georgia,41
+LOJA,Hawaii,2
+LOJA,Illinois,50
+LOJA,Indiana,23
+LOJA,Kansas,18
+LOJA,Kentucky,97
+LOJA,Louisiana,64
+LOJA,Maine,2
+LOJA,Maryland,0
+LOJA,Massachusetts,9
+LOJA,Michigan,8
+LOJA,Mississippi,56
+LOJA,Missouri,33
+LOJA,Nebraska,1
+LOJA,Nevada,3
+LOJA,New Hampshire,2
+LOJA,New Jersey,17
+LOJA,New Mexico,1
+LOJA,New York,15
+LOJA,North Carolina,83
+LOJA,Ohio,67
+LOJA,Oklahoma,7
+LOJA,Pennsylvania,36
+LOJA,Rhode Island,4
+LOJA,South Carolina,41
+LOJA,Tennessee,46
+LOJA,Texas,44
+LOJA,Utah,3
+LOJA,Virginia,99
+LOJA,Washington,2
+LOJA,West Virginia,32
+LOJA,Wisconsin,0
+LOMA6,Arkansas,3
+LOMA6,Connecticut,0
+LOMA6,Delaware,0
+LOMA6,District of Columbia,1
+LOMA6,Georgia,3
+LOMA6,Illinois,15
+LOMA6,Indiana,0
+LOMA6,Iowa,0
+LOMA6,Kansas,0
+LOMA6,Kentucky,49
+LOMA6,Maryland,0
+LOMA6,Massachusetts,4
+LOMA6,Michigan,12
+LOMA6,Mississippi,2
+LOMA6,Missouri,0
+LOMA6,Nebraska,0
+LOMA6,New Jersey,13
+LOMA6,New York,10
+LOMA6,North Carolina,0
+LOMA6,North Dakota,0
+LOMA6,Ohio,21
+LOMA6,Oregon,1
+LOMA6,Pennsylvania,11
+LOMA6,South Carolina,0
+LOMA6,Tennessee,14
+LOMA6,Texas,4
+LOMA6,Virginia,8
+LOMA6,West Virginia,2
+LOMA6,Wisconsin,8
+LOSE,Alabama,41
+LOSE,Arkansas,46
+LOSE,Connecticut,0
+LOSE,Delaware,3
+LOSE,District of Columbia,1
+LOSE,Florida,41
+LOSE,Georgia,42
+LOSE,Illinois,24
+LOSE,Indiana,0
+LOSE,Iowa,1
+LOSE,Kansas,2
+LOSE,Kentucky,32
+LOSE,Louisiana,43
+LOSE,Maine,1
+LOSE,Maryland,0
+LOSE,Massachusetts,9
+LOSE,Michigan,2
+LOSE,Mississippi,26
+LOSE,Missouri,8
+LOSE,New Hampshire,4
+LOSE,New Jersey,18
+LOSE,New York,17
+LOSE,North Carolina,66
+LOSE,Ohio,19
+LOSE,Oklahoma,1
+LOSE,Pennsylvania,23
+LOSE,Rhode Island,2
+LOSE,South Carolina,42
+LOSE,Tennessee,43
+LOSE,Texas,49
+LOSE,Vermont,2
+LOSE,Virginia,72
+LOSE,West Virginia,8
+LOTA,Alaska,1
+LOTA,California,2
+LOTA,Colorado,3
+LOTA,Connecticut,0
+LOTA,Delaware,0
+LOTA,Idaho,1
+LOTA,Illinois,26
+LOTA,Indiana,0
+LOTA,Iowa,3
+LOTA,Kansas,1
+LOTA,Kentucky,5
+LOTA,Maine,9
+LOTA,Maryland,0
+LOTA,Massachusetts,10
+LOTA,Michigan,33
+LOTA,Minnesota,38
+LOTA,Montana,22
+LOTA,Nebraska,5
+LOTA,New Hampshire,2
+LOTA,New Jersey,9
+LOTA,New Mexico,1
+LOTA,New York,28
+LOTA,North Dakota,20
+LOTA,Ohio,30
+LOTA,Oregon,10
+LOTA,Pennsylvania,24
+LOTA,Rhode Island,1
+LOTA,South Dakota,8
+LOTA,Texas,1
+LOTA,Utah,6
+LOTA,Vermont,7
+LOTA,Virginia,4
+LOTA,Washington,1
+LOTA,West Virginia,10
+LOTA,Wisconsin,47
+LOTA,Wyoming,2
+LOUT2,Arizona,2
+LOUT2,Idaho,22
+LOUT2,Montana,7
+LOUT2,New Mexico,1
+LOUT2,Oregon,10
+LOUT2,Utah,15
+LOUT2,Washington,13
+LOUT2,Wyoming,5
+LUAR,California,19
+LUAR,Oregon,9
+LUAR,Washington,9
+LUNO,Alaska,18
+LUNO,Washington,0
+MAAC,Alabama,28
+MAAC,Arkansas,25
+MAAC,Connecticut,0
+MAAC,Florida,2
+MAAC,Georgia,33
+MAAC,Illinois,6
+MAAC,Indiana,6
+MAAC,Kentucky,41
+MAAC,Louisiana,15
+MAAC,Maryland,0
+MAAC,Massachusetts,6
+MAAC,Mississippi,23
+MAAC,Missouri,8
+MAAC,New Jersey,5
+MAAC,New York,30
+MAAC,North Carolina,29
+MAAC,Ohio,47
+MAAC,Oklahoma,0
+MAAC,Pennsylvania,47
+MAAC,South Carolina,15
+MAAC,Tennessee,39
+MAAC,Virginia,37
+MAAC,West Virginia,37
+MAAQ2,California,43
+MAAQ2,District of Columbia,1
+MAAQ2,Georgia,0
+MAAQ2,Idaho,14
+MAAQ2,Kentucky,0
+MAAQ2,Michigan,4
+MAAQ2,Montana,3
+MAAQ2,New Jersey,2
+MAAQ2,New York,1
+MAAQ2,Ohio,2
+MAAQ2,Oregon,25
+MAAQ2,Washington,26
+MAAT80,Arizona,1
+MAAT80,Florida,7
+MAAT80,Hawaii,3
+MAAT80,Texas,4
+MAES,Alabama,1
+MAES,Florida,2
+MAES,Hawaii,0
+MAES,Mississippi,0
+MAES,Texas,1
+MAFL80,Connecticut,0
+MAFL80,District of Columbia,1
+MAFL80,Kansas,0
+MAFL80,Louisiana,0
+MAFL80,Massachusetts,1
+MAFL80,New Jersey,1
+MAFL80,New York,6
+MAFL80,Ohio,0
+MAFL80,Oregon,1
+MAFL80,Pennsylvania,3
+MAFL80,Virginia,1
+MAFR,Alabama,10
+MAFR,Georgia,8
+MAFR,Kentucky,11
+MAFR,New York,1
+MAFR,North Carolina,24
+MAFR,Ohio,0
+MAFR,South Carolina,3
+MAFR,Tennessee,10
+MAFR,Virginia,19
+MAFR,West Virginia,15
+MAGR4,Alabama,24
+MAGR4,Arkansas,8
+MAGR4,Florida,42
+MAGR4,Georgia,29
+MAGR4,Kentucky,3
+MAGR4,Louisiana,54
+MAGR4,Maryland,0
+MAGR4,Mississippi,36
+MAGR4,North Carolina,3
+MAGR4,Pennsylvania,1
+MAGR4,South Carolina,12
+MAGR4,Tennessee,5
+MAGR4,Texas,14
+MAGR4,Virginia,2
+MAPO,Alabama,25
+MAPO,Arkansas,46
+MAPO,California,4
+MAPO,Colorado,3
+MAPO,Connecticut,0
+MAPO,Delaware,0
+MAPO,District of Columbia,1
+MAPO,Florida,4
+MAPO,Georgia,7
+MAPO,Illinois,93
+MAPO,Indiana,25
+MAPO,Iowa,4
+MAPO,Kansas,71
+MAPO,Kentucky,57
+MAPO,Louisiana,40
+MAPO,Maryland,0
+MAPO,Massachusetts,4
+MAPO,Michigan,8
+MAPO,Mississippi,21
+MAPO,Missouri,89
+MAPO,Nebraska,9
+MAPO,New Jersey,10
+MAPO,New Mexico,2
+MAPO,New York,9
+MAPO,North Carolina,5
+MAPO,Ohio,88
+MAPO,Oklahoma,20
+MAPO,Oregon,2
+MAPO,Pennsylvania,30
+MAPO,Rhode Island,0
+MAPO,South Carolina,3
+MAPO,South Dakota,2
+MAPO,Tennessee,27
+MAPO,Texas,40
+MAPO,Utah,3
+MAPO,Virginia,57
+MAPO,Washington,3
+MAPO,West Virginia,22
+MAPO,Wisconsin,3
+MARE11,Arizona,8
+MARE11,California,22
+MARE11,Colorado,34
+MARE11,Delaware,0
+MARE11,Idaho,28
+MARE11,Indiana,0
+MARE11,Minnesota,1
+MARE11,Montana,31
+MARE11,Nebraska,3
+MARE11,Nevada,6
+MARE11,New Mexico,13
+MARE11,North Dakota,0
+MARE11,Oregon,24
+MARE11,Pennsylvania,1
+MARE11,South Dakota,6
+MARE11,Texas,1
+MARE11,Utah,29
+MARE11,Washington,16
+MARE11,Wyoming,20
+MAST6,Ohio,0
+MATO6,Illinois,0
+MATO6,Maryland,0
+MATO6,Massachusetts,7
+MATO6,New Jersey,8
+MATO6,New York,7
+MATO6,Ohio,0
+MATO6,Oregon,1
+MATO6,Pennsylvania,1
+MATO6,Virginia,1
+MATO6,Wisconsin,1
+MATR,Alabama,19
+MATR,Arkansas,15
+MATR,Connecticut,0
+MATR,Delaware,0
+MATR,District of Columbia,1
+MATR,Florida,2
+MATR,Georgia,19
+MATR,Indiana,1
+MATR,Kentucky,42
+MATR,Maryland,0
+MATR,Massachusetts,5
+MATR,Mississippi,3
+MATR,Missouri,0
+MATR,New Jersey,9
+MATR,New York,7
+MATR,North Carolina,41
+MATR,Ohio,4
+MATR,Oklahoma,0
+MATR,Pennsylvania,13
+MATR,South Carolina,6
+MATR,Tennessee,35
+MATR,Virginia,39
+MATR,West Virginia,18
+MAVI2,Alabama,42
+MAVI2,Arkansas,14
+MAVI2,Delaware,2
+MAVI2,District of Columbia,1
+MAVI2,Florida,52
+MAVI2,Georgia,51
+MAVI2,Louisiana,32
+MAVI2,Maryland,0
+MAVI2,Massachusetts,2
+MAVI2,Mississippi,39
+MAVI2,New Jersey,17
+MAVI2,New York,7
+MAVI2,North Carolina,52
+MAVI2,Pennsylvania,10
+MAVI2,South Carolina,28
+MAVI2,Tennessee,3
+MAVI2,Texas,9
+MAVI2,Virginia,48
+MEAR4,Alaska,12
+MEAR4,Arizona,7
+MEAR4,Arkansas,0
+MEAR4,California,44
+MEAR4,Colorado,33
+MEAR4,Connecticut,0
+MEAR4,Delaware,1
+MEAR4,District of Columbia,1
+MEAR4,Georgia,0
+MEAR4,Idaho,31
+MEAR4,Illinois,69
+MEAR4,Indiana,60
+MEAR4,Iowa,21
+MEAR4,Kansas,40
+MEAR4,Kentucky,13
+MEAR4,Maine,16
+MEAR4,Maryland,0
+MEAR4,Massachusetts,14
+MEAR4,Michigan,75
+MEAR4,Minnesota,72
+MEAR4,Missouri,35
+MEAR4,Montana,43
+MEAR4,Nebraska,48
+MEAR4,Nevada,17
+MEAR4,New Hampshire,10
+MEAR4,New Jersey,18
+MEAR4,New Mexico,11
+MEAR4,New York,52
+MEAR4,North Carolina,1
+MEAR4,North Dakota,47
+MEAR4,Ohio,67
+MEAR4,Oregon,30
+MEAR4,Pennsylvania,64
+MEAR4,Rhode Island,3
+MEAR4,South Dakota,31
+MEAR4,Tennessee,5
+MEAR4,Texas,3
+MEAR4,Utah,29
+MEAR4,Vermont,14
+MEAR4,Virginia,36
+MEAR4,Washington,34
+MEAR4,West Virginia,21
+MEAR4,Wisconsin,66
+MEAR4,Wyoming,21
+MEGL8,New York,1
+MEGL8,Ohio,1
+MICA3,Arizona,8
+MICA3,California,48
+MICA3,Nevada,5
+MICA3,New Mexico,0
+MICA3,Oregon,5
+MICA3,Utah,1
+MICA3,Washington,1
+MISI,Alabama,0
+MISI,California,0
+MISI,Colorado,2
+MISI,Connecticut,0
+MISI,Delaware,1
+MISI,District of Columbia,1
+MISI,Florida,1
+MISI,Georgia,5
+MISI,Illinois,6
+MISI,Kentucky,16
+MISI,Louisiana,5
+MISI,Maryland,0
+MISI,Massachusetts,4
+MISI,Michigan,0
+MISI,Mississippi,1
+MISI,Missouri,5
+MISI,New Jersey,11
+MISI,New York,7
+MISI,North Carolina,29
+MISI,Ohio,3
+MISI,Pennsylvania,11
+MISI,Rhode Island,1
+MISI,South Carolina,5
+MISI,Tennessee,0
+MISI,Virginia,35
+MISI,West Virginia,9
+MOAL,Alabama,11
+MOAL,Arizona,3
+MOAL,Arkansas,24
+MOAL,California,12
+MOAL,Colorado,6
+MOAL,Connecticut,0
+MOAL,Delaware,1
+MOAL,District of Columbia,1
+MOAL,Florida,17
+MOAL,Georgia,8
+MOAL,Hawaii,4
+MOAL,Idaho,13
+MOAL,Illinois,88
+MOAL,Indiana,33
+MOAL,Iowa,13
+MOAL,Kansas,95
+MOAL,Kentucky,46
+MOAL,Louisiana,44
+MOAL,Maine,4
+MOAL,Maryland,1
+MOAL,Massachusetts,14
+MOAL,Michigan,33
+MOAL,Minnesota,17
+MOAL,Mississippi,5
+MOAL,Missouri,45
+MOAL,Montana,4
+MOAL,Nebraska,37
+MOAL,New Hampshire,3
+MOAL,New Jersey,19
+MOAL,New Mexico,8
+MOAL,New York,35
+MOAL,North Carolina,16
+MOAL,North Dakota,1
+MOAL,Ohio,86
+MOAL,Oklahoma,14
+MOAL,Oregon,6
+MOAL,Pennsylvania,45
+MOAL,Rhode Island,3
+MOAL,South Carolina,10
+MOAL,South Dakota,5
+MOAL,Tennessee,14
+MOAL,Texas,24
+MOAL,Utah,13
+MOAL,Vermont,6
+MOAL,Virginia,80
+MOAL,Washington,11
+MOAL,West Virginia,19
+MOAL,Wisconsin,30
+MOAL,Wyoming,1
+MOCA6,California,17
+MOCA6,Oregon,10
+MOCA6,Washington,2
+MOCA7,Alabama,12
+MOCA7,Arkansas,13
+MOCA7,Delaware,1
+MOCA7,Florida,24
+MOCA7,Georgia,38
+MOCA7,Louisiana,27
+MOCA7,Maryland,5
+MOCA7,Massachusetts,13
+MOCA7,Mississippi,7
+MOCA7,New Jersey,9
+MOCA7,New York,1
+MOCA7,North Carolina,40
+MOCA7,Pennsylvania,2
+MOCA7,South Carolina,15
+MOCA7,Texas,6
+MOCA7,Virginia,17
+MOCE2,Alabama,36
+MOCE2,Arkansas,21
+MOCE2,Delaware,1
+MOCE2,Florida,63
+MOCE2,Georgia,51
+MOCE2,Hawaii,0
+MOCE2,Louisiana,55
+MOCE2,Maryland,2
+MOCE2,Mississippi,31
+MOCE2,New Jersey,10
+MOCE2,North Carolina,44
+MOCE2,Oklahoma,0
+MOCE2,South Carolina,26
+MOCE2,Texas,46
+MOCE2,Virginia,38
+MOCE2,West Virginia,0
+MOCI3,Florida,1
+MOCI3,Hawaii,4
+MOFI,Alabama,8
+MOFI,Arizona,10
+MOFI,Arkansas,56
+MOFI,Colorado,21
+MOFI,Connecticut,0
+MOFI,Delaware,1
+MOFI,District of Columbia,1
+MOFI,Georgia,16
+MOFI,Idaho,4
+MOFI,Illinois,97
+MOFI,Indiana,78
+MOFI,Iowa,24
+MOFI,Kansas,58
+MOFI,Kentucky,81
+MOFI,Louisiana,37
+MOFI,Maine,8
+MOFI,Maryland,0
+MOFI,Massachusetts,11
+MOFI,Michigan,73
+MOFI,Minnesota,74
+MOFI,Mississippi,41
+MOFI,Missouri,99
+MOFI,Montana,41
+MOFI,Nebraska,44
+MOFI,Nevada,1
+MOFI,New Hampshire,9
+MOFI,New Jersey,16
+MOFI,New Mexico,20
+MOFI,New York,48
+MOFI,North Carolina,31
+MOFI,North Dakota,34
+MOFI,Ohio,81
+MOFI,Oklahoma,33
+MOFI,Oregon,0
+MOFI,Pennsylvania,53
+MOFI,Rhode Island,1
+MOFI,South Carolina,1
+MOFI,South Dakota,23
+MOFI,Tennessee,61
+MOFI,Texas,40
+MOFI,Utah,2
+MOFI,Vermont,8
+MOFI,Virginia,57
+MOFI,Washington,1
+MOFI,West Virginia,27
+MOFI,Wisconsin,69
+MOFI,Wyoming,15
+MOPE6,Connecticut,0
+MOPE6,Delaware,3
+MOPE6,District of Columbia,1
+MOPE6,Maine,10
+MOPE6,Maryland,1
+MOPE6,Massachusetts,12
+MOPE6,New Hampshire,5
+MOPE6,New Jersey,21
+MOPE6,New York,28
+MOPE6,North Carolina,2
+MOPE6,Ohio,5
+MOPE6,Pennsylvania,23
+MOPE6,Rhode Island,5
+MOPE6,Vermont,0
+MOPE6,Virginia,9
+MORU2,Alabama,61
+MORU2,Arkansas,75
+MORU2,Connecticut,0
+MORU2,Delaware,2
+MORU2,District of Columbia,1
+MORU2,Florida,48
+MORU2,Georgia,36
+MORU2,Illinois,90
+MORU2,Indiana,68
+MORU2,Iowa,9
+MORU2,Kansas,61
+MORU2,Kentucky,120
+MORU2,Louisiana,59
+MORU2,Maryland,0
+MORU2,Massachusetts,4
+MORU2,Michigan,13
+MORU2,Minnesota,2
+MORU2,Mississippi,62
+MORU2,Missouri,114
+MORU2,Nebraska,11
+MORU2,New Jersey,17
+MORU2,New York,30
+MORU2,North Carolina,63
+MORU2,Ohio,87
+MORU2,Oklahoma,31
+MORU2,Pennsylvania,40
+MORU2,Rhode Island,1
+MORU2,South Carolina,33
+MORU2,South Dakota,0
+MORU2,Tennessee,57
+MORU2,Texas,51
+MORU2,Vermont,1
+MORU2,Virginia,90
+MORU2,West Virginia,41
+MORU2,Wisconsin,6
+MUCA2,Alabama,5
+MUCA2,Arkansas,8
+MUCA2,Connecticut,0
+MUCA2,Delaware,1
+MUCA2,District of Columbia,1
+MUCA2,Florida,31
+MUCA2,Georgia,22
+MUCA2,Illinois,5
+MUCA2,Indiana,1
+MUCA2,Kansas,8
+MUCA2,Kentucky,17
+MUCA2,Louisiana,30
+MUCA2,Maryland,1
+MUCA2,Massachusetts,3
+MUCA2,Mississippi,8
+MUCA2,Missouri,28
+MUCA2,New Jersey,11
+MUCA2,New York,3
+MUCA2,North Carolina,50
+MUCA2,Ohio,1
+MUCA2,Oklahoma,11
+MUCA2,Pennsylvania,1
+MUCA2,South Carolina,27
+MUCA2,Tennessee,8
+MUCA2,Texas,40
+MUCA2,Virginia,22
+MUCA2,West Virginia,1
+NADO,Alabama,5
+NADO,Florida,5
+NADO,Georgia,0
+NADO,Louisiana,24
+NADO,Mississippi,4
+NADO,North Carolina,2
+NADO,South Carolina,0
+NADO,Texas,12
+NADO,Virginia,0
+NEOL,Alabama,6
+NEOL,Arizona,1
+NEOL,California,5
+NEOL,Florida,9
+NEOL,Georgia,0
+NEOL,Louisiana,17
+NEOL,Mississippi,1
+NEOL,North Carolina,0
+NEOL,South Carolina,0
+NEOL,Texas,8
+NEOL,Utah,1
+NULUP,Alaska,19
+NULUP,Arizona,2
+NULUP,California,20
+NULUP,Colorado,11
+NULUP,Idaho,14
+NULUP,Montana,9
+NULUP,Nevada,1
+NULUP,New Mexico,0
+NULUP,Oregon,20
+NULUP,Utah,4
+NULUP,Washington,24
+NULUP,Wyoming,9
+NYSY,Alabama,65
+NYSY,Arkansas,74
+NYSY,Connecticut,0
+NYSY,Delaware,1
+NYSY,District of Columbia,1
+NYSY,Florida,31
+NYSY,Georgia,71
+NYSY,Illinois,33
+NYSY,Indiana,66
+NYSY,Kansas,0
+NYSY,Kentucky,113
+NYSY,Louisiana,46
+NYSY,Maine,5
+NYSY,Maryland,0
+NYSY,Massachusetts,14
+NYSY,Michigan,30
+NYSY,Mississippi,65
+NYSY,Missouri,44
+NYSY,New Hampshire,9
+NYSY,New Jersey,20
+NYSY,New York,40
+NYSY,North Carolina,54
+NYSY,Ohio,72
+NYSY,Oklahoma,19
+NYSY,Pennsylvania,64
+NYSY,Rhode Island,5
+NYSY,South Carolina,27
+NYSY,Tennessee,71
+NYSY,Texas,30
+NYSY,Vermont,4
+NYSY,Virginia,100
+NYSY,West Virginia,46
+NYSY,Wisconsin,1
+OPFI,Arizona,1
+OPFI,California,8
+OPFI,Florida,1
+OPFI,Georgia,2
+OPFI,Hawaii,4
+OPFI,New Mexico,1
+OPFI,North Carolina,1
+OPFI,Texas,1
+OSAN,Hawaii,4
+OSCI,Alabama,56
+OSCI,Arkansas,51
+OSCI,Connecticut,0
+OSCI,Delaware,3
+OSCI,District of Columbia,1
+OSCI,Florida,57
+OSCI,Georgia,102
+OSCI,Illinois,27
+OSCI,Indiana,40
+OSCI,Iowa,0
+OSCI,Kentucky,43
+OSCI,Louisiana,29
+OSCI,Maine,15
+OSCI,Maryland,15
+OSCI,Massachusetts,14
+OSCI,Michigan,0
+OSCI,Minnesota,33
+OSCI,Mississippi,29
+OSCI,Missouri,12
+OSCI,New Hampshire,9
+OSCI,New Jersey,21
+OSCI,New York,61
+OSCI,North Carolina,66
+OSCI,Ohio,45
+OSCI,Oklahoma,0
+OSCI,Pennsylvania,66
+OSCI,Rhode Island,4
+OSCI,South Carolina,32
+OSCI,Tennessee,61
+OSCI,Texas,34
+OSCI,Vermont,12
+OSCI,Virginia,99
+OSCI,West Virginia,28
+OSCI,Wisconsin,71
+OSCL2,Alabama,0
+OSCL2,Arkansas,2
+OSCL2,Connecticut,0
+OSCL2,Delaware,2
+OSCL2,District of Columbia,1
+OSCL2,Georgia,8
+OSCL2,Illinois,43
+OSCL2,Indiana,25
+OSCL2,Iowa,0
+OSCL2,Kentucky,29
+OSCL2,Maine,15
+OSCL2,Maryland,9
+OSCL2,Massachusetts,13
+OSCL2,Michigan,0
+OSCL2,Minnesota,42
+OSCL2,Mississippi,0
+OSCL2,Missouri,18
+OSCL2,New Hampshire,10
+OSCL2,New Jersey,19
+OSCL2,New York,55
+OSCL2,North Carolina,19
+OSCL2,Ohio,50
+OSCL2,Pennsylvania,67
+OSCL2,Rhode Island,5
+OSCL2,South Carolina,0
+OSCL2,Tennessee,22
+OSCL2,Vermont,13
+OSCL2,Virginia,60
+OSCL2,West Virginia,34
+OSCL2,Wisconsin,70
+OSVI,Alabama,62
+OSVI,Arkansas,70
+OSVI,Connecticut,0
+OSVI,Delaware,1
+OSVI,District of Columbia,1
+OSVI,Florida,16
+OSVI,Georgia,33
+OSVI,Illinois,102
+OSVI,Indiana,69
+OSVI,Iowa,14
+OSVI,Kansas,24
+OSVI,Kentucky,86
+OSVI,Louisiana,39
+OSVI,Maine,16
+OSVI,Maryland,0
+OSVI,Massachusetts,13
+OSVI,Michigan,70
+OSVI,Minnesota,51
+OSVI,Mississippi,49
+OSVI,Missouri,109
+OSVI,Nebraska,16
+OSVI,New Hampshire,10
+OSVI,New Jersey,14
+OSVI,New York,52
+OSVI,North Carolina,37
+OSVI,North Dakota,10
+OSVI,Ohio,86
+OSVI,Oklahoma,9
+OSVI,Pennsylvania,61
+OSVI,Rhode Island,4
+OSVI,South Carolina,17
+OSVI,South Dakota,13
+OSVI,Tennessee,72
+OSVI,Texas,18
+OSVI,Vermont,14
+OSVI,Virginia,72
+OSVI,West Virginia,31
+OSVI,Wisconsin,59
+OSVI,Wyoming,1
+OXAR,Alabama,57
+OXAR,Arkansas,0
+OXAR,Florida,13
+OXAR,Georgia,37
+OXAR,Illinois,1
+OXAR,Indiana,3
+OXAR,Kentucky,69
+OXAR,Louisiana,15
+OXAR,Maryland,3
+OXAR,Mississippi,41
+OXAR,New York,2
+OXAR,North Carolina,83
+OXAR,Ohio,17
+OXAR,Pennsylvania,6
+OXAR,Rhode Island,0
+OXAR,South Carolina,23
+OXAR,Tennessee,65
+OXAR,Virginia,76
+OXAR,West Virginia,39
+PABR,California,20
+PABR,Idaho,18
+PABR,Montana,0
+PABR,Nevada,8
+PABR,Oregon,17
+PABR,Utah,2
+PABR,Washington,8
+PABR,Wyoming,1
+PAMI2,Alabama,0
+PAMI2,Arizona,5
+PAMI2,California,16
+PAMI2,Colorado,9
+PAMI2,Connecticut,0
+PAMI2,Delaware,1
+PAMI2,District of Columbia,1
+PAMI2,Florida,11
+PAMI2,Georgia,0
+PAMI2,Hawaii,3
+PAMI2,Idaho,11
+PAMI2,Illinois,18
+PAMI2,Indiana,0
+PAMI2,Iowa,7
+PAMI2,Kansas,5
+PAMI2,Kentucky,7
+PAMI2,Louisiana,2
+PAMI2,Maine,11
+PAMI2,Maryland,0
+PAMI2,Massachusetts,13
+PAMI2,Michigan,14
+PAMI2,Minnesota,7
+PAMI2,Mississippi,1
+PAMI2,Missouri,5
+PAMI2,Montana,15
+PAMI2,Nebraska,9
+PAMI2,Nevada,1
+PAMI2,New Hampshire,3
+PAMI2,New Jersey,1
+PAMI2,New Mexico,5
+PAMI2,New York,27
+PAMI2,North Carolina,1
+PAMI2,North Dakota,10
+PAMI2,Ohio,5
+PAMI2,Oregon,11
+PAMI2,Pennsylvania,18
+PAMI2,Rhode Island,2
+PAMI2,South Dakota,5
+PAMI2,Tennessee,6
+PAMI2,Texas,6
+PAMI2,Utah,7
+PAMI2,Vermont,5
+PAMI2,Virginia,1
+PAMI2,Washington,14
+PAMI2,Wisconsin,18
+PAMI2,Wyoming,5
+PAQU2,Alabama,64
+PAQU2,Arkansas,61
+PAQU2,Colorado,11
+PAQU2,Connecticut,0
+PAQU2,Delaware,1
+PAQU2,District of Columbia,1
+PAQU2,Florida,50
+PAQU2,Georgia,36
+PAQU2,Illinois,102
+PAQU2,Indiana,73
+PAQU2,Iowa,9
+PAQU2,Kansas,63
+PAQU2,Kentucky,107
+PAQU2,Louisiana,56
+PAQU2,Maine,7
+PAQU2,Maryland,0
+PAQU2,Massachusetts,14
+PAQU2,Michigan,56
+PAQU2,Minnesota,14
+PAQU2,Mississippi,56
+PAQU2,Missouri,112
+PAQU2,Nebraska,9
+PAQU2,New Hampshire,7
+PAQU2,New Jersey,20
+PAQU2,New York,40
+PAQU2,North Carolina,60
+PAQU2,Ohio,88
+PAQU2,Oklahoma,31
+PAQU2,Pennsylvania,63
+PAQU2,Rhode Island,5
+PAQU2,South Carolina,34
+PAQU2,South Dakota,4
+PAQU2,Tennessee,37
+PAQU2,Texas,33
+PAQU2,Utah,6
+PAQU2,Vermont,7
+PAQU2,Virginia,100
+PAQU2,West Virginia,42
+PAQU2,Wisconsin,29
+PATE11,Connecticut,0
+PATE11,Delaware,0
+PATE11,District of Columbia,1
+PATE11,Illinois,0
+PATE11,Indiana,0
+PATE11,Maryland,0
+PATE11,Massachusetts,4
+PATE11,Minnesota,0
+PATE11,New Jersey,12
+PATE11,New York,8
+PATE11,North Carolina,0
+PATE11,Ohio,2
+PATE11,Pennsylvania,5
+PATE11,South Carolina,0
+PATE11,Virginia,1
+PATO2,Alabama,5
+PATO2,Arkansas,30
+PATO2,Connecticut,0
+PATO2,Delaware,0
+PATO2,District of Columbia,1
+PATO2,Florida,2
+PATO2,Georgia,6
+PATO2,Illinois,6
+PATO2,Indiana,0
+PATO2,Kentucky,49
+PATO2,Louisiana,15
+PATO2,Maryland,0
+PATO2,Massachusetts,2
+PATO2,Mississippi,6
+PATO2,Missouri,7
+PATO2,New Jersey,17
+PATO2,New York,14
+PATO2,North Carolina,14
+PATO2,Ohio,4
+PATO2,Oklahoma,0
+PATO2,Pennsylvania,12
+PATO2,Rhode Island,0
+PATO2,South Carolina,2
+PATO2,Tennessee,26
+PATO2,Texas,2
+PATO2,Virginia,77
+PATO2,Washington,2
+PATO2,West Virginia,10
+PATR6,Connecticut,0
+PATR6,District of Columbia,1
+PATR6,Illinois,2
+PATR6,Indiana,0
+PATR6,Iowa,0
+PATR6,Kentucky,2
+PATR6,Maine,0
+PATR6,Maryland,0
+PATR6,Massachusetts,5
+PATR6,Minnesota,1
+PATR6,Missouri,0
+PATR6,New Jersey,10
+PATR6,New York,11
+PATR6,North Carolina,0
+PATR6,Ohio,0
+PATR6,Pennsylvania,9
+PATR6,South Carolina,0
+PATR6,Tennessee,1
+PEBO,Alabama,24
+PEBO,Arkansas,1
+PEBO,Florida,45
+PEBO,Georgia,47
+PEBO,Louisiana,2
+PEBO,Mississippi,3
+PEBO,North Carolina,36
+PEBO,South Carolina,28
+PEBO,Texas,17
+PEGL2,Alabama,6
+PEGL2,Arizona,8
+PEGL2,Arkansas,46
+PEGL2,California,36
+PEGL2,Colorado,11
+PEGL2,Connecticut,0
+PEGL2,Delaware,1
+PEGL2,District of Columbia,1
+PEGL2,Florida,20
+PEGL2,Georgia,14
+PEGL2,Idaho,11
+PEGL2,Illinois,102
+PEGL2,Indiana,70
+PEGL2,Iowa,36
+PEGL2,Kansas,84
+PEGL2,Kentucky,47
+PEGL2,Louisiana,19
+PEGL2,Maine,14
+PEGL2,Maryland,0
+PEGL2,Massachusetts,14
+PEGL2,Michigan,34
+PEGL2,Minnesota,55
+PEGL2,Mississippi,2
+PEGL2,Missouri,62
+PEGL2,Montana,0
+PEGL2,Nebraska,51
+PEGL2,Nevada,3
+PEGL2,New Hampshire,9
+PEGL2,New Jersey,11
+PEGL2,New Mexico,0
+PEGL2,New York,47
+PEGL2,North Carolina,68
+PEGL2,North Dakota,33
+PEGL2,Ohio,0
+PEGL2,Oklahoma,28
+PEGL2,Oregon,9
+PEGL2,Pennsylvania,66
+PEGL2,Rhode Island,3
+PEGL2,South Carolina,23
+PEGL2,South Dakota,20
+PEGL2,Tennessee,40
+PEGL2,Texas,23
+PEGL2,Utah,8
+PEGL2,Vermont,9
+PEGL2,Virginia,67
+PEGL2,Washington,11
+PEGL2,West Virginia,43
+PEGL2,Wisconsin,64
+PEGL2,Wyoming,2
+PESE3,Arizona,4
+PESE3,California,12
+PESE3,Colorado,0
+PESE3,Florida,3
+PESE3,Hawaii,4
+PESE3,Kentucky,1
+PESE3,Louisiana,2
+PESE3,New Mexico,1
+PESE3,Oregon,2
+PESE3,Tennessee,3
+PHCA11,Alaska,0
+PHCA11,California,31
+PHCA11,Idaho,8
+PHCA11,Oregon,24
+PHCA11,Washington,22
+PHCO7,Connecticut,0
+PHCO7,Georgia,0
+PHCO7,Illinois,1
+PHCO7,Indiana,0
+PHCO7,Kentucky,7
+PHCO7,Maine,1
+PHCO7,Maryland,0
+PHCO7,Massachusetts,6
+PHCO7,Minnesota,1
+PHCO7,Missouri,0
+PHCO7,New Hampshire,1
+PHCO7,New Jersey,12
+PHCO7,New York,16
+PHCO7,North Carolina,0
+PHCO7,Ohio,14
+PHCO7,Pennsylvania,18
+PHCO7,Rhode Island,1
+PHCO7,South Carolina,0
+PHCO7,Vermont,2
+PHCO7,Virginia,1
+PHCO7,Wisconsin,0
+PHDI5,Alabama,20
+PHDI5,Arkansas,52
+PHDI5,Connecticut,0
+PHDI5,Delaware,0
+PHDI5,District of Columbia,1
+PHDI5,Florida,3
+PHDI5,Georgia,9
+PHDI5,Illinois,100
+PHDI5,Indiana,84
+PHDI5,Iowa,17
+PHDI5,Kansas,40
+PHDI5,Kentucky,102
+PHDI5,Louisiana,31
+PHDI5,Maryland,0
+PHDI5,Michigan,51
+PHDI5,Minnesota,38
+PHDI5,Mississippi,21
+PHDI5,Missouri,111
+PHDI5,Nebraska,15
+PHDI5,New Jersey,10
+PHDI5,New Mexico,0
+PHDI5,New York,27
+PHDI5,North Carolina,8
+PHDI5,Ohio,88
+PHDI5,Oklahoma,13
+PHDI5,Pennsylvania,46
+PHDI5,South Carolina,0
+PHDI5,South Dakota,2
+PHDI5,Tennessee,72
+PHDI5,Texas,0
+PHDI5,Vermont,1
+PHDI5,Virginia,41
+PHDI5,West Virginia,44
+PHDI5,Wisconsin,51
+PHOP,Alabama,6
+PHOP,Arkansas,23
+PHOP,Colorado,6
+PHOP,Connecticut,0
+PHOP,Delaware,1
+PHOP,District of Columbia,1
+PHOP,Florida,2
+PHOP,Georgia,8
+PHOP,Illinois,28
+PHOP,Indiana,41
+PHOP,Iowa,2
+PHOP,Kansas,2
+PHOP,Kentucky,32
+PHOP,Maine,4
+PHOP,Maryland,0
+PHOP,Massachusetts,10
+PHOP,Michigan,63
+PHOP,Minnesota,21
+PHOP,Missouri,73
+PHOP,Nebraska,5
+PHOP,New Hampshire,4
+PHOP,New Jersey,10
+PHOP,New York,24
+PHOP,North Carolina,32
+PHOP,North Dakota,1
+PHOP,Ohio,62
+PHOP,Oklahoma,1
+PHOP,Pennsylvania,62
+PHOP,Rhode Island,2
+PHOP,South Carolina,5
+PHOP,South Dakota,6
+PHOP,Tennessee,29
+PHOP,Vermont,2
+PHOP,Virginia,56
+PHOP,West Virginia,26
+PHOP,Wisconsin,50
+PHSU3,Alabama,2
+PHSU3,Arkansas,11
+PHSU3,Connecticut,0
+PHSU3,Delaware,0
+PHSU3,Georgia,0
+PHSU3,Illinois,1
+PHSU3,Indiana,0
+PHSU3,Iowa,0
+PHSU3,Kentucky,14
+PHSU3,Louisiana,8
+PHSU3,Maine,8
+PHSU3,Maryland,0
+PHSU3,Massachusetts,10
+PHSU3,Michigan,29
+PHSU3,Minnesota,2
+PHSU3,Mississippi,0
+PHSU3,New Hampshire,5
+PHSU3,New Jersey,15
+PHSU3,New York,24
+PHSU3,North Carolina,3
+PHSU3,Ohio,36
+PHSU3,Pennsylvania,37
+PHSU3,Rhode Island,1
+PHSU3,Tennessee,7
+PHSU3,Utah,0
+PHSU3,Vermont,4
+PHSU3,Virginia,35
+PHSU3,West Virginia,22
+PHSU3,Wisconsin,14
+PHTA,Arizona,2
+PHTA,California,33
+PHTA,Colorado,1
+PHTA,Kansas,0
+PHTA,Maine,1
+PHTA,Massachusetts,0
+PHTA,Michigan,1
+PHTA,Nevada,0
+PHTA,Oregon,4
+PIAB,Connecticut,0
+PIAB,Illinois,1
+PIAB,Kentucky,2
+PIAB,Maine,1
+PIAB,Maryland,0
+PIAB,Massachusetts,10
+PIAB,Michigan,0
+PIAB,Minnesota,3
+PIAB,New Hampshire,1
+PIAB,New Jersey,12
+PIAB,New York,15
+PIAB,North Carolina,0
+PIAB,Ohio,1
+PIAB,Pennsylvania,13
+PIAB,Rhode Island,1
+PIAB,Vermont,1
+PIAB,Virginia,1
+PIAB,West Virginia,2
+PIAB,Wisconsin,5
+PICO,Alaska,5
+PICO,California,30
+PICO,Colorado,10
+PICO,Idaho,28
+PICO,Montana,15
+PICO,Nevada,7
+PICO,Oregon,28
+PICO,South Dakota,1
+PICO,Utah,9
+PICO,Washington,28
+PICO,Wyoming,16
+PIEC2,Alabama,56
+PIEC2,Arkansas,62
+PIEC2,Delaware,2
+PIEC2,District of Columbia,1
+PIEC2,Florida,14
+PIEC2,Georgia,22
+PIEC2,Illinois,4
+PIEC2,Kentucky,46
+PIEC2,Louisiana,40
+PIEC2,Maryland,4
+PIEC2,Mississippi,46
+PIEC2,Missouri,36
+PIEC2,New Jersey,13
+PIEC2,New York,4
+PIEC2,North Carolina,61
+PIEC2,Ohio,3
+PIEC2,Oklahoma,21
+PIEC2,Pennsylvania,15
+PIEC2,South Carolina,28
+PIEC2,Tennessee,26
+PIEC2,Texas,29
+PIEC2,Virginia,78
+PIEC2,West Virginia,11
+PIED,Arizona,6
+PIED,California,1
+PIED,Colorado,26
+PIED,Nevada,1
+PIED,New Mexico,25
+PIED,Oklahoma,1
+PIED,Texas,2
+PIED,Utah,23
+PIED,Wyoming,2
+PIEL,Alabama,15
+PIEL,Florida,66
+PIEL,Georgia,11
+PIEL,Louisiana,40
+PIEL,Mississippi,11
+PIEL,North Carolina,0
+PIEL,South Carolina,6
+PIEL,Texas,10
+PIEN,Arizona,5
+PIEN,California,3
+PIEN,Colorado,18
+PIEN,Idaho,15
+PIEN,Montana,6
+PIEN,Nevada,3
+PIEN,New Mexico,9
+PIEN,Oregon,18
+PIEN,Utah,29
+PIEN,Washington,16
+PIEN,Wyoming,15
+PIGL2,Alabama,27
+PIGL2,District of Columbia,1
+PIGL2,Florida,20
+PIGL2,Georgia,33
+PIGL2,Louisiana,23
+PIGL2,Mississippi,28
+PIGL2,South Carolina,6
+PILA,California,38
+PILA,Nevada,3
+PILA,Oregon,11
+PIMA,Alaska,12
+PIMA,Connecticut,0
+PIMA,Illinois,1
+PIMA,Maine,15
+PIMA,Massachusetts,9
+PIMA,Michigan,43
+PIMA,Minnesota,23
+PIMA,New Hampshire,9
+PIMA,New Jersey,7
+PIMA,New York,27
+PIMA,Pennsylvania,16
+PIMA,Rhode Island,1
+PIMA,Vermont,13
+PIMA,Wisconsin,39
+PIMO3,California,25
+PIMO3,Idaho,7
+PIMO3,Montana,4
+PIMO3,Nevada,4
+PIMO3,Oregon,21
+PIMO3,Utah,0
+PIMO3,Washington,22
+PINI,Illinois,1
+PINI,Maine,0
+PINI,Maryland,1
+PINI,Massachusetts,0
+PINI,Michigan,0
+PINI,Mississippi,1
+PINI,Missouri,1
+PINI,New Jersey,2
+PINI,New York,3
+PINI,Ohio,0
+PINI,Pennsylvania,12
+PIPO,Arizona,11
+PIPO,California,45
+PIPO,Colorado,27
+PIPO,Idaho,15
+PIPO,Montana,22
+PIPO,Nebraska,14
+PIPO,Nevada,10
+PIPO,New Mexico,18
+PIPO,North Dakota,1
+PIPO,Oklahoma,1
+PIPO,Oregon,29
+PIPO,South Dakota,8
+PIPO,Texas,3
+PIPO,Utah,23
+PIPO,Washington,18
+PIPO,Wyoming,17
+PIPU,Arizona,2
+PIPU,Colorado,20
+PIPU,Idaho,4
+PIPU,Maine,0
+PIPU,Maryland,0
+PIPU,Minnesota,1
+PIPU,New Mexico,10
+PIPU,New York,4
+PIPU,Pennsylvania,3
+PIPU,Utah,19
+PIPU,Wyoming,9
+PIRA2,California,5
+PIRE,Connecticut,0
+PIRE,Illinois,3
+PIRE,Indiana,1
+PIRE,Maine,14
+PIRE,Maryland,3
+PIRE,Massachusetts,11
+PIRE,Michigan,43
+PIRE,Minnesota,25
+PIRE,Missouri,1
+PIRE,New Hampshire,10
+PIRE,New Jersey,6
+PIRE,New York,31
+PIRE,North Carolina,0
+PIRE,Pennsylvania,25
+PIRE,Rhode Island,1
+PIRE,Vermont,11
+PIRE,Virginia,0
+PIRE,West Virginia,2
+PIRE,Wisconsin,54
+PIRI,Connecticut,0
+PIRI,Delaware,2
+PIRI,District of Columbia,1
+PIRI,Georgia,3
+PIRI,Illinois,1
+PIRI,Indiana,0
+PIRI,Kentucky,39
+PIRI,Maine,10
+PIRI,Maryland,8
+PIRI,Massachusetts,14
+PIRI,Minnesota,1
+PIRI,New Hampshire,9
+PIRI,New Jersey,19
+PIRI,New York,29
+PIRI,North Carolina,23
+PIRI,Ohio,3
+PIRI,Pennsylvania,61
+PIRI,Rhode Island,4
+PIRI,South Carolina,4
+PIRI,Tennessee,13
+PIRI,Vermont,4
+PIRI,Virginia,57
+PIRI,West Virginia,31
+PISE,Alabama,3
+PISE,Delaware,1
+PISE,Florida,31
+PISE,Georgia,19
+PISE,Maryland,2
+PISE,New Jersey,4
+PISE,North Carolina,26
+PISE,South Carolina,18
+PISE,Virginia,13
+PIST,Alabama,5
+PIST,Arkansas,1
+PIST,Connecticut,0
+PIST,Delaware,0
+PIST,District of Columbia,1
+PIST,Georgia,9
+PIST,Illinois,9
+PIST,Indiana,13
+PIST,Iowa,0
+PIST,Kentucky,40
+PIST,Maine,14
+PIST,Maryland,8
+PIST,Massachusetts,14
+PIST,Michigan,62
+PIST,Minnesota,33
+PIST,Missouri,6
+PIST,New Hampshire,10
+PIST,New Jersey,20
+PIST,New York,60
+PIST,North Carolina,27
+PIST,Ohio,3
+PIST,Pennsylvania,66
+PIST,Rhode Island,3
+PIST,South Carolina,4
+PIST,Tennessee,26
+PIST,Vermont,12
+PIST,Virginia,58
+PIST,West Virginia,30
+PIST,Wisconsin,61
+PISY,Connecticut,0
+PISY,Delaware,0
+PISY,Illinois,4
+PISY,Indiana,1
+PISY,Iowa,0
+PISY,Maine,3
+PISY,Maryland,2
+PISY,Massachusetts,12
+PISY,Michigan,0
+PISY,Minnesota,1
+PISY,New Hampshire,4
+PISY,New Jersey,9
+PISY,New York,19
+PISY,Ohio,0
+PISY,Pennsylvania,24
+PISY,Rhode Island,1
+PISY,Vermont,5
+PISY,Wisconsin,7
+PITA,Alabama,64
+PITA,Arkansas,29
+PITA,Delaware,3
+PITA,District of Columbia,1
+PITA,Florida,42
+PITA,Georgia,37
+PITA,Illinois,5
+PITA,Kentucky,12
+PITA,Louisiana,53
+PITA,Maryland,11
+PITA,Mississippi,47
+PITA,Missouri,4
+PITA,New Jersey,3
+PITA,North Carolina,44
+PITA,Ohio,2
+PITA,Oklahoma,3
+PITA,South Carolina,28
+PITA,Tennessee,22
+PITA,Texas,45
+PITA,Virginia,49
+PITH2,Connecticut,0
+PITH2,Delaware,0
+PITH2,Massachusetts,4
+PITH2,New Jersey,2
+PITH2,New York,7
+PITH2,North Carolina,0
+PITH2,South Carolina,0
+PITH2,Virginia,0
+PITO2,California,1
+PITO2,Florida,1
+PITO2,Georgia,0
+PITO2,North Carolina,0
+PIVI2,Alabama,31
+PIVI2,Delaware,3
+PIVI2,District of Columbia,1
+PIVI2,Georgia,22
+PIVI2,Illinois,1
+PIVI2,Indiana,3
+PIVI2,Kentucky,81
+PIVI2,Maryland,11
+PIVI2,Mississippi,5
+PIVI2,Missouri,12
+PIVI2,New Jersey,17
+PIVI2,New York,5
+PIVI2,North Carolina,53
+PIVI2,Ohio,3
+PIVI2,Pennsylvania,51
+PIVI2,South Carolina,8
+PIVI2,Tennessee,42
+PIVI2,Virginia,96
+PIVI2,West Virginia,39
+PLHI,California,1
+PLHI,Connecticut,0
+PLHI,Massachusetts,1
+PLHI,New Jersey,6
+PLHI,New York,10
+PLHI,Pennsylvania,0
+PLOC,Alabama,64
+PLOC,Arkansas,75
+PLOC,Connecticut,0
+PLOC,Delaware,2
+PLOC,District of Columbia,1
+PLOC,Florida,16
+PLOC,Georgia,27
+PLOC,Illinois,102
+PLOC,Indiana,61
+PLOC,Iowa,6
+PLOC,Kansas,46
+PLOC,Kentucky,120
+PLOC,Louisiana,57
+PLOC,Maine,0
+PLOC,Maryland,0
+PLOC,Massachusetts,12
+PLOC,Michigan,23
+PLOC,Mississippi,23
+PLOC,Missouri,114
+PLOC,Nebraska,5
+PLOC,New Hampshire,3
+PLOC,New Jersey,15
+PLOC,New York,46
+PLOC,North Carolina,53
+PLOC,Ohio,88
+PLOC,Oklahoma,32
+PLOC,Pennsylvania,63
+PLOC,Rhode Island,3
+PLOC,South Carolina,22
+PLOC,Tennessee,38
+PLOC,Texas,32
+PLOC,Vermont,6
+PLOC,Virginia,99
+PLOC,Washington,1
+PLOC,West Virginia,45
+PLOC,Wisconsin,11
+PLOR80,Florida,2
+PLRA,California,32
+POAL7,Alabama,13
+POAL7,Arkansas,28
+POAL7,California,10
+POAL7,Colorado,1
+POAL7,Connecticut,0
+POAL7,Delaware,1
+POAL7,District of Columbia,1
+POAL7,Florida,1
+POAL7,Georgia,10
+POAL7,Idaho,8
+POAL7,Illinois,57
+POAL7,Indiana,2
+POAL7,Iowa,5
+POAL7,Kansas,17
+POAL7,Kentucky,47
+POAL7,Louisiana,20
+POAL7,Maine,7
+POAL7,Maryland,0
+POAL7,Massachusetts,13
+POAL7,Michigan,29
+POAL7,Minnesota,8
+POAL7,Mississippi,6
+POAL7,Missouri,23
+POAL7,Montana,12
+POAL7,Nebraska,7
+POAL7,Nevada,4
+POAL7,New Hampshire,5
+POAL7,New Jersey,16
+POAL7,New Mexico,4
+POAL7,New York,25
+POAL7,North Carolina,27
+POAL7,North Dakota,4
+POAL7,Ohio,82
+POAL7,Oklahoma,2
+POAL7,Oregon,10
+POAL7,Pennsylvania,26
+POAL7,Rhode Island,4
+POAL7,South Carolina,12
+POAL7,South Dakota,5
+POAL7,Tennessee,30
+POAL7,Texas,7
+POAL7,Utah,13
+POAL7,Vermont,6
+POAL7,Virginia,89
+POAL7,Washington,6
+POAL7,West Virginia,38
+POAL7,Wisconsin,22
+POAL7,Wyoming,4
+POAN3,Arizona,9
+POAN3,California,2
+POAN3,Colorado,23
+POAN3,Idaho,23
+POAN3,Montana,19
+POAN3,Nebraska,0
+POAN3,Nevada,6
+POAN3,New Mexico,22
+POAN3,Oregon,2
+POAN3,South Dakota,2
+POAN3,Texas,1
+POAN3,Utah,29
+POAN3,Wyoming,21
+PODE3,Alabama,48
+PODE3,Arizona,3
+PODE3,Arkansas,75
+PODE3,Colorado,28
+PODE3,Connecticut,0
+PODE3,Delaware,2
+PODE3,District of Columbia,1
+PODE3,Florida,16
+PODE3,Georgia,26
+PODE3,Illinois,94
+PODE3,Indiana,57
+PODE3,Iowa,12
+PODE3,Kansas,104
+PODE3,Kentucky,92
+PODE3,Louisiana,42
+PODE3,Maine,4
+PODE3,Maryland,1
+PODE3,Massachusetts,12
+PODE3,Michigan,48
+PODE3,Minnesota,67
+PODE3,Mississippi,43
+PODE3,Missouri,102
+PODE3,Montana,39
+PODE3,Nebraska,52
+PODE3,New Hampshire,5
+PODE3,New Jersey,16
+PODE3,New Mexico,24
+PODE3,New York,40
+PODE3,North Carolina,29
+PODE3,North Dakota,36
+PODE3,Ohio,87
+PODE3,Oklahoma,37
+PODE3,Pennsylvania,20
+PODE3,Rhode Island,3
+PODE3,South Carolina,15
+PODE3,South Dakota,21
+PODE3,Tennessee,37
+PODE3,Texas,87
+PODE3,Utah,1
+PODE3,Vermont,6
+PODE3,Virginia,64
+PODE3,West Virginia,25
+PODE3,Wisconsin,11
+PODE3,Wyoming,18
+POMA32,Florida,1
+PONI,Alabama,0
+PONI,Arizona,1
+PONI,Arkansas,0
+PONI,California,5
+PONI,Colorado,0
+PONI,Connecticut,0
+PONI,Delaware,1
+PONI,District of Columbia,1
+PONI,Florida,0
+PONI,Georgia,3
+PONI,Illinois,7
+PONI,Indiana,0
+PONI,Iowa,0
+PONI,Kansas,0
+PONI,Kentucky,3
+PONI,Louisiana,0
+PONI,Maine,6
+PONI,Maryland,0
+PONI,Massachusetts,10
+PONI,Michigan,17
+PONI,Minnesota,2
+PONI,Mississippi,1
+PONI,Missouri,1
+PONI,Nebraska,0
+PONI,Nevada,3
+PONI,New Hampshire,3
+PONI,New Jersey,13
+PONI,New Mexico,2
+PONI,New York,17
+PONI,North Carolina,0
+PONI,North Dakota,0
+PONI,Ohio,20
+PONI,Oklahoma,0
+PONI,Oregon,0
+PONI,Pennsylvania,4
+PONI,Rhode Island,1
+PONI,South Carolina,0
+PONI,South Dakota,0
+PONI,Tennessee,0
+PONI,Texas,2
+PONI,Utah,3
+PONI,Vermont,2
+PONI,Virginia,5
+PONI,Washington,2
+PONI,West Virginia,16
+PONI,Wisconsin,2
+PONI,Wyoming,1
+POTR5,Alaska,14
+POTR5,Arizona,11
+POTR5,Arkansas,0
+POTR5,California,24
+POTR5,Colorado,35
+POTR5,Connecticut,0
+POTR5,Delaware,0
+POTR5,Idaho,23
+POTR5,Illinois,39
+POTR5,Indiana,41
+POTR5,Iowa,8
+POTR5,Kentucky,2
+POTR5,Maine,16
+POTR5,Maryland,3
+POTR5,Massachusetts,14
+POTR5,Michigan,77
+POTR5,Minnesota,69
+POTR5,Missouri,6
+POTR5,Montana,33
+POTR5,Nebraska,6
+POTR5,Nevada,12
+POTR5,New Hampshire,10
+POTR5,New Jersey,17
+POTR5,New Mexico,19
+POTR5,New York,38
+POTR5,North Carolina,1
+POTR5,North Dakota,35
+POTR5,Ohio,70
+POTR5,Oregon,27
+POTR5,Pennsylvania,57
+POTR5,Rhode Island,5
+POTR5,South Dakota,11
+POTR5,Texas,3
+POTR5,Utah,29
+POTR5,Vermont,13
+POTR5,Virginia,12
+POTR5,Washington,27
+POTR5,West Virginia,11
+POTR5,Wisconsin,16
+POTR5,Wyoming,20
+PRAM,Alabama,29
+PRAM,Arizona,2
+PRAM,Arkansas,35
+PRAM,Colorado,13
+PRAM,Connecticut,0
+PRAM,Delaware,1
+PRAM,District of Columbia,1
+PRAM,Florida,12
+PRAM,Georgia,21
+PRAM,Illinois,88
+PRAM,Indiana,47
+PRAM,Iowa,22
+PRAM,Kansas,86
+PRAM,Kentucky,98
+PRAM,Louisiana,31
+PRAM,Maine,0
+PRAM,Maryland,0
+PRAM,Massachusetts,11
+PRAM,Michigan,31
+PRAM,Minnesota,59
+PRAM,Mississippi,12
+PRAM,Missouri,52
+PRAM,Montana,13
+PRAM,Nebraska,52
+PRAM,New Hampshire,3
+PRAM,New Jersey,17
+PRAM,New Mexico,12
+PRAM,New York,20
+PRAM,North Carolina,23
+PRAM,North Dakota,37
+PRAM,Ohio,87
+PRAM,Oklahoma,21
+PRAM,Pennsylvania,59
+PRAM,Rhode Island,2
+PRAM,South Carolina,10
+PRAM,South Dakota,38
+PRAM,Tennessee,47
+PRAM,Utah,9
+PRAM,Vermont,2
+PRAM,Virginia,41
+PRAM,Washington,1
+PRAM,West Virginia,29
+PRAM,Wisconsin,46
+PRAM,Wyoming,8
+PRAN3,Alabama,54
+PRAN3,Arkansas,55
+PRAN3,California,1
+PRAN3,Colorado,3
+PRAN3,Delaware,0
+PRAN3,District of Columbia,1
+PRAN3,Florida,22
+PRAN3,Georgia,33
+PRAN3,Illinois,33
+PRAN3,Indiana,8
+PRAN3,Kansas,65
+PRAN3,Kentucky,37
+PRAN3,Louisiana,44
+PRAN3,Maryland,0
+PRAN3,Mississippi,30
+PRAN3,Missouri,24
+PRAN3,Nebraska,1
+PRAN3,New Jersey,8
+PRAN3,New Mexico,2
+PRAN3,North Carolina,42
+PRAN3,Oklahoma,45
+PRAN3,Pennsylvania,1
+PRAN3,South Carolina,31
+PRAN3,Tennessee,36
+PRAN3,Texas,54
+PRAN3,Virginia,61
+PRAN3,West Virginia,3
+PREM,Arizona,9
+PREM,California,47
+PREM,Idaho,22
+PREM,Montana,1
+PREM,Nevada,5
+PREM,New Mexico,5
+PREM,Oregon,33
+PREM,Utah,1
+PREM,Washington,34
+PREM,Wyoming,0
+PRFA,Arizona,5
+PRFA,California,9
+PRFA,Nevada,4
+PRFA,Utah,4
+PRILL,California,3
+PRMA2,Connecticut,0
+PRMA2,Delaware,2
+PRMA2,Maine,3
+PRMA2,Maryland,4
+PRMA2,Massachusetts,9
+PRMA2,New Hampshire,3
+PRMA2,New Jersey,10
+PRMA2,New York,8
+PRMA2,Pennsylvania,2
+PRMA2,Rhode Island,4
+PRMA2,Virginia,0
+PRPA5,Alaska,2
+PRPA5,Delaware,0
+PRPA5,Illinois,1
+PRPA5,Montana,0
+PRPA5,New Jersey,1
+PRPA5,New York,6
+PRPA5,Ohio,2
+PRPA5,Pennsylvania,7
+PRPA5,Washington,2
+PRPE2,Colorado,7
+PRPE2,Connecticut,0
+PRPE2,Georgia,3
+PRPE2,Illinois,15
+PRPE2,Indiana,8
+PRPE2,Iowa,2
+PRPE2,Kentucky,1
+PRPE2,Maine,14
+PRPE2,Maryland,0
+PRPE2,Massachusetts,12
+PRPE2,Michigan,65
+PRPE2,Minnesota,50
+PRPE2,Montana,3
+PRPE2,New Hampshire,10
+PRPE2,New Jersey,6
+PRPE2,New York,37
+PRPE2,North Carolina,13
+PRPE2,North Dakota,18
+PRPE2,Ohio,11
+PRPE2,Pennsylvania,58
+PRPE2,Rhode Island,4
+PRPE2,South Dakota,4
+PRPE2,Tennessee,7
+PRPE2,Vermont,12
+PRPE2,Virginia,24
+PRPE2,West Virginia,17
+PRPE2,Wisconsin,67
+PRPE2,Wyoming,3
+PRPU,Arizona,9
+PRPU,California,7
+PRPU,Nevada,2
+PRPU,New Mexico,8
+PRPU,Texas,5
+PRPU,Utah,1
+PRPU3,Arkansas,1
+PRPU3,Colorado,10
+PRPU3,Illinois,9
+PRPU3,Indiana,14
+PRPU3,Iowa,1
+PRPU3,Kansas,16
+PRPU3,Kentucky,1
+PRPU3,Maine,10
+PRPU3,Maryland,3
+PRPU3,Massachusetts,12
+PRPU3,Michigan,56
+PRPU3,Minnesota,45
+PRPU3,Montana,0
+PRPU3,Nebraska,38
+PRPU3,New Hampshire,10
+PRPU3,New Jersey,8
+PRPU3,New York,27
+PRPU3,North Dakota,25
+PRPU3,Ohio,1
+PRPU3,Oregon,1
+PRPU3,Pennsylvania,27
+PRPU3,South Dakota,22
+PRPU3,Tennessee,2
+PRPU3,Utah,2
+PRPU3,Vermont,7
+PRPU3,Wisconsin,47
+PRPU3,Wyoming,8
+PRSE2,Alabama,64
+PRSE2,Arizona,13
+PRSE2,Arkansas,72
+PRSE2,Connecticut,0
+PRSE2,Delaware,2
+PRSE2,District of Columbia,1
+PRSE2,Florida,33
+PRSE2,Georgia,47
+PRSE2,Illinois,102
+PRSE2,Indiana,78
+PRSE2,Iowa,21
+PRSE2,Kansas,33
+PRSE2,Kentucky,116
+PRSE2,Louisiana,58
+PRSE2,Maine,14
+PRSE2,Maryland,0
+PRSE2,Massachusetts,14
+PRSE2,Michigan,69
+PRSE2,Minnesota,43
+PRSE2,Mississippi,60
+PRSE2,Missouri,108
+PRSE2,Nebraska,8
+PRSE2,New Hampshire,10
+PRSE2,New Jersey,21
+PRSE2,New Mexico,10
+PRSE2,New York,36
+PRSE2,North Carolina,87
+PRSE2,North Dakota,2
+PRSE2,Ohio,86
+PRSE2,Oklahoma,24
+PRSE2,Pennsylvania,67
+PRSE2,Rhode Island,5
+PRSE2,South Carolina,39
+PRSE2,Tennessee,58
+PRSE2,Texas,38
+PRSE2,Vermont,13
+PRSE2,Virginia,100
+PRSE2,Washington,1
+PRSE2,West Virginia,44
+PRSE2,Wisconsin,70
+PRSU2,California,36
+PRSU2,Oregon,9
+PRSU2,Washington,0
+PRTO80,Illinois,0
+PRTO80,Iowa,0
+PRTO80,Maryland,1
+PRTO80,Michigan,3
+PRTO80,Minnesota,1
+PRTO80,Montana,0
+PRTO80,North Carolina,1
+PRTO80,Ohio,1
+PRTO80,Pennsylvania,0
+PRTO80,South Dakota,0
+PRTO80,Utah,1
+PRVI,Alaska,0
+PRVI,Arizona,8
+PRVI,Arkansas,2
+PRVI,California,49
+PRVI,Colorado,45
+PRVI,Connecticut,0
+PRVI,Delaware,0
+PRVI,District of Columbia,1
+PRVI,Georgia,0
+PRVI,Idaho,34
+PRVI,Illinois,53
+PRVI,Indiana,37
+PRVI,Iowa,23
+PRVI,Kansas,78
+PRVI,Kentucky,12
+PRVI,Maine,15
+PRVI,Maryland,0
+PRVI,Massachusetts,14
+PRVI,Michigan,77
+PRVI,Minnesota,79
+PRVI,Missouri,43
+PRVI,Montana,41
+PRVI,Nebraska,66
+PRVI,Nevada,17
+PRVI,New Hampshire,10
+PRVI,New Jersey,14
+PRVI,New Mexico,20
+PRVI,New York,45
+PRVI,North Carolina,2
+PRVI,North Dakota,42
+PRVI,Ohio,75
+PRVI,Oklahoma,4
+PRVI,Oregon,32
+PRVI,Pennsylvania,65
+PRVI,Rhode Island,2
+PRVI,South Dakota,47
+PRVI,Tennessee,5
+PRVI,Texas,8
+PRVI,Utah,29
+PRVI,Vermont,13
+PRVI,Virginia,32
+PRVI,Washington,27
+PRVI,West Virginia,17
+PRVI,Wisconsin,70
+PRVI,Wyoming,23
+PSGU,Florida,17
+PSGU,Hawaii,4
+PSGU,Louisiana,0
+PSMA,California,8
+PSME,Arizona,10
+PSME,California,36
+PSME,Colorado,22
+PSME,Idaho,22
+PSME,Minnesota,1
+PSME,Montana,2
+PSME,Nevada,5
+PSME,New Jersey,2
+PSME,New Mexico,14
+PSME,New York,4
+PSME,Oregon,30
+PSME,Pennsylvania,0
+PSME,Texas,1
+PSME,Utah,29
+PSME,Washington,33
+PSME,Wyoming,15
+PUGL2,Arizona,1
+PUGL2,California,11
+PUGL2,Nevada,9
+PUGL2,Utah,2
+PUGR2,Alabama,1
+PUGR2,Arizona,2
+PUGR2,California,3
+PUGR2,Florida,0
+PUGR2,Louisiana,12
+PUGR2,North Carolina,0
+PUGR2,Texas,1
+PUGR2,Utah,2
+PUTR2,Arizona,3
+PUTR2,California,27
+PUTR2,Colorado,18
+PUTR2,Idaho,25
+PUTR2,Montana,10
+PUTR2,Nebraska,0
+PUTR2,Nevada,17
+PUTR2,New Mexico,4
+PUTR2,Oregon,23
+PUTR2,Utah,29
+PUTR2,Washington,15
+PUTR2,Wyoming,15
+PYCO,Alabama,13
+PYCO,Arkansas,18
+PYCO,California,9
+PYCO,Connecticut,0
+PYCO,Delaware,1
+PYCO,District of Columbia,1
+PYCO,Florida,4
+PYCO,Georgia,0
+PYCO,Idaho,6
+PYCO,Illinois,30
+PYCO,Indiana,0
+PYCO,Iowa,0
+PYCO,Kansas,0
+PYCO,Kentucky,28
+PYCO,Louisiana,36
+PYCO,Maine,4
+PYCO,Maryland,0
+PYCO,Massachusetts,10
+PYCO,Michigan,12
+PYCO,Mississippi,8
+PYCO,Missouri,11
+PYCO,Montana,1
+PYCO,New Hampshire,2
+PYCO,New Jersey,9
+PYCO,New Mexico,0
+PYCO,New York,19
+PYCO,North Carolina,9
+PYCO,Ohio,85
+PYCO,Oregon,10
+PYCO,Pennsylvania,28
+PYCO,Rhode Island,3
+PYCO,South Carolina,2
+PYCO,Tennessee,13
+PYCO,Texas,7
+PYCO,Utah,7
+PYCO,Vermont,2
+PYCO,Virginia,33
+PYCO,Washington,7
+PYCO,West Virginia,6
+PYCO,Wisconsin,2
+PYCO2,Alabama,6
+PYCO2,Arkansas,0
+PYCO2,California,2
+PYCO2,District of Columbia,1
+PYCO2,Florida,0
+PYCO2,Georgia,0
+PYCO2,Louisiana,29
+PYCO2,Mississippi,2
+PYCO2,New Mexico,1
+PYCO2,New York,0
+PYCO2,North Carolina,0
+PYCO2,Ohio,4
+PYCO2,Oklahoma,1
+PYCO2,Oregon,2
+PYCO2,Pennsylvania,2
+PYCO2,South Carolina,1
+PYCO2,Tennessee,2
+PYCO2,Texas,3
+PYCO2,Utah,2
+PYCO2,Virginia,0
+QUAL,Alabama,62
+QUAL,Arkansas,75
+QUAL,Connecticut,0
+QUAL,Delaware,1
+QUAL,District of Columbia,1
+QUAL,Florida,11
+QUAL,Georgia,47
+QUAL,Illinois,102
+QUAL,Indiana,78
+QUAL,Iowa,12
+QUAL,Kansas,12
+QUAL,Kentucky,120
+QUAL,Louisiana,39
+QUAL,Maine,11
+QUAL,Maryland,0
+QUAL,Massachusetts,14
+QUAL,Michigan,49
+QUAL,Minnesota,27
+QUAL,Mississippi,61
+QUAL,Missouri,113
+QUAL,Nebraska,1
+QUAL,New Hampshire,9
+QUAL,New Jersey,18
+QUAL,New York,31
+QUAL,North Carolina,74
+QUAL,Ohio,87
+QUAL,Oklahoma,18
+QUAL,Pennsylvania,67
+QUAL,Rhode Island,5
+QUAL,South Carolina,36
+QUAL,Tennessee,55
+QUAL,Texas,20
+QUAL,Vermont,5
+QUAL,Virginia,100
+QUAL,West Virginia,49
+QUAL,Wisconsin,47
+QUBI,Alabama,3
+QUBI,Connecticut,0
+QUBI,Delaware,1
+QUBI,District of Columbia,1
+QUBI,Illinois,62
+QUBI,Indiana,64
+QUBI,Iowa,0
+QUBI,Kentucky,57
+QUBI,Maine,5
+QUBI,Maryland,0
+QUBI,Massachusetts,12
+QUBI,Michigan,30
+QUBI,Minnesota,10
+QUBI,Mississippi,1
+QUBI,Missouri,59
+QUBI,New Hampshire,4
+QUBI,New Jersey,16
+QUBI,New York,33
+QUBI,North Carolina,8
+QUBI,Ohio,85
+QUBI,Pennsylvania,43
+QUBI,Rhode Island,3
+QUBI,South Carolina,4
+QUBI,Tennessee,19
+QUBI,Vermont,3
+QUBI,Virginia,33
+QUBI,West Virginia,13
+QUBI,Wisconsin,31
+QUDO,California,42
+QULA3,Alabama,43
+QULA3,Arkansas,10
+QULA3,Florida,53
+QULA3,Georgia,70
+QULA3,Louisiana,57
+QULA3,Maryland,0
+QULA3,Mississippi,23
+QULA3,North Carolina,26
+QULA3,Pennsylvania,0
+QULA3,South Carolina,18
+QULA3,Texas,12
+QULA3,Virginia,14
+QULY,Alabama,35
+QULY,Arkansas,51
+QULY,Delaware,3
+QULY,Florida,17
+QULY,Georgia,24
+QULY,Illinois,27
+QULY,Indiana,8
+QULY,Kentucky,32
+QULY,Louisiana,47
+QULY,Maryland,0
+QULY,Mississippi,26
+QULY,Missouri,14
+QULY,New Jersey,3
+QULY,North Carolina,33
+QULY,Oklahoma,5
+QULY,South Carolina,22
+QULY,Tennessee,39
+QULY,Texas,17
+QULY,Virginia,35
+QUMA2,Alabama,6
+QUMA2,Arkansas,39
+QUMA2,Connecticut,0
+QUMA2,Delaware,0
+QUMA2,District of Columbia,1
+QUMA2,Illinois,102
+QUMA2,Indiana,61
+QUMA2,Iowa,32
+QUMA2,Kansas,64
+QUMA2,Kentucky,64
+QUMA2,Louisiana,6
+QUMA2,Maine,7
+QUMA2,Maryland,8
+QUMA2,Massachusetts,1
+QUMA2,Michigan,45
+QUMA2,Minnesota,68
+QUMA2,Mississippi,7
+QUMA2,Missouri,108
+QUMA2,Montana,3
+QUMA2,Nebraska,42
+QUMA2,New Hampshire,2
+QUMA2,New Jersey,5
+QUMA2,New Mexico,0
+QUMA2,New York,24
+QUMA2,North Dakota,32
+QUMA2,Ohio,78
+QUMA2,Oklahoma,61
+QUMA2,Pennsylvania,20
+QUMA2,Rhode Island,0
+QUMA2,South Dakota,27
+QUMA2,Tennessee,12
+QUMA2,Texas,27
+QUMA2,Vermont,6
+QUMA2,Virginia,6
+QUMA2,West Virginia,9
+QUMA2,Wisconsin,61
+QUMA2,Wyoming,2
+QUNI,Alabama,61
+QUNI,Arkansas,61
+QUNI,Delaware,2
+QUNI,District of Columbia,1
+QUNI,Florida,38
+QUNI,Georgia,139
+QUNI,Illinois,0
+QUNI,Kentucky,8
+QUNI,Louisiana,61
+QUNI,Maryland,0
+QUNI,Mississippi,68
+QUNI,Missouri,4
+QUNI,New Jersey,2
+QUNI,North Carolina,55
+QUNI,Oklahoma,18
+QUNI,South Carolina,45
+QUNI,Tennessee,28
+QUNI,Texas,36
+QUNI,Virginia,33
+QUPA2,Arkansas,38
+QUPA2,Connecticut,0
+QUPA2,Delaware,1
+QUPA2,District of Columbia,1
+QUPA2,Georgia,1
+QUPA2,Illinois,78
+QUPA2,Indiana,60
+QUPA2,Iowa,2
+QUPA2,Kansas,23
+QUPA2,Kentucky,72
+QUPA2,Maine,0
+QUPA2,Maryland,0
+QUPA2,Massachusetts,9
+QUPA2,Michigan,16
+QUPA2,Mississippi,5
+QUPA2,Missouri,84
+QUPA2,Nebraska,0
+QUPA2,New Jersey,19
+QUPA2,New York,19
+QUPA2,North Carolina,9
+QUPA2,Ohio,82
+QUPA2,Oklahoma,29
+QUPA2,Pennsylvania,43
+QUPA2,Rhode Island,3
+QUPA2,Tennessee,24
+QUPA2,Virginia,56
+QUPA2,West Virginia,23
+QUPA2,Wisconsin,3
+QUPA5,Alabama,24
+QUPA5,Arkansas,39
+QUPA5,Florida,3
+QUPA5,Georgia,5
+QUPA5,Illinois,9
+QUPA5,Indiana,0
+QUPA5,Kentucky,22
+QUPA5,Louisiana,54
+QUPA5,Maryland,0
+QUPA5,Mississippi,34
+QUPA5,Missouri,7
+QUPA5,New Jersey,0
+QUPA5,North Carolina,34
+QUPA5,Oklahoma,2
+QUPA5,South Carolina,13
+QUPA5,Tennessee,26
+QUPA5,Texas,2
+QUPA5,Virginia,0
+QUPH,Alabama,62
+QUPH,Arkansas,60
+QUPH,Connecticut,0
+QUPH,Delaware,2
+QUPH,District of Columbia,1
+QUPH,Florida,8
+QUPH,Georgia,99
+QUPH,Illinois,5
+QUPH,Kentucky,35
+QUPH,Louisiana,50
+QUPH,Maryland,0
+QUPH,Mississippi,40
+QUPH,Missouri,12
+QUPH,New Jersey,10
+QUPH,New York,6
+QUPH,North Carolina,45
+QUPH,Ohio,1
+QUPH,Oklahoma,12
+QUPH,Pennsylvania,5
+QUPH,South Carolina,33
+QUPH,Tennessee,45
+QUPH,Texas,22
+QUPH,Virginia,65
+QURU,Alabama,47
+QURU,Arkansas,60
+QURU,Connecticut,0
+QURU,Delaware,3
+QURU,District of Columbia,1
+QURU,Georgia,23
+QURU,Illinois,96
+QURU,Indiana,67
+QURU,Iowa,18
+QURU,Kansas,34
+QURU,Kentucky,118
+QURU,Louisiana,9
+QURU,Maine,16
+QURU,Maryland,0
+QURU,Massachusetts,14
+QURU,Michigan,72
+QURU,Minnesota,46
+QURU,Mississippi,18
+QURU,Missouri,111
+QURU,Nebraska,11
+QURU,New Hampshire,10
+QURU,New Jersey,20
+QURU,New York,44
+QURU,North Carolina,44
+QURU,Ohio,83
+QURU,Oklahoma,33
+QURU,Pennsylvania,66
+QURU,Rhode Island,3
+QURU,South Carolina,10
+QURU,Tennessee,51
+QURU,Vermont,10
+QURU,Virginia,97
+QURU,West Virginia,48
+QURU,Wisconsin,64
+QUVE,Alabama,57
+QUVE,Arkansas,72
+QUVE,Connecticut,0
+QUVE,Delaware,2
+QUVE,District of Columbia,1
+QUVE,Florida,7
+QUVE,Georgia,30
+QUVE,Illinois,102
+QUVE,Indiana,65
+QUVE,Iowa,19
+QUVE,Kansas,32
+QUVE,Kentucky,117
+QUVE,Louisiana,29
+QUVE,Maine,4
+QUVE,Maryland,0
+QUVE,Massachusetts,14
+QUVE,Michigan,39
+QUVE,Minnesota,6
+QUVE,Mississippi,30
+QUVE,Missouri,110
+QUVE,Nebraska,9
+QUVE,New Hampshire,8
+QUVE,New Jersey,18
+QUVE,New York,33
+QUVE,North Carolina,52
+QUVE,Ohio,82
+QUVE,Oklahoma,47
+QUVE,Pennsylvania,61
+QUVE,Rhode Island,5
+QUVE,South Carolina,24
+QUVE,Tennessee,50
+QUVE,Texas,10
+QUVE,Vermont,4
+QUVE,Virginia,96
+QUVE,West Virginia,44
+QUVE,Wisconsin,31
+QUVI,Alabama,9
+QUVI,Florida,57
+QUVI,Georgia,25
+QUVI,Louisiana,58
+QUVI,Mississippi,9
+QUVI,North Carolina,12
+QUVI,South Carolina,21
+QUVI,Texas,21
+QUVI,Utah,1
+QUVI,Virginia,6
+RAAB,Alabama,14
+RAAB,Alaska,5
+RAAB,Arkansas,62
+RAAB,Colorado,9
+RAAB,Connecticut,0
+RAAB,Delaware,2
+RAAB,District of Columbia,1
+RAAB,Florida,7
+RAAB,Georgia,22
+RAAB,Idaho,4
+RAAB,Illinois,100
+RAAB,Indiana,83
+RAAB,Iowa,20
+RAAB,Kansas,51
+RAAB,Kentucky,84
+RAAB,Louisiana,38
+RAAB,Maine,15
+RAAB,Maryland,0
+RAAB,Massachusetts,13
+RAAB,Michigan,81
+RAAB,Minnesota,75
+RAAB,Mississippi,23
+RAAB,Missouri,111
+RAAB,Montana,9
+RAAB,Nebraska,36
+RAAB,New Hampshire,9
+RAAB,New Jersey,17
+RAAB,New Mexico,3
+RAAB,New York,50
+RAAB,North Carolina,67
+RAAB,North Dakota,23
+RAAB,Ohio,84
+RAAB,Oklahoma,17
+RAAB,Pennsylvania,67
+RAAB,Rhode Island,4
+RAAB,South Carolina,22
+RAAB,South Dakota,15
+RAAB,Tennessee,63
+RAAB,Texas,13
+RAAB,Vermont,14
+RAAB,Virginia,97
+RAAB,Washington,3
+RAAB,West Virginia,38
+RAAB,Wisconsin,44
+RAAB,Wyoming,6
+RACO3,Alabama,2
+RACO3,Arizona,6
+RACO3,Arkansas,13
+RACO3,California,4
+RACO3,Colorado,29
+RACO3,Connecticut,0
+RACO3,Florida,3
+RACO3,Georgia,0
+RACO3,Idaho,5
+RACO3,Illinois,10
+RACO3,Indiana,3
+RACO3,Iowa,16
+RACO3,Kansas,105
+RACO3,Louisiana,9
+RACO3,Massachusetts,0
+RACO3,Michigan,3
+RACO3,Minnesota,29
+RACO3,Mississippi,0
+RACO3,Missouri,12
+RACO3,Montana,47
+RACO3,Nebraska,74
+RACO3,New Jersey,1
+RACO3,New Mexico,28
+RACO3,New York,2
+RACO3,North Carolina,0
+RACO3,North Dakota,49
+RACO3,Ohio,0
+RACO3,Oklahoma,44
+RACO3,Pennsylvania,2
+RACO3,South Carolina,0
+RACO3,South Dakota,57
+RACO3,Tennessee,1
+RACO3,Texas,139
+RACO3,Utah,6
+RACO3,West Virginia,1
+RACO3,Wisconsin,1
+RACO3,Wyoming,12
+RAFL2,Alaska,19
+RAFL2,Arizona,2
+RAFL2,California,23
+RAFL2,Colorado,10
+RAFL2,Connecticut,0
+RAFL2,Idaho,10
+RAFL2,Maine,16
+RAFL2,Massachusetts,5
+RAFL2,Michigan,21
+RAFL2,Minnesota,24
+RAFL2,Montana,9
+RAFL2,Nevada,2
+RAFL2,New Hampshire,10
+RAFL2,New Jersey,3
+RAFL2,New Mexico,3
+RAFL2,New York,20
+RAFL2,North Dakota,0
+RAFL2,Oregon,25
+RAFL2,Pennsylvania,7
+RAFL2,Rhode Island,0
+RAFL2,Utah,11
+RAFL2,Vermont,10
+RAFL2,Washington,28
+RAFL2,West Virginia,1
+RAFL2,Wisconsin,6
+RAFL2,Wyoming,8
+RAHI,Alabama,21
+RAHI,Arkansas,49
+RAHI,Connecticut,0
+RAHI,Delaware,2
+RAHI,District of Columbia,1
+RAHI,Florida,9
+RAHI,Georgia,40
+RAHI,Illinois,97
+RAHI,Indiana,79
+RAHI,Iowa,12
+RAHI,Kansas,9
+RAHI,Kentucky,76
+RAHI,Louisiana,3
+RAHI,Maine,12
+RAHI,Maryland,3
+RAHI,Massachusetts,5
+RAHI,Michigan,64
+RAHI,Minnesota,48
+RAHI,Mississippi,5
+RAHI,Missouri,104
+RAHI,Nebraska,4
+RAHI,New Hampshire,4
+RAHI,New Jersey,19
+RAHI,New York,56
+RAHI,North Carolina,57
+RAHI,North Dakota,10
+RAHI,Ohio,78
+RAHI,Oklahoma,5
+RAHI,Pennsylvania,63
+RAHI,Rhode Island,1
+RAHI,South Carolina,22
+RAHI,South Dakota,8
+RAHI,Tennessee,59
+RAHI,Texas,23
+RAHI,Vermont,13
+RAHI,Virginia,75
+RAHI,West Virginia,43
+RAHI,Wisconsin,20
+RALO2,Alabama,4
+RALO2,Arizona,4
+RALO2,Arkansas,3
+RALO2,California,4
+RALO2,Colorado,12
+RALO2,Connecticut,0
+RALO2,Delaware,1
+RALO2,Idaho,15
+RALO2,Illinois,33
+RALO2,Indiana,27
+RALO2,Iowa,4
+RALO2,Kansas,15
+RALO2,Kentucky,7
+RALO2,Massachusetts,12
+RALO2,Michigan,66
+RALO2,Minnesota,18
+RALO2,Missouri,19
+RALO2,Montana,4
+RALO2,Nebraska,33
+RALO2,Nevada,13
+RALO2,New Hampshire,0
+RALO2,New Jersey,13
+RALO2,New Mexico,9
+RALO2,New York,37
+RALO2,North Dakota,42
+RALO2,Ohio,26
+RALO2,Oklahoma,7
+RALO2,Oregon,1
+RALO2,Pennsylvania,10
+RALO2,South Dakota,18
+RALO2,Tennessee,3
+RALO2,Texas,4
+RALO2,Utah,19
+RALO2,Vermont,7
+RALO2,Virginia,3
+RALO2,Washington,4
+RALO2,Wisconsin,0
+RALO2,Wyoming,13
+RAPE2,Alaska,5
+RAPE2,Arizona,4
+RAPE2,Colorado,0
+RAPE2,Connecticut,0
+RAPE2,Delaware,1
+RAPE2,District of Columbia,1
+RAPE2,Idaho,7
+RAPE2,Illinois,18
+RAPE2,Indiana,12
+RAPE2,Iowa,4
+RAPE2,Maine,12
+RAPE2,Maryland,1
+RAPE2,Massachusetts,7
+RAPE2,Michigan,59
+RAPE2,Minnesota,61
+RAPE2,Montana,3
+RAPE2,Nebraska,12
+RAPE2,New Hampshire,6
+RAPE2,New Jersey,16
+RAPE2,New Mexico,5
+RAPE2,New York,49
+RAPE2,North Dakota,22
+RAPE2,Ohio,23
+RAPE2,Oregon,0
+RAPE2,Pennsylvania,21
+RAPE2,Rhode Island,1
+RAPE2,South Dakota,13
+RAPE2,Vermont,9
+RAPE2,Washington,12
+RAPE2,West Virginia,1
+RAPE2,Wisconsin,13
+RAPE2,Wyoming,4
+RAPI,Alabama,10
+RAPI,Arkansas,20
+RAPI,Connecticut,0
+RAPI,Florida,2
+RAPI,Georgia,4
+RAPI,Illinois,85
+RAPI,Indiana,52
+RAPI,Iowa,39
+RAPI,Kansas,32
+RAPI,Kentucky,41
+RAPI,Louisiana,7
+RAPI,Massachusetts,2
+RAPI,Michigan,20
+RAPI,Minnesota,38
+RAPI,Mississippi,8
+RAPI,Missouri,91
+RAPI,Nebraska,11
+RAPI,New Jersey,0
+RAPI,New York,1
+RAPI,Ohio,44
+RAPI,Oklahoma,9
+RAPI,Pennsylvania,4
+RAPI,South Carolina,2
+RAPI,South Dakota,8
+RAPI,Tennessee,26
+RAPI,Vermont,1
+RAPI,Virginia,2
+RAPI,West Virginia,1
+RAPI,Wisconsin,39
+RARE3,Alabama,1
+RARE3,Alaska,14
+RARE3,Arkansas,2
+RARE3,California,19
+RARE3,Colorado,4
+RARE3,Connecticut,0
+RARE3,Delaware,1
+RARE3,District of Columbia,1
+RARE3,Hawaii,1
+RARE3,Idaho,17
+RARE3,Illinois,18
+RARE3,Indiana,5
+RARE3,Iowa,0
+RARE3,Kentucky,13
+RARE3,Maine,14
+RARE3,Maryland,0
+RARE3,Massachusetts,14
+RARE3,Michigan,12
+RARE3,Minnesota,4
+RARE3,Mississippi,2
+RARE3,Missouri,2
+RARE3,Montana,15
+RARE3,Nebraska,0
+RARE3,Nevada,1
+RARE3,New Hampshire,8
+RARE3,New Jersey,17
+RARE3,New Mexico,2
+RARE3,New York,33
+RARE3,North Carolina,12
+RARE3,Ohio,22
+RARE3,Oregon,28
+RARE3,Pennsylvania,49
+RARE3,Rhode Island,3
+RARE3,South Carolina,1
+RARE3,South Dakota,0
+RARE3,Tennessee,1
+RARE3,Texas,5
+RARE3,Utah,12
+RARE3,Vermont,7
+RARE3,Virginia,31
+RARE3,Washington,26
+RARE3,West Virginia,16
+RARE3,Wisconsin,4
+RARE3,Wyoming,1
+RHAL2,Colorado,3
+RHAL2,Idaho,3
+RHAL2,Montana,3
+RHAL2,Oregon,8
+RHAL2,Washington,17
+RHAR3,Alabama,14
+RHAR3,Georgia,20
+RHAR3,Kentucky,8
+RHAR3,Maryland,0
+RHAR3,Mississippi,4
+RHAR3,New York,1
+RHAR3,North Carolina,26
+RHAR3,Pennsylvania,13
+RHAR3,South Carolina,3
+RHAR3,Tennessee,23
+RHAR3,Virginia,8
+RHAR3,West Virginia,18
+RHAT,Delaware,3
+RHAT,District of Columbia,1
+RHAT,Georgia,11
+RHAT,Maryland,0
+RHAT,New Jersey,4
+RHAT,North Carolina,36
+RHAT,Pennsylvania,1
+RHAT,South Carolina,13
+RHAT,Virginia,24
+RHCA6,Connecticut,0
+RHCA6,Maine,16
+RHCA6,Massachusetts,12
+RHCA6,New Hampshire,10
+RHCA6,New Jersey,5
+RHCA6,New York,12
+RHCA6,Pennsylvania,8
+RHCA6,Rhode Island,2
+RHCA6,Vermont,8
+RHCA7,Alabama,53
+RHCA7,Arkansas,12
+RHCA7,Delaware,1
+RHCA7,Florida,23
+RHCA7,Georgia,77
+RHCA7,Kentucky,1
+RHCA7,Louisiana,35
+RHCA7,Maryland,0
+RHCA7,Mississippi,45
+RHCA7,North Carolina,5
+RHCA7,Oklahoma,0
+RHCA7,Pennsylvania,11
+RHCA7,South Carolina,25
+RHCA7,Tennessee,44
+RHCA7,Texas,11
+RHCO,Alabama,66
+RHCO,Arkansas,68
+RHCO,Connecticut,0
+RHCO,Delaware,1
+RHCO,District of Columbia,1
+RHCO,Florida,61
+RHCO,Georgia,56
+RHCO,Illinois,52
+RHCO,Indiana,50
+RHCO,Iowa,0
+RHCO,Kansas,27
+RHCO,Kentucky,94
+RHCO,Louisiana,42
+RHCO,Maine,6
+RHCO,Maryland,1
+RHCO,Massachusetts,14
+RHCO,Michigan,28
+RHCO,Mississippi,60
+RHCO,Missouri,90
+RHCO,Nebraska,2
+RHCO,New Hampshire,9
+RHCO,New Jersey,21
+RHCO,New York,25
+RHCO,North Carolina,83
+RHCO,Ohio,50
+RHCO,Oklahoma,30
+RHCO,Pennsylvania,55
+RHCO,Rhode Island,4
+RHCO,South Carolina,40
+RHCO,Tennessee,46
+RHCO,Texas,37
+RHCO,Vermont,6
+RHCO,Virginia,89
+RHCO,West Virginia,38
+RHCO,Wisconsin,13
+RHGL,Alabama,61
+RHGL,Arizona,10
+RHGL,Arkansas,68
+RHGL,California,0
+RHGL,Colorado,8
+RHGL,Connecticut,0
+RHGL,Delaware,1
+RHGL,District of Columbia,1
+RHGL,Florida,5
+RHGL,Georgia,27
+RHGL,Idaho,7
+RHGL,Illinois,102
+RHGL,Indiana,78
+RHGL,Iowa,12
+RHGL,Kansas,82
+RHGL,Kentucky,94
+RHGL,Louisiana,38
+RHGL,Maine,8
+RHGL,Maryland,0
+RHGL,Massachusetts,14
+RHGL,Michigan,32
+RHGL,Minnesota,65
+RHGL,Mississippi,45
+RHGL,Missouri,114
+RHGL,Montana,3
+RHGL,Nebraska,39
+RHGL,Nevada,2
+RHGL,New Hampshire,10
+RHGL,New Jersey,18
+RHGL,New Mexico,13
+RHGL,New York,31
+RHGL,North Carolina,57
+RHGL,North Dakota,8
+RHGL,Ohio,88
+RHGL,Oklahoma,38
+RHGL,Oregon,12
+RHGL,Pennsylvania,61
+RHGL,Rhode Island,5
+RHGL,South Carolina,24
+RHGL,South Dakota,16
+RHGL,Tennessee,43
+RHGL,Texas,41
+RHGL,Utah,11
+RHGL,Vermont,3
+RHGL,Virginia,94
+RHGL,Washington,15
+RHGL,West Virginia,44
+RHGL,Wisconsin,42
+RHGL,Wyoming,6
+RHMA4,Alabama,0
+RHMA4,Connecticut,0
+RHMA4,Delaware,0
+RHMA4,District of Columbia,1
+RHMA4,Georgia,15
+RHMA4,Kentucky,31
+RHMA4,Maine,4
+RHMA4,Maryland,0
+RHMA4,Massachusetts,4
+RHMA4,New Hampshire,6
+RHMA4,New Jersey,11
+RHMA4,New York,27
+RHMA4,North Carolina,32
+RHMA4,Ohio,6
+RHMA4,Pennsylvania,57
+RHMA4,Rhode Island,2
+RHMA4,South Carolina,2
+RHMA4,Tennessee,30
+RHMA4,Vermont,4
+RHMA4,Virginia,45
+RHMA4,West Virginia,38
+RHMI3,Arizona,5
+RHMI3,New Mexico,11
+RHMI3,Oklahoma,1
+RHMI3,Texas,48
+RHOV,Arizona,6
+RHOV,California,9
+RHPE4,Alabama,47
+RHPE4,Connecticut,0
+RHPE4,Delaware,2
+RHPE4,District of Columbia,1
+RHPE4,Georgia,14
+RHPE4,Illinois,1
+RHPE4,Kentucky,18
+RHPE4,Maryland,0
+RHPE4,Massachusetts,7
+RHPE4,New Hampshire,2
+RHPE4,New Jersey,19
+RHPE4,New York,18
+RHPE4,North Carolina,65
+RHPE4,Ohio,15
+RHPE4,Pennsylvania,63
+RHPE4,Rhode Island,3
+RHPE4,South Carolina,21
+RHPE4,Tennessee,31
+RHPE4,Vermont,1
+RHPE4,Virginia,93
+RHPE4,West Virginia,38
+RHTR,Arizona,12
+RHTR,Arkansas,1
+RHTR,California,36
+RHTR,Colorado,44
+RHTR,Idaho,18
+RHTR,Iowa,0
+RHTR,Kansas,8
+RHTR,Maryland,1
+RHTR,Montana,38
+RHTR,Nebraska,22
+RHTR,Nevada,5
+RHTR,New Mexico,26
+RHTR,North Dakota,18
+RHTR,Oklahoma,9
+RHTR,Oregon,5
+RHTR,South Dakota,23
+RHTR,Texas,87
+RHTR,Utah,27
+RHTR,Washington,1
+RHTR,Wyoming,19
+RHTY,Alabama,3
+RHTY,Connecticut,0
+RHTY,Delaware,1
+RHTY,District of Columbia,1
+RHTY,Georgia,1
+RHTY,Illinois,27
+RHTY,Indiana,26
+RHTY,Iowa,0
+RHTY,Kansas,0
+RHTY,Kentucky,22
+RHTY,Maine,16
+RHTY,Maryland,0
+RHTY,Massachusetts,14
+RHTY,Michigan,59
+RHTY,Minnesota,30
+RHTY,Mississippi,0
+RHTY,Missouri,1
+RHTY,New Hampshire,10
+RHTY,New Jersey,17
+RHTY,New York,37
+RHTY,North Carolina,16
+RHTY,Ohio,61
+RHTY,Pennsylvania,64
+RHTY,Rhode Island,2
+RHTY,South Carolina,1
+RHTY,South Dakota,0
+RHTY,Tennessee,16
+RHTY,Utah,1
+RHTY,Vermont,11
+RHTY,Virginia,44
+RHTY,West Virginia,39
+RHTY,Wisconsin,58
+RHVI2,Alabama,9
+RHVI2,Arkansas,28
+RHVI2,Connecticut,0
+RHVI2,Delaware,2
+RHVI2,District of Columbia,1
+RHVI2,Florida,36
+RHVI2,Georgia,55
+RHVI2,Louisiana,20
+RHVI2,Maine,1
+RHVI2,Maryland,1
+RHVI2,Massachusetts,12
+RHVI2,Mississippi,11
+RHVI2,New Hampshire,2
+RHVI2,New Jersey,21
+RHVI2,New York,20
+RHVI2,North Carolina,48
+RHVI2,Oklahoma,0
+RHVI2,Pennsylvania,22
+RHVI2,Rhode Island,4
+RHVI2,South Carolina,23
+RHVI2,Tennessee,5
+RHVI2,Texas,15
+RHVI2,Vermont,1
+RHVI2,Virginia,63
+RHVI2,West Virginia,4
+RIAU,Arizona,8
+RIAU,Arkansas,10
+RIAU,California,21
+RIAU,Colorado,35
+RIAU,Connecticut,0
+RIAU,Idaho,32
+RIAU,Illinois,29
+RIAU,Indiana,0
+RIAU,Iowa,4
+RIAU,Kansas,83
+RIAU,Maryland,0
+RIAU,Massachusetts,8
+RIAU,Michigan,14
+RIAU,Minnesota,14
+RIAU,Missouri,4
+RIAU,Montana,32
+RIAU,Nebraska,30
+RIAU,Nevada,16
+RIAU,New Jersey,1
+RIAU,New Mexico,11
+RIAU,New York,13
+RIAU,North Dakota,13
+RIAU,Ohio,14
+RIAU,Oklahoma,28
+RIAU,Oregon,18
+RIAU,Pennsylvania,13
+RIAU,South Dakota,27
+RIAU,Tennessee,1
+RIAU,Texas,14
+RIAU,Utah,28
+RIAU,Vermont,2
+RIAU,Washington,15
+RIAU,Wisconsin,19
+RIAU,Wyoming,21
+RICE,Arizona,6
+RICE,California,28
+RICE,Colorado,37
+RICE,Idaho,29
+RICE,Montana,29
+RICE,Nebraska,7
+RICE,Nevada,15
+RICE,New Mexico,21
+RICE,North Dakota,3
+RICE,Oklahoma,1
+RICE,Oregon,24
+RICE,South Dakota,7
+RICE,Utah,27
+RICE,Washington,18
+RICE,Wyoming,22
+RIIN2,Arizona,3
+RIIN2,California,19
+RIIN2,Colorado,37
+RIIN2,Idaho,19
+RIIN2,Montana,2
+RIIN2,Nevada,13
+RIIN2,New Mexico,12
+RIIN2,Oregon,16
+RIIN2,Utah,23
+RIIN2,Washington,8
+RIIN2,Wyoming,11
+RIMO2,Arizona,3
+RIMO2,California,23
+RIMO2,Colorado,29
+RIMO2,Idaho,18
+RIMO2,Montana,21
+RIMO2,Nevada,10
+RIMO2,New Mexico,13
+RIMO2,Oregon,9
+RIMO2,Utah,25
+RIMO2,Washington,5
+RIMO2,Wyoming,10
+RITR,Alaska,17
+RITR,Connecticut,0
+RITR,Illinois,0
+RITR,Maine,9
+RITR,Massachusetts,2
+RITR,Michigan,51
+RITR,Minnesota,30
+RITR,Montana,0
+RITR,New Hampshire,3
+RITR,New Jersey,7
+RITR,New York,26
+RITR,North Dakota,5
+RITR,Ohio,2
+RITR,Oregon,3
+RITR,Pennsylvania,9
+RITR,Rhode Island,1
+RITR,South Dakota,0
+RITR,Vermont,10
+RITR,Virginia,0
+RITR,Washington,8
+RITR,West Virginia,2
+RITR,Wisconsin,38
+RONE,Arizona,13
+RONE,California,1
+RONE,Colorado,7
+RONE,Nevada,3
+RONE,New Mexico,23
+RONE,Texas,2
+RONE,Utah,1
+RONE,Wyoming,0
+ROOF,California,2
+ROOF,North Carolina,0
+ROOF,Oregon,0
+ROOF,South Carolina,0
+ROOF,Texas,3
+ROPA,Alabama,4
+ROPA,Arkansas,13
+ROPA,Connecticut,0
+ROPA,Delaware,1
+ROPA,District of Columbia,1
+ROPA,Florida,28
+ROPA,Georgia,19
+ROPA,Illinois,44
+ROPA,Indiana,78
+ROPA,Iowa,0
+ROPA,Kentucky,62
+ROPA,Louisiana,1
+ROPA,Maine,16
+ROPA,Maryland,0
+ROPA,Massachusetts,14
+ROPA,Michigan,65
+ROPA,Mississippi,7
+ROPA,Missouri,15
+ROPA,New Hampshire,10
+ROPA,New Jersey,18
+ROPA,New York,51
+ROPA,North Carolina,77
+ROPA,Ohio,83
+ROPA,Pennsylvania,52
+ROPA,Rhode Island,5
+ROPA,South Carolina,12
+ROPA,Tennessee,39
+ROPA,Vermont,9
+ROPA,Virginia,86
+ROPA,West Virginia,24
+ROPA,Wisconsin,8
+ROPS,Alabama,56
+ROPS,Arizona,4
+ROPS,Arkansas,56
+ROPS,California,31
+ROPS,Colorado,7
+ROPS,Connecticut,0
+ROPS,Delaware,1
+ROPS,District of Columbia,1
+ROPS,Florida,11
+ROPS,Georgia,20
+ROPS,Idaho,18
+ROPS,Illinois,88
+ROPS,Indiana,46
+ROPS,Iowa,7
+ROPS,Kansas,65
+ROPS,Kentucky,116
+ROPS,Louisiana,48
+ROPS,Maine,11
+ROPS,Maryland,0
+ROPS,Massachusetts,14
+ROPS,Michigan,38
+ROPS,Minnesota,14
+ROPS,Mississippi,36
+ROPS,Missouri,55
+ROPS,Montana,0
+ROPS,Nebraska,12
+ROPS,Nevada,5
+ROPS,New Hampshire,9
+ROPS,New Jersey,18
+ROPS,New Mexico,15
+ROPS,New York,30
+ROPS,North Carolina,37
+ROPS,North Dakota,0
+ROPS,Ohio,88
+ROPS,Oklahoma,25
+ROPS,Oregon,20
+ROPS,Pennsylvania,61
+ROPS,Rhode Island,4
+ROPS,South Carolina,21
+ROPS,South Dakota,3
+ROPS,Tennessee,43
+ROPS,Texas,37
+ROPS,Utah,12
+ROPS,Vermont,6
+ROPS,Virginia,100
+ROPS,Washington,12
+ROPS,West Virginia,50
+ROPS,Wisconsin,46
+ROPS,Wyoming,1
+RORU,Alaska,3
+RORU,Connecticut,0
+RORU,Delaware,0
+RORU,Illinois,1
+RORU,Maine,7
+RORU,Maryland,0
+RORU,Massachusetts,10
+RORU,Michigan,7
+RORU,Minnesota,2
+RORU,Missouri,1
+RORU,New Hampshire,3
+RORU,New Jersey,5
+RORU,New York,12
+RORU,Ohio,5
+RORU,Pennsylvania,5
+RORU,Rhode Island,4
+RORU,Vermont,2
+RORU,Virginia,4
+RORU,Washington,0
+RORU,West Virginia,0
+RORU,Wisconsin,2
+RORU82,Alabama,3
+RORU82,Arkansas,7
+RORU82,California,14
+RORU82,Colorado,1
+RORU82,Connecticut,0
+RORU82,Delaware,1
+RORU82,District of Columbia,1
+RORU82,Georgia,2
+RORU82,Idaho,11
+RORU82,Illinois,29
+RORU82,Indiana,16
+RORU82,Iowa,0
+RORU82,Kansas,2
+RORU82,Kentucky,8
+RORU82,Maine,14
+RORU82,Maryland,0
+RORU82,Massachusetts,14
+RORU82,Michigan,26
+RORU82,Minnesota,1
+RORU82,Mississippi,2
+RORU82,Missouri,21
+RORU82,Montana,2
+RORU82,Nebraska,0
+RORU82,New Hampshire,10
+RORU82,New Jersey,15
+RORU82,New York,24
+RORU82,North Carolina,1
+RORU82,Ohio,60
+RORU82,Oklahoma,0
+RORU82,Oregon,19
+RORU82,Pennsylvania,35
+RORU82,Rhode Island,2
+RORU82,South Carolina,1
+RORU82,Tennessee,7
+RORU82,Texas,0
+RORU82,Utah,5
+RORU82,Vermont,7
+RORU82,Virginia,13
+RORU82,Washington,17
+RORU82,West Virginia,10
+RORU82,Wisconsin,1
+RORU82,Wyoming,0
+ROSE2,Alabama,10
+ROSE2,Arkansas,45
+ROSE2,Connecticut,0
+ROSE2,Delaware,0
+ROSE2,District of Columbia,1
+ROSE2,Florida,0
+ROSE2,Georgia,4
+ROSE2,Illinois,77
+ROSE2,Indiana,69
+ROSE2,Iowa,2
+ROSE2,Kansas,25
+ROSE2,Kentucky,78
+ROSE2,Louisiana,6
+ROSE2,Maryland,0
+ROSE2,Massachusetts,1
+ROSE2,Michigan,9
+ROSE2,Mississippi,2
+ROSE2,Missouri,109
+ROSE2,Nebraska,3
+ROSE2,New Hampshire,0
+ROSE2,New Jersey,3
+ROSE2,New York,18
+ROSE2,North Carolina,2
+ROSE2,Ohio,88
+ROSE2,Oklahoma,28
+ROSE2,Pennsylvania,9
+ROSE2,South Carolina,1
+ROSE2,Tennessee,40
+ROSE2,Texas,11
+ROSE2,Virginia,7
+ROSE2,West Virginia,9
+ROSE2,Wisconsin,1
+ROWI,Alabama,11
+ROWI,Arkansas,8
+ROWI,Connecticut,0
+ROWI,Florida,4
+ROWI,Georgia,0
+ROWI,Illinois,1
+ROWI,Kentucky,21
+ROWI,Louisiana,1
+ROWI,Massachusetts,2
+ROWI,Mississippi,2
+ROWI,New Jersey,1
+ROWI,New York,6
+ROWI,North Carolina,7
+ROWI,Ohio,7
+ROWI,Pennsylvania,10
+ROWI,South Carolina,3
+ROWI,Virginia,32
+ROWI,West Virginia,0
+ROWO,Alaska,3
+ROWO,Arizona,9
+ROWO,California,23
+ROWO,Colorado,44
+ROWO,Idaho,29
+ROWO,Iowa,2
+ROWO,Kansas,5
+ROWO,Minnesota,21
+ROWO,Montana,31
+ROWO,Nebraska,34
+ROWO,Nevada,17
+ROWO,New Mexico,19
+ROWO,North Dakota,36
+ROWO,Oklahoma,2
+ROWO,Oregon,20
+ROWO,South Dakota,27
+ROWO,Texas,5
+ROWO,Utah,29
+ROWO,Washington,17
+ROWO,Wisconsin,0
+ROWO,Wyoming,21
+RUHU,Alabama,4
+RUHU,Arkansas,54
+RUHU,Florida,0
+RUHU,Georgia,0
+RUHU,Illinois,89
+RUHU,Indiana,33
+RUHU,Iowa,10
+RUHU,Kansas,58
+RUHU,Kentucky,38
+RUHU,Louisiana,38
+RUHU,Maryland,2
+RUHU,Michigan,3
+RUHU,Minnesota,0
+RUHU,Mississippi,17
+RUHU,Missouri,100
+RUHU,Nebraska,7
+RUHU,North Carolina,3
+RUHU,Ohio,24
+RUHU,Oklahoma,39
+RUHU,Pennsylvania,1
+RUHU,Tennessee,26
+RUHU,Texas,61
+RUHU,Virginia,9
+RUHU,West Virginia,2
+RUHU,Wisconsin,5
+RUST2,Alabama,9
+RUST2,Arkansas,36
+RUST2,Delaware,0
+RUST2,District of Columbia,1
+RUST2,Florida,0
+RUST2,Georgia,1
+RUST2,Illinois,70
+RUST2,Indiana,61
+RUST2,Iowa,1
+RUST2,Kansas,34
+RUST2,Kentucky,59
+RUST2,Louisiana,8
+RUST2,Maryland,5
+RUST2,Michigan,1
+RUST2,Mississippi,24
+RUST2,Missouri,101
+RUST2,Nebraska,1
+RUST2,New Jersey,0
+RUST2,North Carolina,1
+RUST2,Ohio,52
+RUST2,Oklahoma,19
+RUST2,Pennsylvania,7
+RUST2,South Carolina,2
+RUST2,Tennessee,37
+RUST2,Texas,30
+RUST2,Virginia,27
+RUST2,West Virginia,9
+SAAL2,Arizona,3
+SAAL2,Arkansas,0
+SAAL2,California,56
+SAAL2,Colorado,5
+SAAL2,Connecticut,0
+SAAL2,Delaware,2
+SAAL2,District of Columbia,1
+SAAL2,Georgia,2
+SAAL2,Idaho,7
+SAAL2,Illinois,37
+SAAL2,Indiana,14
+SAAL2,Iowa,5
+SAAL2,Kansas,5
+SAAL2,Kentucky,23
+SAAL2,Louisiana,0
+SAAL2,Maine,15
+SAAL2,Maryland,0
+SAAL2,Massachusetts,13
+SAAL2,Michigan,16
+SAAL2,Minnesota,19
+SAAL2,Missouri,23
+SAAL2,Montana,4
+SAAL2,Nebraska,10
+SAAL2,Nevada,0
+SAAL2,New Hampshire,10
+SAAL2,New Jersey,21
+SAAL2,New Mexico,0
+SAAL2,New York,28
+SAAL2,North Carolina,6
+SAAL2,North Dakota,6
+SAAL2,Ohio,46
+SAAL2,Pennsylvania,31
+SAAL2,Rhode Island,3
+SAAL2,South Dakota,6
+SAAL2,Tennessee,5
+SAAL2,Vermont,10
+SAAL2,Virginia,20
+SAAL2,Washington,3
+SAAL2,West Virginia,12
+SAAL2,Wisconsin,0
+SAAL2,Wyoming,4
+SAAL5,Alabama,62
+SAAL5,Arkansas,75
+SAAL5,Connecticut,0
+SAAL5,Delaware,2
+SAAL5,District of Columbia,1
+SAAL5,Florida,24
+SAAL5,Georgia,43
+SAAL5,Illinois,77
+SAAL5,Indiana,74
+SAAL5,Iowa,0
+SAAL5,Kansas,2
+SAAL5,Kentucky,119
+SAAL5,Louisiana,49
+SAAL5,Maine,3
+SAAL5,Maryland,0
+SAAL5,Massachusetts,14
+SAAL5,Michigan,43
+SAAL5,Mississippi,68
+SAAL5,Missouri,82
+SAAL5,New Hampshire,6
+SAAL5,New Jersey,19
+SAAL5,New York,38
+SAAL5,North Carolina,79
+SAAL5,Ohio,80
+SAAL5,Oklahoma,3
+SAAL5,Pennsylvania,67
+SAAL5,Rhode Island,5
+SAAL5,South Carolina,33
+SAAL5,Tennessee,65
+SAAL5,Texas,26
+SAAL5,Vermont,2
+SAAL5,Virginia,100
+SAAL5,West Virginia,52
+SAAL5,Wisconsin,1
+SAAM2,Arizona,4
+SAAM2,Colorado,29
+SAAM2,Idaho,19
+SAAM2,Illinois,57
+SAAM2,Indiana,27
+SAAM2,Iowa,20
+SAAM2,Kansas,88
+SAAM2,Kentucky,1
+SAAM2,Michigan,36
+SAAM2,Minnesota,48
+SAAM2,Missouri,43
+SAAM2,Montana,23
+SAAM2,Nebraska,66
+SAAM2,Nevada,3
+SAAM2,New Mexico,8
+SAAM2,New York,17
+SAAM2,North Dakota,44
+SAAM2,Ohio,31
+SAAM2,Oklahoma,4
+SAAM2,Oregon,12
+SAAM2,Pennsylvania,10
+SAAM2,South Dakota,42
+SAAM2,Texas,14
+SAAM2,Utah,19
+SAAM2,Washington,14
+SAAM2,Wisconsin,5
+SAAM2,Wyoming,19
+SABO2,Alaska,0
+SABO2,Arizona,2
+SABO2,California,12
+SABO2,Colorado,8
+SABO2,Idaho,21
+SABO2,Montana,2
+SABO2,Nevada,9
+SABO2,New Mexico,3
+SABO2,Oregon,15
+SABO2,Utah,23
+SABO2,Washington,4
+SABO2,Wyoming,14
+SACA5,Alabama,39
+SACA5,Arkansas,45
+SACA5,Delaware,1
+SACA5,District of Columbia,1
+SACA5,Florida,65
+SACA5,Georgia,37
+SACA5,Illinois,13
+SACA5,Indiana,3
+SACA5,Kansas,27
+SACA5,Kentucky,36
+SACA5,Louisiana,5
+SACA5,Maryland,0
+SACA5,Mississippi,2
+SACA5,Missouri,88
+SACA5,New Jersey,0
+SACA5,North Carolina,33
+SACA5,Ohio,8
+SACA5,Oklahoma,17
+SACA5,Pennsylvania,13
+SACA5,South Carolina,18
+SACA5,Tennessee,32
+SACA5,Texas,4
+SACA5,Virginia,35
+SACA5,West Virginia,11
+SADI,Colorado,0
+SADI,Connecticut,0
+SADI,Delaware,1
+SADI,Illinois,44
+SADI,Indiana,44
+SADI,Iowa,9
+SADI,Kentucky,8
+SADI,Maine,16
+SADI,Maryland,2
+SADI,Massachusetts,14
+SADI,Michigan,69
+SADI,Minnesota,49
+SADI,Mississippi,1
+SADI,Missouri,1
+SADI,Montana,1
+SADI,New Hampshire,10
+SADI,New Jersey,17
+SADI,New York,42
+SADI,North Carolina,0
+SADI,North Dakota,14
+SADI,Ohio,58
+SADI,Pennsylvania,44
+SADI,Rhode Island,5
+SADI,South Dakota,7
+SADI,Vermont,12
+SADI,Virginia,0
+SADI,West Virginia,6
+SADI,Wisconsin,13
+SADI,Wyoming,8
+SADO4,Arizona,3
+SADO4,California,12
+SADO4,Idaho,3
+SADO4,Nevada,17
+SADO4,Oregon,10
+SADO4,Utah,8
+SADO4,Washington,13
+SADR,California,6
+SADR,Colorado,25
+SADR,Idaho,23
+SADR,Montana,10
+SADR,Nevada,3
+SADR,New Mexico,7
+SADR,Oregon,6
+SADR,Utah,21
+SADR,Washington,6
+SADR,Wyoming,12
+SAER,Alabama,25
+SAER,Arkansas,8
+SAER,Colorado,1
+SAER,Connecticut,0
+SAER,Delaware,2
+SAER,District of Columbia,1
+SAER,Florida,3
+SAER,Georgia,9
+SAER,Illinois,54
+SAER,Indiana,2
+SAER,Iowa,10
+SAER,Kansas,10
+SAER,Kentucky,11
+SAER,Louisiana,0
+SAER,Maine,16
+SAER,Maryland,0
+SAER,Massachusetts,13
+SAER,Michigan,52
+SAER,Minnesota,60
+SAER,Missouri,62
+SAER,Nebraska,31
+SAER,New Hampshire,10
+SAER,New Jersey,16
+SAER,New York,41
+SAER,North Dakota,26
+SAER,Ohio,61
+SAER,Oklahoma,0
+SAER,Pennsylvania,66
+SAER,Rhode Island,4
+SAER,South Dakota,7
+SAER,Tennessee,7
+SAER,Vermont,14
+SAER,Virginia,21
+SAER,West Virginia,21
+SAER,Wisconsin,13
+SAEX,Arizona,15
+SAEX,California,56
+SAEX,Colorado,42
+SAEX,Idaho,44
+SAEX,Kansas,1
+SAEX,Montana,31
+SAEX,Nevada,17
+SAEX,New Mexico,31
+SAEX,Oregon,23
+SAEX,Texas,33
+SAEX,Utah,29
+SAEX,Washington,15
+SAEX,Wyoming,23
+SAGE2,Arizona,5
+SAGE2,California,22
+SAGE2,Colorado,13
+SAGE2,Idaho,29
+SAGE2,Montana,4
+SAGE2,Nevada,8
+SAGE2,New Mexico,1
+SAGE2,Oregon,22
+SAGE2,Utah,17
+SAGE2,Washington,14
+SAGE2,Wyoming,15
+SAGO,Arizona,15
+SAGO,California,31
+SAGO,Colorado,1
+SAGO,Nevada,4
+SAGO,New Mexico,17
+SAGO,Texas,12
+SAGO,Utah,5
+SALU,Alaska,7
+SALU,Arizona,7
+SALU,California,55
+SALU,Colorado,29
+SALU,Connecticut,0
+SALU,Delaware,1
+SALU,Idaho,35
+SALU,Illinois,8
+SALU,Indiana,18
+SALU,Iowa,0
+SALU,Kansas,0
+SALU,Maine,16
+SALU,Maryland,1
+SALU,Massachusetts,12
+SALU,Michigan,61
+SALU,Minnesota,39
+SALU,Montana,9
+SALU,Nevada,13
+SALU,New Hampshire,10
+SALU,New Jersey,11
+SALU,New Mexico,13
+SALU,New York,42
+SALU,North Dakota,19
+SALU,Ohio,28
+SALU,Oregon,33
+SALU,Pennsylvania,34
+SALU,Rhode Island,1
+SALU,South Dakota,4
+SALU,Utah,24
+SALU,Vermont,14
+SALU,Virginia,3
+SALU,Washington,37
+SALU,West Virginia,3
+SALU,Wisconsin,7
+SALU,Wyoming,18
+SALU2,Arizona,2
+SALU2,California,12
+SALU2,Colorado,3
+SALU2,Idaho,30
+SALU2,Iowa,2
+SALU2,Kansas,8
+SALU2,Minnesota,2
+SALU2,Missouri,35
+SALU2,Montana,10
+SALU2,Nebraska,32
+SALU2,Nevada,11
+SALU2,North Dakota,38
+SALU2,Oregon,9
+SALU2,South Dakota,11
+SALU2,Utah,25
+SALU2,Wyoming,19
+SAMO2,Arizona,3
+SAMO2,Colorado,31
+SAMO2,New Mexico,7
+SAMO2,Utah,9
+SAMO2,Wyoming,3
+SANI,Alabama,63
+SANI,Arkansas,75
+SANI,Colorado,1
+SANI,Connecticut,0
+SANI,Delaware,2
+SANI,District of Columbia,1
+SANI,Florida,22
+SANI,Georgia,80
+SANI,Illinois,102
+SANI,Indiana,73
+SANI,Iowa,13
+SANI,Kansas,67
+SANI,Kentucky,111
+SANI,Louisiana,63
+SANI,Maine,11
+SANI,Maryland,0
+SANI,Massachusetts,13
+SANI,Michigan,33
+SANI,Minnesota,27
+SANI,Mississippi,59
+SANI,Missouri,109
+SANI,Nebraska,8
+SANI,New Hampshire,10
+SANI,New Jersey,20
+SANI,New York,37
+SANI,North Carolina,66
+SANI,Ohio,74
+SANI,Oklahoma,45
+SANI,Pennsylvania,64
+SANI,Rhode Island,4
+SANI,South Carolina,27
+SANI,Tennessee,63
+SANI,Texas,118
+SANI,Vermont,12
+SANI,Virginia,91
+SANI,West Virginia,37
+SANI,Wisconsin,6
+SANIC4,Alabama,12
+SANIC4,Arizona,7
+SANIC4,Arkansas,75
+SANIC4,California,54
+SANIC4,Colorado,4
+SANIC4,Connecticut,0
+SANIC4,Delaware,1
+SANIC4,District of Columbia,1
+SANIC4,Florida,55
+SANIC4,Georgia,42
+SANIC4,Hawaii,4
+SANIC4,Illinois,102
+SANIC4,Indiana,85
+SANIC4,Iowa,20
+SANIC4,Kansas,81
+SANIC4,Kentucky,120
+SANIC4,Louisiana,64
+SANIC4,Maine,16
+SANIC4,Maryland,0
+SANIC4,Massachusetts,14
+SANIC4,Michigan,77
+SANIC4,Minnesota,45
+SANIC4,Mississippi,61
+SANIC4,Missouri,114
+SANIC4,Montana,1
+SANIC4,Nebraska,43
+SANIC4,New Hampshire,10
+SANIC4,New Jersey,18
+SANIC4,New Mexico,5
+SANIC4,New York,41
+SANIC4,North Carolina,90
+SANIC4,North Dakota,8
+SANIC4,Ohio,84
+SANIC4,Oklahoma,28
+SANIC4,Pennsylvania,67
+SANIC4,Rhode Island,4
+SANIC4,South Carolina,43
+SANIC4,South Dakota,9
+SANIC4,Tennessee,49
+SANIC4,Texas,43
+SANIC4,Vermont,8
+SANIC4,Virginia,100
+SANIC4,West Virginia,44
+SANIC4,Wisconsin,64
+SANIC4,Wyoming,2
+SANIC5,Arizona,10
+SANIC5,California,16
+SANIC5,Colorado,5
+SANIC5,Idaho,26
+SANIC5,Montana,9
+SANIC5,Nevada,15
+SANIC5,New Mexico,7
+SANIC5,Oregon,33
+SANIC5,Texas,3
+SANIC5,Utah,29
+SANIC5,Washington,36
+SANIC5,Wyoming,2
+SAPA,Alabama,0
+SAPA,Florida,36
+SAPA,Georgia,6
+SAPA,Louisiana,4
+SAPA,Mississippi,0
+SAPA,North Carolina,1
+SAPA,South Carolina,4
+SAPA,Texas,1
+SAPL2,Alaska,2
+SAPL2,Arizona,1
+SAPL2,California,9
+SAPL2,Colorado,23
+SAPL2,Idaho,9
+SAPL2,Maine,6
+SAPL2,Michigan,1
+SAPL2,Minnesota,8
+SAPL2,Montana,0
+SAPL2,Nevada,1
+SAPL2,New Hampshire,2
+SAPL2,New Mexico,4
+SAPL2,Oregon,5
+SAPL2,South Dakota,3
+SAPL2,Utah,12
+SAPL2,Vermont,3
+SAPL2,Washington,11
+SAPL2,Wisconsin,2
+SAPL2,Wyoming,12
+SAPR3,Alaska,0
+SAPR3,California,7
+SAPR3,Idaho,20
+SAPR3,Montana,6
+SAPR3,Nevada,1
+SAPR3,Oregon,26
+SAPR3,Utah,1
+SAPR3,Washington,24
+SAPR3,Wyoming,1
+SARA3,Arizona,1
+SARA3,California,1
+SARA3,Colorado,1
+SARA3,Delaware,0
+SARA3,District of Columbia,1
+SARA3,Florida,3
+SARA3,Georgia,1
+SARA3,Illinois,6
+SARA3,Kansas,0
+SARA3,Maryland,0
+SARA3,Michigan,1
+SARA3,Missouri,1
+SARA3,New Mexico,2
+SARA3,New York,1
+SARA3,Ohio,4
+SARA3,Oklahoma,0
+SARA3,Tennessee,0
+SARA3,Utah,1
+SARAR3,Alaska,4
+SARAR3,Arizona,4
+SARAR3,California,30
+SARAR3,Colorado,31
+SARAR3,Connecticut,0
+SARAR3,Georgia,1
+SARAR3,Idaho,16
+SARAR3,Illinois,7
+SARAR3,Indiana,9
+SARAR3,Iowa,1
+SARAR3,Kentucky,2
+SARAR3,Maine,15
+SARAR3,Maryland,0
+SARAR3,Massachusetts,8
+SARAR3,Michigan,72
+SARAR3,Minnesota,44
+SARAR3,Missouri,1
+SARAR3,Montana,6
+SARAR3,Nevada,10
+SARAR3,New Hampshire,10
+SARAR3,New Jersey,10
+SARAR3,New Mexico,16
+SARAR3,New York,40
+SARAR3,North Carolina,11
+SARAR3,North Dakota,2
+SARAR3,Ohio,27
+SARAR3,Oregon,25
+SARAR3,Pennsylvania,58
+SARAR3,Rhode Island,1
+SARAR3,South Dakota,3
+SARAR3,Tennessee,9
+SARAR3,Utah,26
+SARAR3,Vermont,13
+SARAR3,Virginia,30
+SARAR3,Washington,23
+SARAR3,West Virginia,20
+SARAR3,Wisconsin,55
+SARAR3,Wyoming,12
+SASAD,Arizona,12
+SASAD,Arkansas,20
+SASAD,Colorado,3
+SASAD,Kansas,25
+SASAD,Louisiana,24
+SASAD,Missouri,9
+SASAD,New Mexico,13
+SASAD,Oklahoma,32
+SASAD,Texas,73
+SASE,Alabama,3
+SASE,Arkansas,1
+SASE,Connecticut,0
+SASE,Delaware,3
+SASE,District of Columbia,1
+SASE,Georgia,6
+SASE,Illinois,24
+SASE,Indiana,53
+SASE,Iowa,0
+SASE,Kentucky,47
+SASE,Maine,14
+SASE,Maryland,0
+SASE,Massachusetts,13
+SASE,Michigan,16
+SASE,Minnesota,1
+SASE,Missouri,17
+SASE,New Hampshire,7
+SASE,New Jersey,18
+SASE,New York,37
+SASE,North Carolina,55
+SASE,Ohio,41
+SASE,Pennsylvania,65
+SASE,Rhode Island,3
+SASE,South Carolina,7
+SASE,Tennessee,21
+SASE,Vermont,13
+SASE,Virginia,44
+SASE,West Virginia,33
+SASE,Wisconsin,7
+SASE10,Alabama,8
+SASE10,Alaska,0
+SASE10,Arizona,4
+SASE10,Arkansas,0
+SASE10,California,3
+SASE10,Connecticut,0
+SASE10,Delaware,0
+SASE10,District of Columbia,1
+SASE10,Florida,1
+SASE10,Illinois,0
+SASE10,Iowa,0
+SASE10,Kentucky,5
+SASE10,Louisiana,23
+SASE10,Maryland,0
+SASE10,Massachusetts,9
+SASE10,Michigan,0
+SASE10,Mississippi,1
+SASE10,Missouri,0
+SASE10,Nevada,2
+SASE10,New Hampshire,0
+SASE10,New Jersey,0
+SASE10,New Mexico,1
+SASE10,New York,0
+SASE10,North Carolina,0
+SASE10,Oregon,3
+SASE10,Pennsylvania,0
+SASE10,South Carolina,2
+SASE10,Tennessee,10
+SASE10,Utah,0
+SASE10,Vermont,0
+SASE10,Virginia,1
+SASE10,West Virginia,3
+SASE10,Wisconsin,0
+SASE10,Wyoming,2
+SCTE,Alabama,1
+SCTE,California,3
+SCTE,Florida,30
+SCTE,Hawaii,4
+SCTE,Texas,4
+SECE,Alabama,6
+SECE,Alaska,2
+SECE,Arizona,5
+SECE,Arkansas,0
+SECE,California,24
+SECE,Colorado,5
+SECE,Connecticut,0
+SECE,District of Columbia,1
+SECE,Florida,15
+SECE,Georgia,3
+SECE,Idaho,13
+SECE,Illinois,80
+SECE,Indiana,0
+SECE,Iowa,0
+SECE,Kansas,0
+SECE,Kentucky,7
+SECE,Louisiana,15
+SECE,Maine,8
+SECE,Maryland,0
+SECE,Massachusetts,13
+SECE,Michigan,21
+SECE,Minnesota,21
+SECE,Mississippi,3
+SECE,Missouri,12
+SECE,Montana,12
+SECE,Nebraska,0
+SECE,Nevada,8
+SECE,New Hampshire,2
+SECE,New Jersey,11
+SECE,New Mexico,12
+SECE,New York,29
+SECE,North Carolina,13
+SECE,North Dakota,0
+SECE,Ohio,5
+SECE,Oregon,16
+SECE,Pennsylvania,22
+SECE,Rhode Island,3
+SECE,South Carolina,2
+SECE,South Dakota,0
+SECE,Tennessee,22
+SECE,Texas,8
+SECE,Utah,14
+SECE,Vermont,4
+SECE,Virginia,1
+SECE,Washington,24
+SECE,Wisconsin,28
+SECE,Wyoming,5
+SEGI2,California,10
+SEHY,California,4
+SEHY,Idaho,17
+SEHY,Montana,2
+SEHY,Nevada,2
+SEHY,Oregon,17
+SEHY,Utah,1
+SEHY,Washington,14
+SEHY,Wyoming,0
+SEIN2,California,29
+SEIN2,Colorado,25
+SEIN2,Idaho,35
+SEIN2,Iowa,5
+SEIN2,Kansas,2
+SEIN2,Minnesota,19
+SEIN2,Montana,36
+SEIN2,Nebraska,13
+SEIN2,Nevada,14
+SEIN2,New Mexico,2
+SEIN2,North Dakota,39
+SEIN2,Oregon,28
+SEIN2,South Dakota,24
+SEIN2,Utah,29
+SEIN2,Washington,24
+SEIN2,Wyoming,22
+SEIT,Alabama,0
+SEIT,Arizona,4
+SEIT,Arkansas,1
+SEIT,California,2
+SEIT,Colorado,8
+SEIT,Connecticut,0
+SEIT,Delaware,0
+SEIT,District of Columbia,1
+SEIT,Florida,0
+SEIT,Georgia,0
+SEIT,Illinois,36
+SEIT,Indiana,22
+SEIT,Iowa,3
+SEIT,Kansas,30
+SEIT,Kentucky,12
+SEIT,Louisiana,3
+SEIT,Maine,10
+SEIT,Maryland,0
+SEIT,Massachusetts,13
+SEIT,Michigan,9
+SEIT,Minnesota,5
+SEIT,Mississippi,0
+SEIT,Missouri,25
+SEIT,Montana,1
+SEIT,Nebraska,9
+SEIT,New Hampshire,8
+SEIT,New Jersey,11
+SEIT,New Mexico,2
+SEIT,New York,28
+SEIT,North Carolina,2
+SEIT,North Dakota,5
+SEIT,Ohio,0
+SEIT,Oklahoma,3
+SEIT,Oregon,2
+SEIT,Pennsylvania,21
+SEIT,Rhode Island,1
+SEIT,South Carolina,0
+SEIT,South Dakota,0
+SEIT,Tennessee,14
+SEIT,Texas,18
+SEIT,Vermont,6
+SEIT,Virginia,19
+SEIT,Washington,3
+SEIT,West Virginia,7
+SEIT,Wisconsin,9
+SEIT,Wyoming,2
+SERE2,Alabama,5
+SERE2,Florida,59
+SERE2,Georgia,17
+SERE2,Louisiana,2
+SERE2,Mississippi,6
+SERE2,South Carolina,1
+SERE2,Texas,1
+SESE3,California,13
+SESE3,Oregon,2
+SETO3,Hawaii,4
+SETR,Alaska,13
+SETR,California,32
+SETR,Colorado,25
+SETR,Idaho,21
+SETR,Montana,11
+SETR,Nevada,5
+SETR,New Mexico,6
+SETR,Oregon,30
+SETR,Utah,11
+SETR,Washington,23
+SETR,Wyoming,13
+SEVU,Alabama,1
+SEVU,Alaska,12
+SEVU,Arizona,2
+SEVU,Arkansas,2
+SEVU,California,40
+SEVU,Colorado,5
+SEVU,Connecticut,0
+SEVU,Delaware,1
+SEVU,District of Columbia,1
+SEVU,Florida,2
+SEVU,Georgia,2
+SEVU,Hawaii,2
+SEVU,Idaho,9
+SEVU,Illinois,12
+SEVU,Indiana,5
+SEVU,Iowa,0
+SEVU,Kansas,0
+SEVU,Kentucky,7
+SEVU,Louisiana,4
+SEVU,Maine,10
+SEVU,Maryland,0
+SEVU,Massachusetts,12
+SEVU,Michigan,33
+SEVU,Minnesota,5
+SEVU,Mississippi,1
+SEVU,Missouri,1
+SEVU,Montana,21
+SEVU,Nebraska,1
+SEVU,Nevada,1
+SEVU,New Hampshire,4
+SEVU,New Jersey,14
+SEVU,New Mexico,2
+SEVU,New York,26
+SEVU,North Carolina,12
+SEVU,North Dakota,2
+SEVU,Ohio,18
+SEVU,Oklahoma,0
+SEVU,Oregon,23
+SEVU,Pennsylvania,27
+SEVU,Rhode Island,3
+SEVU,South Carolina,6
+SEVU,South Dakota,0
+SEVU,Tennessee,3
+SEVU,Texas,12
+SEVU,Utah,4
+SEVU,Vermont,5
+SEVU,Virginia,14
+SEVU,Washington,28
+SEVU,West Virginia,3
+SEVU,Wisconsin,17
+SEVU,Wyoming,3
+SHAR,Arizona,1
+SHAR,California,7
+SHAR,Colorado,13
+SHAR,Idaho,4
+SHAR,Iowa,2
+SHAR,Kansas,0
+SHAR,Michigan,0
+SHAR,Minnesota,10
+SHAR,Montana,37
+SHAR,Nebraska,26
+SHAR,Nevada,12
+SHAR,New Mexico,4
+SHAR,New York,1
+SHAR,North Dakota,31
+SHAR,Oregon,2
+SHAR,South Dakota,19
+SHAR,Utah,19
+SHAR,Wisconsin,5
+SHAR,Wyoming,18
+SHCA,Alaska,14
+SHCA,Arizona,2
+SHCA,California,0
+SHCA,Colorado,24
+SHCA,Idaho,18
+SHCA,Illinois,2
+SHCA,Indiana,1
+SHCA,Maine,1
+SHCA,Michigan,32
+SHCA,Minnesota,6
+SHCA,Montana,39
+SHCA,Nevada,2
+SHCA,New Mexico,9
+SHCA,New York,23
+SHCA,North Dakota,5
+SHCA,Ohio,8
+SHCA,Oregon,9
+SHCA,Pennsylvania,2
+SHCA,South Dakota,4
+SHCA,Utah,25
+SHCA,Vermont,3
+SHCA,Washington,14
+SHCA,Wisconsin,12
+SHCA,Wyoming,17
+SICH,Arizona,10
+SICH,California,5
+SICH,Utah,2
+SOAM3,Connecticut,0
+SOAM3,Georgia,3
+SOAM3,Illinois,1
+SOAM3,Maine,14
+SOAM3,Maryland,0
+SOAM3,Massachusetts,7
+SOAM3,Michigan,17
+SOAM3,Minnesota,6
+SOAM3,New Hampshire,8
+SOAM3,New Jersey,6
+SOAM3,New York,20
+SOAM3,North Carolina,12
+SOAM3,Pennsylvania,32
+SOAM3,Rhode Island,0
+SOAM3,South Carolina,1
+SOAM3,Tennessee,4
+SOAM3,Vermont,11
+SOAM3,Virginia,27
+SOAM3,West Virginia,11
+SOAM3,Wisconsin,6
+SOAU,Alaska,3
+SOAU,California,1
+SOAU,Colorado,1
+SOAU,Connecticut,0
+SOAU,District of Columbia,1
+SOAU,Idaho,8
+SOAU,Illinois,8
+SOAU,Indiana,0
+SOAU,Iowa,0
+SOAU,Maine,6
+SOAU,Maryland,0
+SOAU,Massachusetts,10
+SOAU,Michigan,5
+SOAU,Minnesota,9
+SOAU,Montana,2
+SOAU,New Hampshire,1
+SOAU,New Jersey,8
+SOAU,New York,25
+SOAU,North Dakota,0
+SOAU,Ohio,11
+SOAU,Oregon,10
+SOAU,Pennsylvania,14
+SOAU,Rhode Island,2
+SOAU,South Carolina,0
+SOAU,Utah,3
+SOAU,Vermont,5
+SOAU,Washington,15
+SOAU,West Virginia,0
+SOAU,Wisconsin,4
+SOAU,Wyoming,0
+SOBI2,Alabama,0
+SOBI2,Arizona,3
+SOBI2,Arkansas,0
+SOBI2,California,22
+SOBI2,Colorado,2
+SOBI2,Connecticut,0
+SOBI2,District of Columbia,1
+SOBI2,Florida,27
+SOBI2,Georgia,2
+SOBI2,Hawaii,3
+SOBI2,Idaho,4
+SOBI2,Illinois,46
+SOBI2,Indiana,3
+SOBI2,Iowa,0
+SOBI2,Kansas,0
+SOBI2,Kentucky,21
+SOBI2,Louisiana,41
+SOBI2,Maine,0
+SOBI2,Maryland,0
+SOBI2,Massachusetts,9
+SOBI2,Michigan,3
+SOBI2,Minnesota,1
+SOBI2,Mississippi,1
+SOBI2,Missouri,15
+SOBI2,Montana,1
+SOBI2,Nebraska,0
+SOBI2,Nevada,3
+SOBI2,New Hampshire,0
+SOBI2,New Jersey,5
+SOBI2,New Mexico,4
+SOBI2,New York,13
+SOBI2,North Carolina,8
+SOBI2,North Dakota,0
+SOBI2,Ohio,2
+SOBI2,Oklahoma,0
+SOBI2,Oregon,7
+SOBI2,Pennsylvania,22
+SOBI2,Rhode Island,2
+SOBI2,South Carolina,0
+SOBI2,South Dakota,0
+SOBI2,Tennessee,13
+SOBI2,Texas,25
+SOBI2,Utah,5
+SOBI2,Vermont,0
+SOBI2,Virginia,0
+SOBI2,Washington,1
+SOBI2,Wisconsin,7
+SOBI2,Wyoming,1
+SOCH,Hawaii,4
+SOLYL,Alabama,1
+SOLYL,Alaska,0
+SOLYL,Arizona,5
+SOLYL,Arkansas,0
+SOLYL,California,17
+SOLYL,Connecticut,0
+SOLYL,Delaware,1
+SOLYL,Florida,13
+SOLYL,Georgia,1
+SOLYL,Hawaii,4
+SOLYL,Illinois,27
+SOLYL,Indiana,0
+SOLYL,Iowa,0
+SOLYL,Kansas,0
+SOLYL,Kentucky,1
+SOLYL,Louisiana,0
+SOLYL,Maine,0
+SOLYL,Maryland,0
+SOLYL,Massachusetts,11
+SOLYL,Michigan,12
+SOLYL,Mississippi,2
+SOLYL,Missouri,8
+SOLYL,Montana,0
+SOLYL,Nebraska,0
+SOLYL,Nevada,1
+SOLYL,New Hampshire,2
+SOLYL,New York,6
+SOLYL,North Carolina,7
+SOLYL,North Dakota,0
+SOLYL,Ohio,25
+SOLYL,Oregon,1
+SOLYL,Pennsylvania,20
+SOLYL,Rhode Island,1
+SOLYL,South Carolina,1
+SOLYL,Tennessee,0
+SOLYL,Texas,4
+SOLYL,Utah,0
+SOLYL,Vermont,1
+SOLYL,Virginia,0
+SOLYL,Wisconsin,5
+SOME,Florida,1
+SOME,Louisiana,2
+SOME,Massachusetts,1
+SOME,Mississippi,0
+SOME,Pennsylvania,0
+SOSE,Alabama,3
+SOSE,Connecticut,0
+SOSE,Delaware,2
+SOSE,Florida,36
+SOSE,Georgia,5
+SOSE,Illinois,2
+SOSE,Indiana,0
+SOSE,Louisiana,23
+SOSE,Maine,9
+SOSE,Maryland,16
+SOSE,Massachusetts,11
+SOSE,Michigan,4
+SOSE,Mississippi,4
+SOSE,New Hampshire,2
+SOSE,New Jersey,16
+SOSE,New York,11
+SOSE,North Carolina,16
+SOSE,Ohio,0
+SOSE,Pennsylvania,4
+SOSE,Rhode Island,5
+SOSE,South Carolina,9
+SOSE,Texas,22
+SOSE,Virginia,25
+SOSE3,New Mexico,3
+SOSE3,Texas,40
+SPAL,Alabama,2
+SPAL,California,2
+SPAL,Connecticut,0
+SPAL,Delaware,1
+SPAL,Florida,22
+SPAL,Georgia,5
+SPAL,Louisiana,11
+SPAL,Maine,8
+SPAL,Maryland,0
+SPAL,Massachusetts,9
+SPAL,Mississippi,3
+SPAL,New Hampshire,2
+SPAL,New Jersey,9
+SPAL,New York,9
+SPAL,North Carolina,6
+SPAL,Oregon,2
+SPAL,Rhode Island,5
+SPAL,South Carolina,5
+SPAL,Texas,15
+SPAL,Virginia,24
+SPAL,Washington,5
+SPAL2,Connecticut,0
+SPAL2,Delaware,2
+SPAL2,District of Columbia,1
+SPAL2,Georgia,0
+SPAL2,Illinois,34
+SPAL2,Indiana,49
+SPAL2,Iowa,3
+SPAL2,Kentucky,3
+SPAL2,Maine,16
+SPAL2,Maryland,0
+SPAL2,Massachusetts,14
+SPAL2,Michigan,79
+SPAL2,Minnesota,67
+SPAL2,Missouri,5
+SPAL2,New Hampshire,10
+SPAL2,New Jersey,19
+SPAL2,New York,47
+SPAL2,North Carolina,11
+SPAL2,North Dakota,27
+SPAL2,Ohio,53
+SPAL2,Pennsylvania,62
+SPAL2,Rhode Island,5
+SPAL2,South Dakota,4
+SPAL2,Tennessee,2
+SPAL2,Vermont,13
+SPAL2,Virginia,30
+SPAL2,West Virginia,22
+SPAL2,Wisconsin,66
+SPDO,Alaska,2
+SPDO,California,13
+SPDO,Colorado,1
+SPDO,Idaho,13
+SPDO,Missouri,2
+SPDO,Montana,5
+SPDO,Oregon,25
+SPDO,Tennessee,3
+SPDO,Washington,28
+SPTO2,Arkansas,5
+SPTO2,Connecticut,0
+SPTO2,Delaware,3
+SPTO2,Georgia,1
+SPTO2,Illinois,9
+SPTO2,Indiana,24
+SPTO2,Kansas,0
+SPTO2,Kentucky,31
+SPTO2,Louisiana,1
+SPTO2,Maine,15
+SPTO2,Maryland,0
+SPTO2,Massachusetts,14
+SPTO2,Michigan,31
+SPTO2,Minnesota,16
+SPTO2,Mississippi,1
+SPTO2,Missouri,1
+SPTO2,New Hampshire,10
+SPTO2,New Jersey,19
+SPTO2,New York,37
+SPTO2,North Carolina,35
+SPTO2,Ohio,35
+SPTO2,Oregon,1
+SPTO2,Pennsylvania,44
+SPTO2,Rhode Island,4
+SPTO2,South Carolina,5
+SPTO2,Tennessee,20
+SPTO2,Vermont,13
+SPTO2,Virginia,33
+SPTO2,Washington,0
+SPTO2,West Virginia,17
+SPTO2,Wisconsin,45
+SWMA,Hawaii,0
+SYAL,Alaska,1
+SYAL,California,35
+SYAL,Colorado,7
+SYAL,Connecticut,0
+SYAL,Delaware,1
+SYAL,District of Columbia,1
+SYAL,Idaho,20
+SYAL,Illinois,9
+SYAL,Indiana,0
+SYAL,Iowa,0
+SYAL,Kentucky,3
+SYAL,Maine,11
+SYAL,Maryland,2
+SYAL,Massachusetts,8
+SYAL,Michigan,41
+SYAL,Minnesota,40
+SYAL,Missouri,0
+SYAL,Montana,28
+SYAL,Nebraska,4
+SYAL,New Hampshire,3
+SYAL,New Jersey,11
+SYAL,New Mexico,6
+SYAL,New York,33
+SYAL,North Carolina,0
+SYAL,North Dakota,16
+SYAL,Ohio,27
+SYAL,Oregon,32
+SYAL,Pennsylvania,36
+SYAL,Rhode Island,1
+SYAL,South Dakota,6
+SYAL,Tennessee,0
+SYAL,Utah,2
+SYAL,Vermont,10
+SYAL,Virginia,11
+SYAL,Washington,35
+SYAL,West Virginia,4
+SYAL,Wisconsin,45
+SYAL,Wyoming,16
+SYCHI,California,6
+SYCU,Florida,5
+SYCU,Hawaii,4
+SYFO,Connecticut,0
+SYFO,Delaware,2
+SYFO,District of Columbia,1
+SYFO,Illinois,25
+SYFO,Indiana,32
+SYFO,Iowa,0
+SYFO,Kentucky,2
+SYFO,Maine,11
+SYFO,Maryland,0
+SYFO,Massachusetts,13
+SYFO,Michigan,39
+SYFO,Minnesota,15
+SYFO,New Hampshire,7
+SYFO,New Jersey,20
+SYFO,New York,28
+SYFO,North Carolina,8
+SYFO,Ohio,60
+SYFO,Pennsylvania,64
+SYFO,Rhode Island,5
+SYFO,Tennessee,3
+SYFO,Vermont,5
+SYFO,Virginia,77
+SYFO,West Virginia,13
+SYFO,Wisconsin,53
+SYOC,Colorado,19
+SYOC,Idaho,5
+SYOC,Illinois,19
+SYOC,Indiana,0
+SYOC,Iowa,19
+SYOC,Kansas,27
+SYOC,Kentucky,1
+SYOC,Maryland,0
+SYOC,Massachusetts,2
+SYOC,Michigan,10
+SYOC,Minnesota,74
+SYOC,Missouri,3
+SYOC,Montana,41
+SYOC,Nebraska,62
+SYOC,New Mexico,2
+SYOC,New York,2
+SYOC,North Dakota,49
+SYOC,Ohio,3
+SYOC,Oklahoma,1
+SYOC,Oregon,0
+SYOC,Pennsylvania,3
+SYOC,South Dakota,47
+SYOC,Texas,1
+SYOC,Utah,4
+SYOC,Washington,3
+SYOC,Wisconsin,32
+SYOC,Wyoming,20
+SYOR,Alabama,2
+SYOR,Arkansas,48
+SYOR,Connecticut,0
+SYOR,Delaware,0
+SYOR,District of Columbia,1
+SYOR,Florida,2
+SYOR,Georgia,7
+SYOR,Illinois,84
+SYOR,Indiana,34
+SYOR,Iowa,19
+SYOR,Kansas,68
+SYOR,Kentucky,81
+SYOR,Louisiana,14
+SYOR,Maryland,0
+SYOR,Massachusetts,6
+SYOR,Michigan,7
+SYOR,Minnesota,4
+SYOR,Mississippi,6
+SYOR,Missouri,114
+SYOR,Nebraska,16
+SYOR,New Jersey,14
+SYOR,New York,16
+SYOR,North Carolina,34
+SYOR,Ohio,47
+SYOR,Oklahoma,36
+SYOR,Pennsylvania,30
+SYOR,Rhode Island,1
+SYOR,South Carolina,5
+SYOR,South Dakota,0
+SYOR,Tennessee,46
+SYOR,Texas,34
+SYOR,Utah,2
+SYOR,Vermont,1
+SYOR,Virginia,91
+SYOR,West Virginia,26
+SYOR,Wisconsin,15
+SYOR2,Arizona,8
+SYOR2,California,12
+SYOR2,Colorado,1
+SYOR2,Idaho,30
+SYOR2,Montana,7
+SYOR2,Nevada,17
+SYOR2,New Mexico,20
+SYOR2,Oregon,17
+SYOR2,Texas,1
+SYOR2,Utah,29
+SYOR2,Washington,14
+SYOR2,Wyoming,17
+SYVU,Arkansas,0
+SYVU,Colorado,1
+SYVU,Connecticut,0
+SYVU,District of Columbia,1
+SYVU,Illinois,8
+SYVU,Indiana,1
+SYVU,Iowa,0
+SYVU,Kansas,0
+SYVU,Kentucky,4
+SYVU,Maine,5
+SYVU,Maryland,0
+SYVU,Massachusetts,12
+SYVU,Michigan,26
+SYVU,Minnesota,8
+SYVU,Missouri,2
+SYVU,New Hampshire,4
+SYVU,New Jersey,5
+SYVU,New Mexico,2
+SYVU,New York,11
+SYVU,North Carolina,0
+SYVU,Ohio,12
+SYVU,Oregon,4
+SYVU,Pennsylvania,23
+SYVU,Rhode Island,2
+SYVU,South Dakota,0
+SYVU,Tennessee,2
+SYVU,Utah,6
+SYVU,Vermont,3
+SYVU,Virginia,6
+SYVU,West Virginia,0
+SYVU,Wisconsin,18
+TAAS,Alabama,11
+TAAS,Delaware,1
+TAAS,Florida,47
+TAAS,Georgia,23
+TAAS,Louisiana,1
+TAAS,Mississippi,5
+TAAS,North Carolina,13
+TAAS,South Carolina,12
+TAAS,Virginia,0
+TACA7,Connecticut,0
+TACA7,Illinois,8
+TACA7,Indiana,4
+TACA7,Iowa,0
+TACA7,Kentucky,9
+TACA7,Maine,15
+TACA7,Maryland,1
+TACA7,Massachusetts,9
+TACA7,Michigan,53
+TACA7,Minnesota,28
+TACA7,New Hampshire,10
+TACA7,New Jersey,5
+TACA7,New York,47
+TACA7,North Carolina,0
+TACA7,Ohio,3
+TACA7,Pennsylvania,57
+TACA7,Rhode Island,1
+TACA7,Tennessee,1
+TACA7,Vermont,13
+TACA7,Virginia,14
+TACA7,West Virginia,13
+TACA7,Wisconsin,42
+TACU,Connecticut,0
+TACU,Delaware,0
+TACU,Kentucky,1
+TACU,Massachusetts,2
+TACU,New Jersey,3
+TACU,New York,8
+TACU,Ohio,0
+TACU,Pennsylvania,0
+TADI2,Alabama,36
+TADI2,Arkansas,58
+TADI2,Delaware,2
+TADI2,Florida,60
+TADI2,Georgia,29
+TADI2,Illinois,14
+TADI2,Indiana,5
+TADI2,Kentucky,27
+TADI2,Louisiana,62
+TADI2,Maryland,4
+TADI2,Mississippi,47
+TADI2,Missouri,18
+TADI2,New Jersey,0
+TADI2,New York,2
+TADI2,North Carolina,35
+TADI2,Ohio,0
+TADI2,Oklahoma,3
+TADI2,Pennsylvania,3
+TADI2,South Carolina,18
+TADI2,Tennessee,18
+TADI2,Texas,40
+TADI2,Virginia,28
+TADI2,West Virginia,0
+TAIN2,Florida,5
+TEST,Arizona,6
+TEST,Florida,5
+TEST,Hawaii,3
+TEST,New Mexico,1
+TEST,Texas,19
+THNO,Alabama,37
+THNO,Arkansas,8
+THNO,Connecticut,0
+THNO,Delaware,3
+THNO,District of Columbia,1
+THNO,Georgia,57
+THNO,Illinois,5
+THNO,Indiana,39
+THNO,Kentucky,48
+THNO,Louisiana,1
+THNO,Maine,16
+THNO,Maryland,14
+THNO,Massachusetts,14
+THNO,Michigan,0
+THNO,Mississippi,2
+THNO,New Hampshire,10
+THNO,New Jersey,20
+THNO,New York,60
+THNO,North Carolina,48
+THNO,Ohio,47
+THNO,Oklahoma,0
+THNO,Pennsylvania,67
+THNO,Rhode Island,5
+THNO,South Carolina,6
+THNO,Tennessee,60
+THNO,Vermont,14
+THNO,Virginia,100
+THNO,West Virginia,35
+THOC2,Connecticut,0
+THOC2,Illinois,5
+THOC2,Indiana,3
+THOC2,Iowa,0
+THOC2,Kentucky,5
+THOC2,Maine,16
+THOC2,Maryland,3
+THOC2,Massachusetts,8
+THOC2,Michigan,66
+THOC2,Minnesota,22
+THOC2,New Hampshire,8
+THOC2,New Jersey,5
+THOC2,New York,38
+THOC2,North Carolina,0
+THOC2,Ohio,3
+THOC2,Pennsylvania,9
+THOC2,Rhode Island,1
+THOC2,South Carolina,0
+THOC2,Tennessee,13
+THOC2,Vermont,13
+THOC2,Virginia,26
+THOC2,West Virginia,6
+THOC2,Wisconsin,47
+THPL,Alaska,1
+THPL,California,4
+THPL,Idaho,11
+THPL,Montana,5
+THPL,Oregon,20
+THPL,Washington,25
+THPO3,Florida,8
+THPO3,Hawaii,4
+TIAM,Alabama,46
+TIAM,Arkansas,62
+TIAM,Connecticut,0
+TIAM,Delaware,2
+TIAM,District of Columbia,1
+TIAM,Florida,31
+TIAM,Georgia,37
+TIAM,Illinois,94
+TIAM,Indiana,80
+TIAM,Iowa,20
+TIAM,Kansas,30
+TIAM,Kentucky,90
+TIAM,Louisiana,39
+TIAM,Maine,16
+TIAM,Maryland,0
+TIAM,Massachusetts,12
+TIAM,Michigan,72
+TIAM,Minnesota,65
+TIAM,Mississippi,19
+TIAM,Missouri,108
+TIAM,Nebraska,22
+TIAM,New Hampshire,10
+TIAM,New Jersey,17
+TIAM,New York,41
+TIAM,North Carolina,44
+TIAM,North Dakota,12
+TIAM,Ohio,87
+TIAM,Oklahoma,4
+TIAM,Pennsylvania,67
+TIAM,Rhode Island,4
+TIAM,South Carolina,24
+TIAM,South Dakota,11
+TIAM,Tennessee,55
+TIAM,Texas,29
+TIAM,Vermont,12
+TIAM,Virginia,71
+TIAM,West Virginia,48
+TIAM,Wisconsin,68
+TRAE,Alabama,9
+TRAE,Alaska,2
+TRAE,Arizona,5
+TRAE,Arkansas,17
+TRAE,California,28
+TRAE,Colorado,8
+TRAE,Connecticut,0
+TRAE,Delaware,1
+TRAE,District of Columbia,1
+TRAE,Florida,5
+TRAE,Georgia,2
+TRAE,Hawaii,0
+TRAE,Idaho,6
+TRAE,Illinois,55
+TRAE,Indiana,0
+TRAE,Iowa,0
+TRAE,Kansas,0
+TRAE,Kentucky,11
+TRAE,Louisiana,44
+TRAE,Maine,6
+TRAE,Maryland,0
+TRAE,Massachusetts,11
+TRAE,Michigan,22
+TRAE,Minnesota,8
+TRAE,Mississippi,7
+TRAE,Missouri,18
+TRAE,Montana,12
+TRAE,Nebraska,0
+TRAE,Nevada,7
+TRAE,New Hampshire,3
+TRAE,New Jersey,3
+TRAE,New Mexico,19
+TRAE,New York,25
+TRAE,North Carolina,19
+TRAE,Ohio,0
+TRAE,Oklahoma,0
+TRAE,Oregon,15
+TRAE,Pennsylvania,31
+TRAE,Rhode Island,1
+TRAE,South Carolina,5
+TRAE,South Dakota,0
+TRAE,Tennessee,29
+TRAE,Texas,24
+TRAE,Utah,12
+TRAE,Vermont,2
+TRAE,Virginia,1
+TRAE,Washington,9
+TRAE,West Virginia,0
+TRAE,Wisconsin,11
+TRAE,Wyoming,8
+TRIN3,Alabama,13
+TRIN3,Arkansas,54
+TRIN3,California,20
+TRIN3,Connecticut,0
+TRIN3,Delaware,0
+TRIN3,District of Columbia,1
+TRIN3,Florida,15
+TRIN3,Georgia,8
+TRIN3,Hawaii,1
+TRIN3,Idaho,2
+TRIN3,Illinois,8
+TRIN3,Iowa,0
+TRIN3,Kansas,0
+TRIN3,Kentucky,17
+TRIN3,Louisiana,52
+TRIN3,Maine,5
+TRIN3,Maryland,0
+TRIN3,Massachusetts,10
+TRIN3,Michigan,5
+TRIN3,Minnesota,3
+TRIN3,Mississippi,35
+TRIN3,Missouri,12
+TRIN3,Montana,0
+TRIN3,Nebraska,1
+TRIN3,New Hampshire,1
+TRIN3,New Jersey,10
+TRIN3,New Mexico,1
+TRIN3,New York,13
+TRIN3,North Carolina,28
+TRIN3,North Dakota,1
+TRIN3,Ohio,14
+TRIN3,Oklahoma,0
+TRIN3,Oregon,12
+TRIN3,Pennsylvania,20
+TRIN3,Rhode Island,2
+TRIN3,South Carolina,21
+TRIN3,South Dakota,1
+TRIN3,Tennessee,15
+TRIN3,Texas,26
+TRIN3,Vermont,1
+TRIN3,Virginia,37
+TRIN3,Washington,4
+TRIN3,West Virginia,9
+TRIN3,Wisconsin,2
+TRJA,Florida,3
+TRJA,Louisiana,11
+TRJA,Texas,1
+TRPR2,Alabama,10
+TRPR2,Alaska,10
+TRPR2,Arizona,3
+TRPR2,Arkansas,49
+TRPR2,California,32
+TRPR2,Colorado,17
+TRPR2,Connecticut,0
+TRPR2,Delaware,1
+TRPR2,District of Columbia,1
+TRPR2,Florida,9
+TRPR2,Georgia,10
+TRPR2,Hawaii,2
+TRPR2,Idaho,18
+TRPR2,Illinois,102
+TRPR2,Indiana,48
+TRPR2,Iowa,22
+TRPR2,Kansas,49
+TRPR2,Kentucky,78
+TRPR2,Louisiana,48
+TRPR2,Maine,13
+TRPR2,Maryland,1
+TRPR2,Massachusetts,14
+TRPR2,Michigan,65
+TRPR2,Minnesota,72
+TRPR2,Mississippi,19
+TRPR2,Missouri,97
+TRPR2,Montana,41
+TRPR2,Nebraska,35
+TRPR2,Nevada,6
+TRPR2,New Hampshire,10
+TRPR2,New Jersey,19
+TRPR2,New Mexico,15
+TRPR2,New York,34
+TRPR2,North Carolina,90
+TRPR2,North Dakota,18
+TRPR2,Ohio,74
+TRPR2,Oklahoma,10
+TRPR2,Oregon,25
+TRPR2,Pennsylvania,66
+TRPR2,Rhode Island,4
+TRPR2,South Carolina,28
+TRPR2,South Dakota,14
+TRPR2,Tennessee,42
+TRPR2,Texas,8
+TRPR2,Utah,29
+TRPR2,Vermont,13
+TRPR2,Virginia,100
+TRPR2,Washington,26
+TRPR2,West Virginia,50
+TRPR2,Wisconsin,68
+TRPR2,Wyoming,16
+TRRE3,Alabama,10
+TRRE3,Alaska,16
+TRRE3,Arizona,8
+TRRE3,Arkansas,52
+TRRE3,California,45
+TRRE3,Colorado,28
+TRRE3,Connecticut,0
+TRRE3,Delaware,2
+TRRE3,District of Columbia,1
+TRRE3,Florida,38
+TRRE3,Georgia,11
+TRRE3,Hawaii,3
+TRRE3,Idaho,24
+TRRE3,Illinois,102
+TRRE3,Indiana,36
+TRRE3,Iowa,10
+TRRE3,Kansas,68
+TRRE3,Kentucky,70
+TRRE3,Louisiana,63
+TRRE3,Maine,16
+TRRE3,Maryland,0
+TRRE3,Massachusetts,14
+TRRE3,Michigan,63
+TRRE3,Minnesota,63
+TRRE3,Mississippi,25
+TRRE3,Missouri,82
+TRRE3,Montana,44
+TRRE3,Nebraska,29
+TRRE3,Nevada,13
+TRRE3,New Hampshire,10
+TRRE3,New Jersey,18
+TRRE3,New Mexico,17
+TRRE3,New York,27
+TRRE3,North Carolina,85
+TRRE3,North Dakota,22
+TRRE3,Ohio,77
+TRRE3,Oklahoma,13
+TRRE3,Oregon,33
+TRRE3,Pennsylvania,66
+TRRE3,Rhode Island,4
+TRRE3,South Carolina,31
+TRRE3,South Dakota,4
+TRRE3,Tennessee,28
+TRRE3,Texas,40
+TRRE3,Utah,24
+TRRE3,Vermont,11
+TRRE3,Virginia,95
+TRRE3,Washington,29
+TRRE3,West Virginia,42
+TRRE3,Wisconsin,58
+TRRE3,Wyoming,21
+TRSU3,California,21
+TRSU3,Florida,0
+TRSU3,Georgia,1
+TRSU3,Hawaii,1
+TRSU3,Louisiana,6
+TRSU3,Massachusetts,1
+TRSU3,Mississippi,0
+TRSU3,New Jersey,0
+TRSU3,North Carolina,0
+TRSU3,Oregon,13
+TRSU3,South Carolina,0
+TRSU3,Texas,2
+TRSU3,Washington,6
+TRVE,Alabama,4
+TRVE,Arkansas,15
+TRVE,California,3
+TRVE,Florida,10
+TRVE,Georgia,7
+TRVE,Louisiana,26
+TRVE,Mississippi,9
+TRVE,Oklahoma,0
+TRVE,Oregon,7
+TRVE,South Carolina,4
+TRVE,Texas,8
+TRVE,Virginia,0
+TRVE,Washington,1
+TSCA,Alabama,14
+TSCA,Connecticut,0
+TSCA,Delaware,1
+TSCA,District of Columbia,1
+TSCA,Georgia,7
+TSCA,Indiana,12
+TSCA,Kentucky,53
+TSCA,Maine,12
+TSCA,Maryland,7
+TSCA,Massachusetts,12
+TSCA,Michigan,60
+TSCA,Minnesota,1
+TSCA,Missouri,1
+TSCA,New Hampshire,10
+TSCA,New Jersey,16
+TSCA,New York,41
+TSCA,North Carolina,24
+TSCA,Ohio,4
+TSCA,Pennsylvania,67
+TSCA,Rhode Island,1
+TSCA,South Carolina,3
+TSCA,Tennessee,23
+TSCA,Vermont,12
+TSCA,Virginia,63
+TSCA,West Virginia,40
+TSCA,Wisconsin,40
+ULCR,Arkansas,40
+ULCR,Florida,9
+ULCR,Louisiana,37
+ULCR,Mississippi,8
+ULCR,Missouri,1
+ULCR,Oklahoma,18
+ULCR,Tennessee,2
+ULCR,Texas,43
+ULPA,Arizona,1
+ULPA,Arkansas,0
+ULPA,California,6
+ULPA,Colorado,1
+ULPA,District of Columbia,1
+ULPA,Florida,2
+ULPA,Georgia,0
+ULPA,Kentucky,4
+ULPA,Louisiana,8
+ULPA,Maine,0
+ULPA,Maryland,0
+ULPA,Massachusetts,2
+ULPA,Nevada,3
+ULPA,New Jersey,0
+ULPA,North Carolina,0
+ULPA,Ohio,3
+ULPA,Oklahoma,13
+ULPA,Pennsylvania,0
+ULPA,Virginia,7
+ULPA,West Virginia,0
+ULPU,Alabama,0
+ULPU,Arizona,3
+ULPU,Arkansas,8
+ULPU,California,7
+ULPU,Colorado,12
+ULPU,Connecticut,0
+ULPU,Florida,0
+ULPU,Georgia,0
+ULPU,Idaho,17
+ULPU,Illinois,34
+ULPU,Indiana,0
+ULPU,Iowa,1
+ULPU,Kansas,105
+ULPU,Kentucky,14
+ULPU,Louisiana,0
+ULPU,Maryland,0
+ULPU,Massachusetts,8
+ULPU,Michigan,16
+ULPU,Minnesota,24
+ULPU,Missouri,4
+ULPU,Montana,4
+ULPU,Nebraska,8
+ULPU,Nevada,4
+ULPU,New Hampshire,1
+ULPU,New Jersey,10
+ULPU,New Mexico,17
+ULPU,New York,19
+ULPU,North Carolina,0
+ULPU,North Dakota,18
+ULPU,Ohio,4
+ULPU,Oklahoma,33
+ULPU,Oregon,7
+ULPU,Pennsylvania,9
+ULPU,Rhode Island,1
+ULPU,South Dakota,6
+ULPU,Tennessee,4
+ULPU,Texas,3
+ULPU,Utah,11
+ULPU,Vermont,0
+ULPU,Virginia,7
+ULPU,Washington,4
+ULPU,West Virginia,0
+ULPU,Wisconsin,25
+ULPU,Wyoming,9
+UMCA,California,49
+UMCA,Oregon,8
+UNPA,Alabama,2
+UNPA,Delaware,0
+UNPA,Florida,23
+UNPA,Georgia,5
+UNPA,Louisiana,7
+UNPA,Maryland,0
+UNPA,Mississippi,3
+UNPA,North Carolina,6
+UNPA,South Carolina,4
+UNPA,Texas,10
+UNPA,Virginia,5
+VACO,Alabama,24
+VACO,Arkansas,0
+VACO,Connecticut,0
+VACO,Delaware,3
+VACO,District of Columbia,1
+VACO,Florida,1
+VACO,Georgia,66
+VACO,Illinois,7
+VACO,Indiana,16
+VACO,Kentucky,35
+VACO,Louisiana,9
+VACO,Maine,15
+VACO,Maryland,2
+VACO,Massachusetts,14
+VACO,Michigan,33
+VACO,Mississippi,2
+VACO,New Hampshire,10
+VACO,New Jersey,20
+VACO,New York,49
+VACO,North Carolina,42
+VACO,Ohio,24
+VACO,Oklahoma,0
+VACO,Pennsylvania,61
+VACO,Rhode Island,5
+VACO,South Carolina,21
+VACO,Tennessee,45
+VACO,Texas,22
+VACO,Vermont,8
+VACO,Virginia,79
+VACO,Washington,2
+VACO,West Virginia,7
+VACO,Wisconsin,1
+VEAM2,Alaska,16
+VEAM2,Arizona,8
+VEAM2,Arkansas,1
+VEAM2,California,45
+VEAM2,Colorado,36
+VEAM2,Connecticut,0
+VEAM2,Delaware,1
+VEAM2,Idaho,32
+VEAM2,Illinois,7
+VEAM2,Indiana,1
+VEAM2,Iowa,1
+VEAM2,Kansas,6
+VEAM2,Kentucky,4
+VEAM2,Maine,12
+VEAM2,Maryland,0
+VEAM2,Massachusetts,7
+VEAM2,Michigan,0
+VEAM2,Minnesota,24
+VEAM2,Missouri,2
+VEAM2,Montana,17
+VEAM2,Nebraska,13
+VEAM2,Nevada,17
+VEAM2,New Hampshire,6
+VEAM2,New Jersey,13
+VEAM2,New Mexico,11
+VEAM2,New York,46
+VEAM2,North Carolina,4
+VEAM2,North Dakota,8
+VEAM2,Ohio,31
+VEAM2,Oklahoma,1
+VEAM2,Oregon,31
+VEAM2,Pennsylvania,60
+VEAM2,Rhode Island,0
+VEAM2,South Carolina,0
+VEAM2,South Dakota,7
+VEAM2,Tennessee,4
+VEAM2,Texas,0
+VEAM2,Utah,29
+VEAM2,Vermont,12
+VEAM2,Virginia,31
+VEAM2,Washington,35
+VEAM2,West Virginia,22
+VEAM2,Wisconsin,34
+VEAM2,Wyoming,20
+VECA2,Arizona,5
+VECA2,California,31
+VECA2,Idaho,16
+VECA2,Montana,7
+VECA2,Nevada,10
+VECA2,New Mexico,10
+VECA2,Oregon,29
+VECA2,Utah,17
+VECA2,Washington,22
+VECA2,Wyoming,2
+VENO,Alabama,3
+VENO,Connecticut,0
+VENO,Delaware,1
+VENO,District of Columbia,1
+VENO,Florida,7
+VENO,Georgia,22
+VENO,Kentucky,9
+VENO,Maryland,1
+VENO,Massachusetts,8
+VENO,New Hampshire,1
+VENO,New Jersey,17
+VENO,New Mexico,1
+VENO,New York,14
+VENO,North Carolina,75
+VENO,Ohio,1
+VENO,Pennsylvania,53
+VENO,Rhode Island,2
+VENO,South Carolina,26
+VENO,Tennessee,13
+VENO,Virginia,88
+VENO,West Virginia,24
+VEWO2,Alaska,20
+VEWO2,Arizona,2
+VEWO2,California,18
+VEWO2,Colorado,29
+VEWO2,Idaho,9
+VEWO2,Maine,1
+VEWO2,Montana,12
+VEWO2,Nevada,2
+VEWO2,New Hampshire,1
+VEWO2,New Mexico,6
+VEWO2,Oregon,15
+VEWO2,Utah,17
+VEWO2,Washington,14
+VEWO2,Wyoming,12
+VEZI80,Louisiana,5
+VEZI80,Texas,2
+VIAC,Alabama,12
+VIAC,Arkansas,1
+VIAC,Connecticut,0
+VIAC,Delaware,2
+VIAC,District of Columbia,1
+VIAC,Florida,6
+VIAC,Georgia,33
+VIAC,Illinois,12
+VIAC,Indiana,62
+VIAC,Kentucky,63
+VIAC,Louisiana,12
+VIAC,Maine,13
+VIAC,Maryland,0
+VIAC,Massachusetts,12
+VIAC,Michigan,70
+VIAC,Mississippi,2
+VIAC,New Hampshire,10
+VIAC,New Jersey,20
+VIAC,New York,50
+VIAC,North Carolina,51
+VIAC,Ohio,69
+VIAC,Pennsylvania,67
+VIAC,Rhode Island,3
+VIAC,South Carolina,13
+VIAC,Tennessee,40
+VIAC,Texas,11
+VIAC,Vermont,7
+VIAC,Virginia,89
+VIAC,West Virginia,45
+VIAC,Wisconsin,53
+VILA,Colorado,2
+VILA,Connecticut,0
+VILA,Illinois,4
+VILA,Indiana,0
+VILA,Iowa,0
+VILA,Kentucky,3
+VILA,Maine,1
+VILA,Maryland,0
+VILA,Massachusetts,3
+VILA,Michigan,7
+VILA,Montana,1
+VILA,New Jersey,3
+VILA,New York,9
+VILA,Ohio,6
+VILA,Pennsylvania,2
+VILA,Vermont,0
+VILA,Virginia,1
+VILA,Washington,3
+VILA,Wisconsin,11
+VILA,Wyoming,1
+VILA11,Connecticut,0
+VILA11,Georgia,1
+VILA11,Kentucky,1
+VILA11,Maine,16
+VILA11,Maryland,0
+VILA11,Massachusetts,10
+VILA11,New Hampshire,10
+VILA11,New Jersey,2
+VILA11,New York,38
+VILA11,North Carolina,14
+VILA11,Ohio,6
+VILA11,Pennsylvania,38
+VILA11,Rhode Island,1
+VILA11,Tennessee,6
+VILA11,Vermont,13
+VILA11,Virginia,14
+VILA11,West Virginia,11
+VILE,Alabama,0
+VILE,Colorado,2
+VILE,Connecticut,0
+VILE,Georgia,0
+VILE,Illinois,38
+VILE,Indiana,36
+VILE,Iowa,11
+VILE,Kentucky,1
+VILE,Maine,15
+VILE,Maryland,2
+VILE,Massachusetts,11
+VILE,Michigan,65
+VILE,Minnesota,57
+VILE,Missouri,1
+VILE,Montana,0
+VILE,Nebraska,6
+VILE,New Hampshire,10
+VILE,New Jersey,12
+VILE,New York,44
+VILE,North Dakota,31
+VILE,Ohio,49
+VILE,Pennsylvania,45
+VILE,Rhode Island,4
+VILE,South Dakota,11
+VILE,Vermont,12
+VILE,Virginia,4
+VILE,West Virginia,9
+VILE,Wisconsin,61
+VILE,Wyoming,3
+VIMI2,Alabama,0
+VIMI2,Arizona,0
+VIMI2,Arkansas,16
+VIMI2,Connecticut,0
+VIMI2,Delaware,0
+VIMI2,District of Columbia,1
+VIMI2,Florida,1
+VIMI2,Georgia,3
+VIMI2,Illinois,36
+VIMI2,Indiana,6
+VIMI2,Iowa,0
+VIMI2,Kansas,1
+VIMI2,Kentucky,49
+VIMI2,Louisiana,4
+VIMI2,Maine,6
+VIMI2,Maryland,0
+VIMI2,Massachusetts,12
+VIMI2,Michigan,33
+VIMI2,Minnesota,0
+VIMI2,Mississippi,1
+VIMI2,Missouri,20
+VIMI2,Montana,0
+VIMI2,Nebraska,1
+VIMI2,New Hampshire,4
+VIMI2,New Jersey,14
+VIMI2,New York,25
+VIMI2,North Carolina,14
+VIMI2,Ohio,56
+VIMI2,Oregon,7
+VIMI2,Pennsylvania,51
+VIMI2,Rhode Island,4
+VIMI2,South Carolina,0
+VIMI2,Tennessee,24
+VIMI2,Texas,1
+VIMI2,Utah,4
+VIMI2,Vermont,6
+VIMI2,Virginia,70
+VIMI2,Washington,3
+VIMI2,West Virginia,37
+VIMI2,Wisconsin,13
+VINUC,Alabama,3
+VINUC,Connecticut,0
+VINUC,Delaware,1
+VINUC,District of Columbia,1
+VINUC,Georgia,0
+VINUC,Illinois,0
+VINUC,Indiana,5
+VINUC,Kentucky,15
+VINUC,Maine,16
+VINUC,Maryland,0
+VINUC,Massachusetts,14
+VINUC,Michigan,54
+VINUC,New Hampshire,10
+VINUC,New Jersey,13
+VINUC,New York,40
+VINUC,North Carolina,25
+VINUC,Ohio,14
+VINUC,Pennsylvania,48
+VINUC,Rhode Island,4
+VINUC,South Carolina,4
+VINUC,Tennessee,21
+VINUC,Vermont,12
+VINUC,Virginia,25
+VINUC,West Virginia,16
+VINUC,Wisconsin,4
+VIOP,Connecticut,0
+VIOP,Idaho,4
+VIOP,Illinois,29
+VIOP,Indiana,9
+VIOP,Iowa,2
+VIOP,Kentucky,10
+VIOP,Maine,15
+VIOP,Maryland,0
+VIOP,Massachusetts,11
+VIOP,Michigan,55
+VIOP,Minnesota,50
+VIOP,Missouri,0
+VIOP,Montana,1
+VIOP,Nebraska,1
+VIOP,New Hampshire,10
+VIOP,New Jersey,12
+VIOP,New Mexico,1
+VIOP,New York,47
+VIOP,North Dakota,13
+VIOP,Ohio,24
+VIOP,Pennsylvania,26
+VIOP,Rhode Island,1
+VIOP,South Dakota,3
+VIOP,Tennessee,0
+VIOP,Vermont,11
+VIOP,Virginia,2
+VIOP,Washington,8
+VIOP,West Virginia,6
+VIOP,Wisconsin,54
+VIOP,Wyoming,1
+VIPR,Alabama,5
+VIPR,Arkansas,28
+VIPR,Connecticut,0
+VIPR,Delaware,2
+VIPR,District of Columbia,1
+VIPR,Georgia,22
+VIPR,Illinois,84
+VIPR,Indiana,73
+VIPR,Iowa,1
+VIPR,Kansas,13
+VIPR,Kentucky,106
+VIPR,Louisiana,17
+VIPR,Maryland,0
+VIPR,Michigan,7
+VIPR,Mississippi,8
+VIPR,Missouri,100
+VIPR,New Jersey,17
+VIPR,New York,15
+VIPR,North Carolina,53
+VIPR,Ohio,69
+VIPR,Oklahoma,3
+VIPR,Pennsylvania,45
+VIPR,South Carolina,18
+VIPR,Tennessee,37
+VIPR,Texas,1
+VIPR,Virginia,98
+VIPR,West Virginia,35
+VIPR,Wisconsin,5
+VIRA4,Virginia,1
+VIRE7,Alabama,0
+VIRE7,Arkansas,5
+VIRE7,Connecticut,0
+VIRE7,Delaware,3
+VIRE7,District of Columbia,1
+VIRE7,Florida,0
+VIRE7,Georgia,0
+VIRE7,Illinois,39
+VIRE7,Indiana,0
+VIRE7,Kentucky,12
+VIRE7,Louisiana,0
+VIRE7,Maine,0
+VIRE7,Maryland,0
+VIRE7,Massachusetts,14
+VIRE7,Michigan,13
+VIRE7,Mississippi,0
+VIRE7,Missouri,1
+VIRE7,New Hampshire,10
+VIRE7,New Jersey,13
+VIRE7,New York,39
+VIRE7,North Carolina,43
+VIRE7,Ohio,28
+VIRE7,Pennsylvania,61
+VIRE7,Rhode Island,0
+VIRE7,South Carolina,21
+VIRE7,Tennessee,0
+VIRE7,Texas,8
+VIRE7,Vermont,6
+VIRE7,Virginia,1
+VIRE7,West Virginia,20
+VIRE7,Wisconsin,5
+VISO,Alabama,28
+VISO,Arkansas,50
+VISO,Connecticut,0
+VISO,Delaware,2
+VISO,District of Columbia,1
+VISO,Florida,42
+VISO,Georgia,29
+VISO,Illinois,102
+VISO,Indiana,71
+VISO,Iowa,18
+VISO,Kansas,25
+VISO,Kentucky,95
+VISO,Louisiana,54
+VISO,Maine,16
+VISO,Maryland,0
+VISO,Massachusetts,14
+VISO,Michigan,68
+VISO,Minnesota,74
+VISO,Mississippi,37
+VISO,Missouri,110
+VISO,Nebraska,20
+VISO,New Hampshire,10
+VISO,New Jersey,17
+VISO,New York,61
+VISO,North Carolina,79
+VISO,North Dakota,0
+VISO,Ohio,87
+VISO,Oklahoma,17
+VISO,Pennsylvania,65
+VISO,Rhode Island,4
+VISO,South Carolina,21
+VISO,South Dakota,3
+VISO,Tennessee,67
+VISO,Texas,63
+VISO,Vermont,14
+VISO,Virginia,11
+VISO,West Virginia,53
+VISO,Wisconsin,67
+WIFR,Alabama,27
+WIFR,Arkansas,41
+WIFR,Connecticut,0
+WIFR,Delaware,0
+WIFR,Florida,23
+WIFR,Georgia,26
+WIFR,Illinois,16
+WIFR,Indiana,6
+WIFR,Iowa,0
+WIFR,Kentucky,40
+WIFR,Louisiana,38
+WIFR,Maryland,0
+WIFR,Massachusetts,2
+WIFR,Michigan,1
+WIFR,Mississippi,20
+WIFR,Missouri,12
+WIFR,New Jersey,8
+WIFR,New York,6
+WIFR,North Carolina,20
+WIFR,Ohio,1
+WIFR,Oklahoma,0
+WIFR,Pennsylvania,6
+WIFR,Rhode Island,0
+WIFR,South Carolina,23
+WIFR,Tennessee,38
+WIFR,Texas,12
+WIFR,Virginia,11
+WIFR,West Virginia,3
+ZEMA,Alabama,0
+ZEMA,Arizona,0
+ZEMA,Arkansas,0
+ZEMA,California,1
+ZEMA,Colorado,0
+ZEMA,Connecticut,0
+ZEMA,Florida,6
+ZEMA,Georgia,0
+ZEMA,Idaho,0
+ZEMA,Illinois,19
+ZEMA,Indiana,0
+ZEMA,Iowa,0
+ZEMA,Kansas,0
+ZEMA,Kentucky,0
+ZEMA,Louisiana,28
+ZEMA,Maine,1
+ZEMA,Maryland,0
+ZEMA,Massachusetts,7
+ZEMA,Michigan,3
+ZEMA,Minnesota,1
+ZEMA,Mississippi,1
+ZEMA,Missouri,8
+ZEMA,Montana,0
+ZEMA,Nebraska,0
+ZEMA,Nevada,0
+ZEMA,New Hampshire,3
+ZEMA,New Jersey,3
+ZEMA,New Mexico,3
+ZEMA,New York,12
+ZEMA,North Carolina,4
+ZEMA,Ohio,6
+ZEMA,Oregon,0
+ZEMA,Pennsylvania,23
+ZEMA,Rhode Island,0
+ZEMA,South Carolina,1
+ZEMA,Tennessee,0
+ZEMA,Texas,2
+ZEMA,Utah,1
+ZEMA,Vermont,2
+ZEMA,Virginia,0
+ZEMA,Washington,0
+ZEMA,West Virginia,0
+ZEMA,Wisconsin,13
+ZEMA,Wyoming,1
+ZESE80,Georgia,0
+ZESE80,New York,2
+ZESE80,Ohio,1
+ZESE80,Pennsylvania,0
+ZIMI,Alabama,10
+ZIMI,Arkansas,16
+ZIMI,Florida,18
+ZIMI,Georgia,8
+ZIMI,Illinois,1
+ZIMI,Kentucky,5
+ZIMI,Louisiana,52
+ZIMI,Maryland,2
+ZIMI,Mississippi,7
+ZIMI,Missouri,7
+ZIMI,North Carolina,19
+ZIMI,Oklahoma,0
+ZIMI,South Carolina,9
+ZIMI,Tennessee,9
+ZIMI,Texas,45
+ZIMI,Virginia,21
